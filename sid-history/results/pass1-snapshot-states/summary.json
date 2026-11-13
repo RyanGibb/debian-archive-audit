@@ -1,0 +1,34 @@
+{
+ "last_position": "20261106T082430Z",
+ "meta": {
+  "states": 19492,
+  "verified": {
+   "sha256": 74635,
+   "sha1": 0,
+   "md5": 0,
+   "none": 0
+  },
+  "method": {
+   "S": 55,
+   "P": 74580
+  },
+  "requests0": 0
+ },
+ "stanzas_scanned": 5848639,
+ "counts": {
+  "C1-provides-qualified": 6,
+  "C4-qual-all": 2
+ },
+ "any_atoms_CBR_by_field_stanza_level": {
+  "Conflicts": 610,
+  "Replaces": 3050
+ },
+ "any_atoms_CBR_by_field_distinct_pkg_ver_atom": {
+  "Replaces": 1020,
+  "Conflicts": 204
+ },
+ "explicit_qual_neg_atoms_by_field": {
+  "Conflicts": 22571
+ },
+ "explicit_qual_neg_atoms_with_provider_by_field": {}
+}

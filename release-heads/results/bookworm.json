@@ -1,0 +1,131 @@
+{
+ "counts": {
+  "Essential:yes": 65,
+  "Important:yes": 12,
+  "Protected:yes": 9,
+  "essential_stanzas": 65,
+  "ma:allowed": 790,
+  "ma:foreign": 15564,
+  "ma:same": 34598,
+  "multi_version_keys": 6,
+  "qual:Conflicts:any": 2,
+  "qual:Conflicts:explicit": 8,
+  "qual:Depends:any": 12831,
+  "qual:Depends:explicit": 36,
+  "qual:Recommends:any": 66,
+  "qual:Recommends:explicit": 26,
+  "qual:Replaces:any": 10,
+  "qual:Suggests:any": 22,
+  "qual_unconf:Conflicts:x32": 4,
+  "qual_unconf:Depends:armel": 3,
+  "qual_unconf:Depends:armhf": 3,
+  "qual_unconf:Depends:mips": 2,
+  "qual_unconf:Depends:mips64": 2,
+  "qual_unconf:Depends:mips64el": 2,
+  "qual_unconf:Depends:mips64r6": 2,
+  "qual_unconf:Depends:mips64r6el": 2,
+  "qual_unconf:Depends:mipsel": 2,
+  "qual_unconf:Depends:mipsr6": 2,
+  "qual_unconf:Depends:mipsr6el": 2,
+  "qual_unconf:Depends:powerpc": 2,
+  "qual_unconf:Depends:ppc64el": 2,
+  "qual_unconf:Depends:s390x": 2,
+  "qual_unconf:Recommends:armhf": 3,
+  "self_conflict_name:Breaks": 47,
+  "self_conflict_name:Conflicts": 102,
+  "self_conflict_virtual:Breaks": 1257,
+  "self_conflict_virtual:Conflicts": 2296,
+  "stanzas": 128332
+ },
+ "examples": {
+  "qual_unconf:Conflicts:x32": [
+   "libc6-i386 2.36-9+deb12u14 amd64: libc6-i386:x32",
+   "libc6-x32 2.36-9+deb12u14 amd64: libc6-i386:x32",
+   "libc6-amd64 2.36-9+deb12u14 i386: libc6-amd64:x32",
+   "libc6-x32 2.36-9+deb12u14 i386: libc6-amd64:x32"
+  ],
+  "qual_unconf:Depends:armel": [
+   "crossbuild-essential-armel 12.9 all: gcc:armel",
+   "crossbuild-essential-armel 12.9 all: g++:armel",
+   "wine64-tools 8.0~repack-4 arm64: libwine-dev:armel (= 8.0~repack-4)"
+  ],
+  "qual_unconf:Depends:armhf": [
+   "crossbuild-essential-armhf 12.9 all: gcc:armhf",
+   "crossbuild-essential-armhf 12.9 all: g++:armhf",
+   "wine64-tools 8.0~repack-4 arm64: libwine-dev:armhf (= 8.0~repack-4)"
+  ],
+  "qual_unconf:Depends:mips": [
+   "crossbuild-essential-mips 12.9 all: gcc:mips",
+   "crossbuild-essential-mips 12.9 all: g++:mips"
+  ],
+  "qual_unconf:Depends:mips64": [
+   "crossbuild-essential-mips64 12.9 all: gcc:mips64",
+   "crossbuild-essential-mips64 12.9 all: g++:mips64"
+  ],
+  "qual_unconf:Depends:mips64el": [
+   "crossbuild-essential-mips64el 12.9 all: gcc:mips64el",
+   "crossbuild-essential-mips64el 12.9 all: g++:mips64el"
+  ],
+  "qual_unconf:Depends:mips64r6": [
+   "crossbuild-essential-mips64r6 12.9 all: gcc:mips64r6",
+   "crossbuild-essential-mips64r6 12.9 all: g++:mips64r6"
+  ],
+  "qual_unconf:Depends:mips64r6el": [
+   "crossbuild-essential-mips64r6el 12.9 all: gcc:mips64r6el",
+   "crossbuild-essential-mips64r6el 12.9 all: g++:mips64r6el"
+  ],
+  "qual_unconf:Depends:mipsel": [
+   "crossbuild-essential-mipsel 12.9 all: gcc:mipsel",
+   "crossbuild-essential-mipsel 12.9 all: g++:mipsel"
+  ],
+  "qual_unconf:Depends:mipsr6": [
+   "crossbuild-essential-mipsr6 12.9 all: gcc:mipsr6",
+   "crossbuild-essential-mipsr6 12.9 all: g++:mipsr6"
+  ],
+  "qual_unconf:Depends:mipsr6el": [
+   "crossbuild-essential-mipsr6el 12.9 all: gcc:mipsr6el",
+   "crossbuild-essential-mipsr6el 12.9 all: g++:mipsr6el"
+  ],
+  "qual_unconf:Depends:powerpc": [
+   "crossbuild-essential-powerpc 12.9 all: gcc:powerpc",
+   "crossbuild-essential-powerpc 12.9 all: g++:powerpc"
+  ],
+  "qual_unconf:Depends:ppc64el": [
+   "crossbuild-essential-ppc64el 12.9 all: gcc:ppc64el",
+   "crossbuild-essential-ppc64el 12.9 all: g++:ppc64el"
+  ],
+  "qual_unconf:Depends:s390x": [
+   "crossbuild-essential-s390x 12.9 all: gcc:s390x",
+   "crossbuild-essential-s390x 12.9 all: g++:s390x"
+  ],
+  "qual_unconf:Recommends:armhf": [
+   "sunxi-tools 1.4.2+git20221128.530adf-2 amd64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20221128.530adf-2 arm64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20221128.530adf-2 i386: u-boot-sunxi:armhf"
+  ],
+  "self_conflict_name:Breaks": [
+   "chemical-structures 2.2.dfsg.0-20 all: chemical-structures (<< 2.2.dfsg.0-17)",
+   "freecad 0.20.2+dfsg1-4 all: freecad (<< 0.18)",
+   "freeradius-config 3.2.1+dfsg-4+deb12u1 amd64: freeradius-config",
+   "libfreerdp-client2-2 2.11.7+dfsg1-6~deb12u1 amd64: libfreerdp-client2-2 (<< 2.11.7+dfsg1-6~deb12u1)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-3 all: crafty-books-medium",
+   "libantic-dev 0.2.5+ds-1+b2 amd64: libantic-dev",
+   "apertium-spa-ast 1.1.1-2 all: apertium-spa-ast",
+   "bcron 0.11-19 amd64: bcron (<< 0.11-10)"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "389-ds-base-dev 2.3.1+dfsg1-1+deb12u1 amd64: libsvrcore-dev",
+   "ack 3.6.0-1 all: ack-grep (<= 2.14-5~)",
+   "node-acorn 8.8.1+ds+~cs25.17.7-2 all: node-acorn-dynamic-import (<< 4.0.0~)",
+   "node-acorn 8.8.1+ds+~cs25.17.7-2 all: node-acorn-jsx (<< 5.0.0~)"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "bart-cuda 0.8.00-2 amd64: bart",
+   "festvox-rablpc16k 2.4-1 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-3 all: festvox-8k",
+   "nvidia-open-kernel-support 535.261.03-1 amd64: nvidia-open-kernel-support-535.261.03"
+  ]
+ }
+}

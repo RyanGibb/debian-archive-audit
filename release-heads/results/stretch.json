@@ -1,0 +1,70 @@
+{
+ "counts": {
+  "Essential:yes": 71,
+  "Important:yes": 3,
+  "essential_stanzas": 71,
+  "ma:allowed": 189,
+  "ma:foreign": 5515,
+  "ma:same": 17319,
+  "multi_version_keys": 230,
+  "qual:Depends:any": 11238,
+  "qual:Depends:explicit": 11,
+  "qual:Recommends:any": 26,
+  "qual:Recommends:explicit": 14,
+  "qual:Suggests:any": 3,
+  "qual:Suggests:explicit": 3,
+  "qual_unconf:Depends:armel": 2,
+  "qual_unconf:Depends:armhf": 2,
+  "qual_unconf:Recommends:armhf": 3,
+  "qual_unconf:Suggests:armhf": 3,
+  "self_conflict_name:Breaks": 10,
+  "self_conflict_name:Conflicts": 86,
+  "self_conflict_virtual:Breaks": 1192,
+  "self_conflict_virtual:Conflicts": 2591,
+  "stanzas": 103383
+ },
+ "examples": {
+  "qual_unconf:Depends:armel": [
+   "wine64-tools 1.8.7-2 arm64: libwine-dev:armel (= 1.8.7-2)",
+   "wine64-development-tools 2.0-3+b2 arm64: libwine-development-dev:armel (= 2.0-3+b2)"
+  ],
+  "qual_unconf:Depends:armhf": [
+   "wine64-tools 1.8.7-2 arm64: libwine-dev:armhf (= 1.8.7-2)",
+   "wine64-development-tools 2.0-3+b2 arm64: libwine-development-dev:armhf (= 2.0-3+b2)"
+  ],
+  "qual_unconf:Recommends:armhf": [
+   "sunxi-tools 1.4.1-1 amd64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.1-1 arm64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.1-1 i386: u-boot-sunxi:armhf"
+  ],
+  "qual_unconf:Suggests:armhf": [
+   "vmdebootstrap 1.7-1 amd64: u-boot:armhf",
+   "vmdebootstrap 1.7-1 arm64: u-boot:armhf",
+   "vmdebootstrap 1.7-1 i386: u-boot:armhf"
+  ],
+  "self_conflict_name:Breaks": [
+   "freeradius-config 3.0.12+dfsg-5+deb9u1 amd64: freeradius-config",
+   "gdal-bin 2.1.2+dfsg-5 amd64: gdal-bin (<< 1.10.0-0~)",
+   "openobex-apps 1.7.2-1 amd64: openobex-apps (<< 1.7.1-4)",
+   "mobyle-programs 5.1.2-1 all: mobyle-programs (<< 4.0-1)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-2 all: crafty-books-medium",
+   "automake 1:1.15-6 all: automake (<< 1:1.4-p5-1)",
+   "libbluetooth-dev 5.43-2+deb9u2 amd64: libbluetooth-dev",
+   "bonnie++ 1.97.3 amd64: bonnie++"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "pidgin-skype-common 20140930+svn665+dfsg-1 amd64: skype4pidgin",
+   "pidgin-skype-common 20140930+svn665+dfsg-1 i386: skype4pidgin",
+   "ack 2.14-5 all: ack-grep (<= 2.14-5~)",
+   "acpica-tools 20160831-1+b1 amd64: acpidump (<< 20100513-4)"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "festvox-rablpc16k 1.4.0-3 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-3 all: festvox-8k",
+   "geoip-database-contrib 1.19 all: geoip-database",
+   "geoip-database-contrib 1.19 all: geoip-database-extra"
+  ]
+ }
+}

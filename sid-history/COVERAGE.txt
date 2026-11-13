@@ -1,0 +1,45 @@
+Coverage notes: sid binary Packages, snapshot.debian.org, 20120101T033042Z..20261106T082430Z
+
+States
+- 19,492 snapshot timestamps (every one listed by snapshot's monthly index pages); all 19,492 processed,
+  each with all present (component, arch) files; 0 timestamps lacked a sid Release; 0 gaps.
+- Snapshot timestamps per year: 2012 1439, 2013 1456, 2014 1418, 2015 1427, 2016 1409, 2017 1180,
+  2018 1198, 2019 1384, 2020 1443, 2021 1436, 2022 1178, 2023 664, 2024 1202, 2025 1421, 2026 1237.
+- Dinstall states between snapshots (not held by snapshot as a timestamp, reconstructed from the
+  unmerged pdiff chain and verified against the Index SHA256/SHA1-History): 1,979 in the replay
+  (final-all-states/intermediate.tsv, 6,704 file-states, all verified) plus 30 main dinstall states
+  recovered in fill-hidden-dinstall-states/ and fill-yearend-windows/ (2015-12-08/09: 3,
+  2019-09-03..08: 18, 2021-12-27..31: 9) and the year-end steps of 2017/2022/2023.
+  Cached main/amd64 Index histories name 21,270 dinstalls in the period; counting them per snapshot
+  interval gives ~2,006 dinstall states not held as snapshots, vs 1,979 + 30 = 2,009 scanned (the
+  small excess is labelling at interval edges). No known dinstall state is left unscanned.
+
+Per stream (first..last timestamp; S = seeded from full file, P = pdiff, = unchanged), final run:
+  main/amd64, main/i386, contrib/*, non-free/* (amd64,i386): 20120101T033042Z..20261106T082430Z
+  */arm64: 20140802T103238Z..20261106T082430Z (first sid Release listing arm64 in snapshot)
+  non-free-firmware/*: 20220719T025851Z..20261106T082430Z (component first appears)
+  (counts in final-all-states/coverage_summary.txt)
+
+Verification
+- Pass 1 (online): 74,635 changed file-states, all matched the sid Release SHA256 (74,580 pdiff, 55 full).
+- Replay (offline from cache, 15 yearly segments): 74,767 changed file-states, all SHA256-verified
+  (73,933 pdiff, 834 full); 6,704 intermediate file-states verified against Index history hashes.
+- 0 checksum mismatches remained; 0 unverified files.
+
+Anomalies (all handled by re-seeding from verified full files; no coverage lost)
+- 2020-09-28/29 (6 snapshots): dak shipped broken pdiffs for main (and contrib once): "0a" patches
+  containing the whole file without deleting the old contents, so applying them doubles the file;
+  SHA256 mismatch -> re-seeded.
+- 2019-09-08T172415Z and 2015-12-09T105533Z: snapshot's Release and Packages.diff/Index disagree
+  (mirror captured mid-update) -> re-seeded; the dinstall states in between were recovered by
+  chaining the Index's own patches (fill-hidden-dinstall-states/).
+- 2015-12 (Dec 8): dak added SHA256 history lists starting empty; SHA1 lists used where longer.
+- Late 2020: dak wrote some history names with a ".gz" suffix; handled.
+- Largest snapshot holes (covered by pdiff chains where dinstalls ran): 2024-03-14..21 (174h, 27
+  dinstalls replayed), 2019-09-03..08 (121h), 2014-10-10..13 (86h), 2017-11-10..13 (69h).
+- snapshot.debian.org was down (503/504) 2026-11-06 ~08:30-09:45 UTC and intermittently 504 later;
+  416 retries in pass 1, all succeeded.
+
+Independent check: independent-line-grep.txt greps every cached seed and pdiff (81,782 files; every
+line that entered any reconstructed state) for :all/:native qualifiers, qualified Provides, '|' in
+Conflicts/Breaks/Provides and non-canonical field case; it finds exactly the C1 and C4 lines below.

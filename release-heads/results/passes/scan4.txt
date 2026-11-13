@@ -1,0 +1,31 @@
+== bookworm amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=26 neg-hits=0 []
+== bookworm arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=26 neg-hits=0 []
+== bookworm i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=26 neg-hits=0 []
+== bookworm: ':all'/':native' qualifiers: {}
+== sid amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=28 neg-hits=13 ['finit-sysv 4.14-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.14-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.14-1 Conflicts: sysvinit-core hits sysvinit-core', 'openrc-init 0.64.1-2 Conflicts: runit-init hits runit-init', 'openrc-init 0.64.1-2 Conflicts: systemd-sysv hits systemd-sysv', 'openrc-init 0.64.1-2 Conflicts: sysvinit-core hits sysvinit-core']
+== sid arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=28 neg-hits=13 ['finit-sysv 4.14-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.14-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.14-1 Conflicts: sysvinit-core hits sysvinit-core', 'openrc-init 0.64.1-2 Conflicts: runit-init hits runit-init', 'openrc-init 0.64.1-2 Conflicts: systemd-sysv hits systemd-sysv', 'openrc-init 0.64.1-2 Conflicts: sysvinit-core hits sysvinit-core']
+== sid i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=28 neg-hits=13 ['finit-sysv 4.14-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.14-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.14-1 Conflicts: sysvinit-core hits sysvinit-core', 'openrc-init 0.64.1-2 Conflicts: runit-init hits runit-init', 'openrc-init 0.64.1-2 Conflicts: systemd-sysv hits systemd-sysv', 'openrc-init 0.64.1-2 Conflicts: sysvinit-core hits sysvinit-core']
+== sid: ':all'/':native' qualifiers: {}
+== trixie amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=30 neg-hits=9 ['finit-sysv 4.12-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.12-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.12-1 Conflicts: sysvinit-core hits sysvinit-core', 'runit-init 2.2.0-3 Conflicts: systemd-sysv hits systemd-sysv', 'runit-init 2.2.0-3 Conflicts: sysvinit-core hits sysvinit-core', 'runit-run 2.2.0-3 Conflicts: runit-init hits runit-init']
+== trixie arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=30 neg-hits=9 ['finit-sysv 4.12-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.12-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.12-1 Conflicts: sysvinit-core hits sysvinit-core', 'runit-init 2.2.0-3 Conflicts: systemd-sysv hits systemd-sysv', 'runit-init 2.2.0-3 Conflicts: sysvinit-core hits sysvinit-core', 'runit-run 2.2.0-3 Conflicts: runit-init hits runit-init']
+== trixie i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=30 neg-hits=9 ['finit-sysv 4.12-1 Conflicts: runit-init hits runit-init', 'finit-sysv 4.12-1 Conflicts: systemd-sysv hits systemd-sysv', 'finit-sysv 4.12-1 Conflicts: sysvinit-core hits sysvinit-core', 'runit-init 2.2.0-3 Conflicts: systemd-sysv hits systemd-sysv', 'runit-init 2.2.0-3 Conflicts: sysvinit-core hits sysvinit-core', 'runit-run 2.2.0-3 Conflicts: runit-init hits runit-init']
+== trixie: ':all'/':native' qualifiers: {}
+== bullseye amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== bullseye arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== bullseye i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== bullseye: ':all'/':native' qualifiers: {}
+== buster amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=23 neg-hits=0 []
+== buster arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=23 neg-hits=0 []
+== buster i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=23 neg-hits=0 []
+== buster: ':all'/':native' qualifiers: {}
+== jessie amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== jessie arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== jessie i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== jessie: ':all'/':native' qualifiers: {}
+== stretch amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== stretch arm64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== stretch i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=0 []
+== stretch: ':all'/':native' qualifiers: {}
+== wheezy amd64: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=2 ['systemd-sysv 44-11+deb7u4 Conflicts: sysvinit hits sysvinit', 'upstart 1.6.1-1 Conflicts: sysvinit hits sysvinit']
+== wheezy i386: predep SCCs=0 sizes=[] forced=0 []; essential/protected stanzas=25 neg-hits=2 ['systemd-sysv 44-11+deb7u4 Conflicts: sysvinit hits sysvinit', 'upstart 1.6.1-1 Conflicts: sysvinit hits sysvinit']
+== wheezy: ':all'/':native' qualifiers: {}

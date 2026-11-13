@@ -1,0 +1,9 @@
+files scanned: 81782
+== provides-qual:any: 2 distinct lines
+  Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs
+      in 3 files, first 20211212T031254Z/dists/sid/main/binary-amd64/Packages.diff/2021-12-11-1402.33.gz, last 20211212T031254Z/dists/sid/main/binary-i386/Packages.diff/2021-12-11-1402.33.gz
+  Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any
+      in 3 files, first 20211212T031254Z/dists/sid/main/binary-amd64/Packages.diff/2021-12-08-2005.44.gz, last 20211212T031254Z/dists/sid/main/binary-i386/Packages.diff/2021-12-08-2005.44.gz
+== qual-all: 1 distinct lines
+  Depends: python:all, libgtest-dev (>= 1.6.0)
+      in 2 files, first 20140504T221734Z/dists/sid/main/binary-amd64/Packages.diff/2014-05-02-0248.23.gz, last 20140504T221734Z/dists/sid/main/binary-i386/Packages.diff/2014-05-02-0248.23.gz

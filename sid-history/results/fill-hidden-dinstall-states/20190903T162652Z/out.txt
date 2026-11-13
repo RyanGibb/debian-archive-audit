@@ -1,0 +1,30 @@
+main/amd64: 19 patches, final verified=True, intermediates verified=18/18
+main/i386: 19 patches, final verified=True, intermediates verified=18/18
+main/arm64: 19 patches, final verified=True, intermediates verified=18/18
+contrib/amd64: 2 patches, final verified=True, intermediates verified=1/1
+contrib/i386: 2 patches, final verified=True, intermediates verified=1/1
+contrib/arm64: 2 patches, final verified=True, intermediates verified=1/1
+non-free/amd64: 2 patches, final verified=True, intermediates verified=1/1
+non-free/i386: 1 patches, final verified=True, intermediates verified=0/0
+non-free/arm64: 1 patches, final verified=True, intermediates verified=0/0
+20190903T200920D main/amd64,main/i386,main/arm64
+20190904T024512D main/amd64,main/i386,main/arm64
+20190904T081426D main/amd64,main/i386,main/arm64
+20190904T141205D main/amd64,main/i386,main/arm64
+20190904T201802D main/amd64,main/i386,main/arm64
+20190905T021450D main/amd64,main/i386,main/arm64
+20190905T081652D main/amd64,main/i386,main/arm64
+20190905T141745D main/amd64,main/i386,main/arm64,contrib/amd64,contrib/i386,contrib/arm64
+20190905T203043D main/amd64,main/i386,main/arm64
+20190906T021608D main/amd64,main/i386,main/arm64
+20190906T081005D main/amd64,main/i386,main/arm64
+20190906T142101D main/amd64,main/i386,main/arm64
+20190906T201138D main/amd64,main/i386,main/arm64
+20190907T021423D main/amd64,main/i386,main/arm64
+20190907T141338D main/amd64,main/i386,main/arm64,non-free/amd64,non-free/i386,non-free/arm64
+20190907T202442D main/amd64,main/i386,main/arm64,contrib/amd64,contrib/i386,contrib/arm64
+20190908T021345D main/amd64,main/i386,main/arm64
+20190908T082655D main/amd64,main/i386,main/arm64
+20190908T141201D main/amd64,main/i386,main/arm64,non-free/amd64
+occurrences: {}
+any_atoms 36 qual_with_provider 0

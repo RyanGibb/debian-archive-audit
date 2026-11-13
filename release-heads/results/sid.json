@@ -1,0 +1,143 @@
+{
+ "counts": {
+  "Essential:yes": 59,
+  "Important:yes": 9,
+  "Protected:yes": 19,
+  "essential_stanzas": 59,
+  "ma:allowed": 830,
+  "ma:foreign": 24548,
+  "ma:no": 4,
+  "ma:same": 47033,
+  "ma_explicit_no": 4,
+  "multi_version_keys": 364,
+  "qual:Conflicts:any": 2,
+  "qual:Conflicts:explicit": 16,
+  "qual:Depends:any": 16028,
+  "qual:Depends:explicit": 43,
+  "qual:Recommends:any": 78,
+  "qual:Recommends:explicit": 36,
+  "qual:Replaces:any": 10,
+  "qual:Suggests:any": 36,
+  "qual_unconf:Conflicts:x32": 8,
+  "qual_unconf:Depends:armel": 2,
+  "qual_unconf:Depends:armhf": 3,
+  "qual_unconf:Depends:mips": 2,
+  "qual_unconf:Depends:mips64": 2,
+  "qual_unconf:Depends:mips64el": 2,
+  "qual_unconf:Depends:mips64r6": 2,
+  "qual_unconf:Depends:mips64r6el": 2,
+  "qual_unconf:Depends:mipsel": 2,
+  "qual_unconf:Depends:mipsr6": 2,
+  "qual_unconf:Depends:mipsr6el": 2,
+  "qual_unconf:Depends:powerpc": 2,
+  "qual_unconf:Depends:ppc64el": 2,
+  "qual_unconf:Depends:riscv64": 2,
+  "qual_unconf:Depends:s390x": 2,
+  "qual_unconf:Recommends:armhf": 3,
+  "self_conflict_name:Breaks": 31,
+  "self_conflict_name:Conflicts": 86,
+  "self_conflict_virtual:Breaks": 4514,
+  "self_conflict_virtual:Conflicts": 2613,
+  "stanzas": 154476
+ },
+ "examples": {
+  "ma_explicit_no": [
+   "lcmaps-plugins-jobrep 1.5.8-1 amd64",
+   "lcmaps-plugins-jobrep-admin 1.5.8-1 all",
+   "lcmaps-plugins-jobrep 1.5.8-1 arm64",
+   "lcmaps-plugins-jobrep 1.5.8-1 i386"
+  ],
+  "qual_unconf:Conflicts:x32": [
+   "libc6-dev-i386 2.43-7 amd64: libc6-dev-i386:x32",
+   "libc6-dev-x32 2.43-7 amd64: libc6-dev-i386:x32",
+   "libc6-i386 2.43-7 amd64: libc6-i386:x32",
+   "libc6-x32 2.43-7 amd64: libc6-i386:x32"
+  ],
+  "qual_unconf:Depends:armel": [
+   "crossbuild-essential-armel 12.12 all: gcc:armel",
+   "crossbuild-essential-armel 12.12 all: g++:armel"
+  ],
+  "qual_unconf:Depends:armhf": [
+   "crossbuild-essential-armhf 12.12 all: gcc:armhf",
+   "crossbuild-essential-armhf 12.12 all: g++:armhf",
+   "wine64-tools 10.0~repack-12+b1 arm64: libwine-dev:armhf (= 10.0~repack-12+b1)"
+  ],
+  "qual_unconf:Depends:mips": [
+   "crossbuild-essential-mips 12.9 all: gcc:mips",
+   "crossbuild-essential-mips 12.9 all: g++:mips"
+  ],
+  "qual_unconf:Depends:mips64": [
+   "crossbuild-essential-mips64 12.9 all: gcc:mips64",
+   "crossbuild-essential-mips64 12.9 all: g++:mips64"
+  ],
+  "qual_unconf:Depends:mips64el": [
+   "crossbuild-essential-mips64el 12.9 all: gcc:mips64el",
+   "crossbuild-essential-mips64el 12.9 all: g++:mips64el"
+  ],
+  "qual_unconf:Depends:mips64r6": [
+   "crossbuild-essential-mips64r6 12.9 all: gcc:mips64r6",
+   "crossbuild-essential-mips64r6 12.9 all: g++:mips64r6"
+  ],
+  "qual_unconf:Depends:mips64r6el": [
+   "crossbuild-essential-mips64r6el 12.9 all: gcc:mips64r6el",
+   "crossbuild-essential-mips64r6el 12.9 all: g++:mips64r6el"
+  ],
+  "qual_unconf:Depends:mipsel": [
+   "crossbuild-essential-mipsel 12.9 all: gcc:mipsel",
+   "crossbuild-essential-mipsel 12.9 all: g++:mipsel"
+  ],
+  "qual_unconf:Depends:mipsr6": [
+   "crossbuild-essential-mipsr6 12.9 all: gcc:mipsr6",
+   "crossbuild-essential-mipsr6 12.9 all: g++:mipsr6"
+  ],
+  "qual_unconf:Depends:mipsr6el": [
+   "crossbuild-essential-mipsr6el 12.9 all: gcc:mipsr6el",
+   "crossbuild-essential-mipsr6el 12.9 all: g++:mipsr6el"
+  ],
+  "qual_unconf:Depends:powerpc": [
+   "crossbuild-essential-powerpc 12.12 all: gcc:powerpc",
+   "crossbuild-essential-powerpc 12.12 all: g++:powerpc"
+  ],
+  "qual_unconf:Depends:ppc64el": [
+   "crossbuild-essential-ppc64el 12.12 all: gcc:ppc64el",
+   "crossbuild-essential-ppc64el 12.12 all: g++:ppc64el"
+  ],
+  "qual_unconf:Depends:riscv64": [
+   "crossbuild-essential-riscv64 12.12 all: gcc:riscv64",
+   "crossbuild-essential-riscv64 12.12 all: g++:riscv64"
+  ],
+  "qual_unconf:Depends:s390x": [
+   "crossbuild-essential-s390x 12.12 all: gcc:s390x",
+   "crossbuild-essential-s390x 12.12 all: g++:s390x"
+  ],
+  "qual_unconf:Recommends:armhf": [
+   "sunxi-tools 1.4.2+git20260530.d7bbd1-1 amd64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20260530.d7bbd1-1 arm64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20260530.d7bbd1-1 i386: u-boot-sunxi:armhf"
+  ],
+  "self_conflict_name:Breaks": [
+   "libbelcard1 5.3.105-3+b2 amd64: libbelcard1 (<< 5.2.98)",
+   "botan 3.13.0+dfsg-2 amd64: botan (<< 3-1~)",
+   "python3-botan 3.13.0+dfsg-2 amd64: python3-botan (<< 3-1~)",
+   "libecl24.5 24.5.10.20250914.git294da20+dfsg-3+b2 amd64: libecl24.5 (<< 24.5.10.20250914.git294da20+dfsg-3)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-7 all: crafty-books-medium",
+   "libsocl-contrib-1.4-1t64 1.4.10+dfsg-2 amd64: libsocl-contrib-1.4-1t64",
+   "libstarpu-contrib-openmp-llvm-1.4-1t64 1.4.10+dfsg-2 amd64: libstarpu-contrib-openmp-llvm-1.4-1t64",
+   "libstarpu-contribfft-1.4-1t64 1.4.10+dfsg-2 amd64: libstarpu-contribfft-1.4-1t64"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "libsocl-contrib-1.4-1t64 1.4.10+dfsg-2 amd64: libsocl-contrib-1.4-1 (<< 1.4.10+dfsg-2)",
+   "libstarpu-contrib-openmp-llvm-1.4-1t64 1.4.10+dfsg-2 amd64: libstarpu-contrib-openmp-llvm-1.4-1 (<< 1.4.10+dfsg-2)",
+   "libstarpu-contribfft-1.4-1t64 1.4.10+dfsg-2 amd64: libstarpu-contribfft-1.4-1 (<< 1.4.10+dfsg-2)",
+   "libstarpu-contribmpi-1.4-3t64 1.4.10+dfsg-2 amd64: libstarpu-contribmpi-1.4-3 (<< 1.4.10+dfsg-2)"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "bart-cuda 0.8.00-2+b1 amd64: bart",
+   "festvox-rablpc16k 2.4-2 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-4 all: festvox-8k",
+   "nvidia-open-kernel-support 550.163.01-4 amd64: nvidia-open-kernel-support-550.163.01"
+  ]
+ }
+}

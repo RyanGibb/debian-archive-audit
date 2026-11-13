@@ -1,0 +1,8 @@
+== bookworm: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== sid: names with arch:all and arch-specific stanzas: 3; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== trixie: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== bullseye: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== buster: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== jessie: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== stretch: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []
+== wheezy: names with arch:all and arch-specific stanzas: 0; same version both ways: 0 []; M-A same equal-but-distinct version strings across archs: 0 []

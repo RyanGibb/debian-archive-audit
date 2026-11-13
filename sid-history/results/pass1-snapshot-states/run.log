@@ -1,0 +1,1221 @@
+2026-11-06T15:34:12 start: 19492 timestamps 20120101T033042Z..20261106T082430Z
+2026-11-06T15:34:36 progress 20120107T033526Z (25/19492) 1.040 st/s req={'requests': 0, 'bytes': 0, 'retries': 0, '404': 0} scanned=70740 occ=0
+2026-11-06T15:35:20 progress 20120113T092421Z (50/19492) 0.739 st/s req={'requests': 60, 'bytes': 560917, 'retries': 0, '404': 0} scanned=75771 occ=0
+2026-11-06T15:36:17 progress 20120119T160147Z (75/19492) 0.602 st/s req={'requests': 167, 'bytes': 5082622, 'retries': 0, '404': 0} scanned=82774 occ=0
+2026-11-06T15:37:28 progress 20120125T220756Z (100/19492) 0.512 st/s req={'requests': 283, 'bytes': 12918818, 'retries': 0, '404': 0} scanned=186478 occ=0
+2026-11-06T15:38:17 progress 20120131T214008Z (125/19492) 0.510 st/s req={'requests': 380, 'bytes': 18351607, 'retries': 0, '404': 0} scanned=189968 occ=0
+2026-11-06T15:39:15 progress 20120207T034049Z (150/19492) 0.495 st/s req={'requests': 495, 'bytes': 24200807, 'retries': 0, '404': 0} scanned=195652 occ=0
+2026-11-06T15:40:15 progress 20120213T093352Z (175/19492) 0.482 st/s req={'requests': 615, 'bytes': 29736563, 'retries': 0, '404': 0} scanned=199673 occ=0
+2026-11-06T15:41:21 progress 20120219T152746Z (200/19492) 0.467 st/s req={'requests': 737, 'bytes': 35811962, 'retries': 0, '404': 0} scanned=249714 occ=0
+2026-11-06T15:42:20 progress 20120225T220919Z (225/19492) 0.461 st/s req={'requests': 855, 'bytes': 41206387, 'retries': 0, '404': 0} scanned=252847 occ=0
+2026-11-06T15:43:12 progress 20120303T032529Z (250/19492) 0.463 st/s req={'requests': 957, 'bytes': 46524750, 'retries': 0, '404': 0} scanned=255707 occ=0
+2026-11-06T15:44:16 progress 20120309T094414Z (275/19492) 0.456 st/s req={'requests': 1074, 'bytes': 52570642, 'retries': 0, '404': 0} scanned=261499 occ=0
+2026-11-06T15:45:07 progress 20120315T152733Z (300/19492) 0.458 st/s req={'requests': 1166, 'bytes': 58482861, 'retries': 0, '404': 0} scanned=266683 occ=0
+2026-11-06T15:46:02 progress 20120321T214402Z (325/19492) 0.458 st/s req={'requests': 1272, 'bytes': 64150816, 'retries': 0, '404': 0} scanned=270314 occ=0
+2026-11-06T15:46:54 progress 20120328T101221Z (350/19492) 0.459 st/s req={'requests': 1371, 'bytes': 70046883, 'retries': 0, '404': 0} scanned=275840 occ=0
+2026-11-06T15:47:53 progress 20120403T152457Z (375/19492) 0.457 st/s req={'requests': 1473, 'bytes': 76119285, 'retries': 0, '404': 0} scanned=280476 occ=0
+2026-11-06T15:48:48 progress 20120409T213746Z (400/19492) 0.457 st/s req={'requests': 1579, 'bytes': 82338253, 'retries': 0, '404': 0} scanned=285782 occ=0
+2026-11-06T15:49:42 progress 20120416T041047Z (425/19492) 0.457 st/s req={'requests': 1674, 'bytes': 88271033, 'retries': 0, '404': 0} scanned=289433 occ=0
+2026-11-06T15:50:39 progress 20120422T152300Z (450/19492) 0.456 st/s req={'requests': 1774, 'bytes': 94327501, 'retries': 0, '404': 0} scanned=295706 occ=0
+2026-11-06T15:51:31 progress 20120428T213119Z (475/19492) 0.457 st/s req={'requests': 1872, 'bytes': 100318844, 'retries': 0, '404': 0} scanned=299439 occ=0
+2026-11-06T15:52:28 progress 20120505T032639Z (500/19492) 0.456 st/s req={'requests': 1966, 'bytes': 106515466, 'retries': 0, '404': 0} scanned=304617 occ=0
+2026-11-06T15:53:20 progress 20120511T093823Z (525/19492) 0.457 st/s req={'requests': 2066, 'bytes': 112948046, 'retries': 0, '404': 0} scanned=309033 occ=0
+2026-11-06T15:54:17 progress 20120517T161515Z (550/19492) 0.457 st/s req={'requests': 2167, 'bytes': 119903843, 'retries': 0, '404': 0} scanned=314740 occ=0
+2026-11-06T15:55:13 progress 20120523T221326Z (575/19492) 0.456 st/s req={'requests': 2270, 'bytes': 126926222, 'retries': 0, '404': 0} scanned=320712 occ=0
+2026-11-06T15:56:15 progress 20120530T033135Z (600/19492) 0.454 st/s req={'requests': 2383, 'bytes': 133977972, 'retries': 0, '404': 0} scanned=326705 occ=0
+2026-11-06T15:57:11 progress 20120605T094742Z (625/19492) 0.453 st/s req={'requests': 2487, 'bytes': 140938364, 'retries': 0, '404': 0} scanned=332162 occ=0
+2026-11-06T15:58:10 progress 20120611T162910Z (650/19492) 0.452 st/s req={'requests': 2596, 'bytes': 148028337, 'retries': 0, '404': 0} scanned=338506 occ=0
+2026-11-06T15:59:14 progress 20120617T222233Z (675/19492) 0.450 st/s req={'requests': 2705, 'bytes': 155033609, 'retries': 0, '404': 0} scanned=344483 occ=0
+2026-11-06T16:00:13 progress 20120624T033342Z (700/19492) 0.449 st/s req={'requests': 2815, 'bytes': 161806869, 'retries': 0, '404': 0} scanned=349286 occ=0
+2026-11-06T16:01:18 progress 20120630T100325Z (725/19492) 0.446 st/s req={'requests': 2931, 'bytes': 169338711, 'retries': 0, '404': 0} scanned=357474 occ=0
+2026-11-06T16:02:11 progress 20120706T152831Z (750/19492) 0.447 st/s req={'requests': 3025, 'bytes': 175847617, 'retries': 0, '404': 0} scanned=360187 occ=0
+2026-11-06T16:03:02 progress 20120712T220930Z (775/19492) 0.448 st/s req={'requests': 3113, 'bytes': 182300388, 'retries': 0, '404': 0} scanned=362303 occ=0
+2026-11-06T16:03:55 progress 20120719T033226Z (800/19492) 0.449 st/s req={'requests': 3204, 'bytes': 188906671, 'retries': 0, '404': 0} scanned=365564 occ=0
+2026-11-06T16:04:55 progress 20120725T092834Z (825/19492) 0.448 st/s req={'requests': 3293, 'bytes': 195446214, 'retries': 0, '404': 0} scanned=367066 occ=0
+2026-11-06T16:05:53 progress 20120731T153423Z (850/19492) 0.447 st/s req={'requests': 3400, 'bytes': 202045029, 'retries': 0, '404': 0} scanned=368859 occ=0
+2026-11-06T16:06:44 progress 20120806T215550Z (875/19492) 0.448 st/s req={'requests': 3492, 'bytes': 208652074, 'retries': 0, '404': 0} scanned=370703 occ=0
+2026-11-06T16:07:42 progress 20120815T091827Z (900/19492) 0.448 st/s req={'requests': 3596, 'bytes': 215235546, 'retries': 0, '404': 0} scanned=372432 occ=0
+2026-11-06T16:08:31 progress 20120821T212234Z (925/19492) 0.449 st/s req={'requests': 3679, 'bytes': 221743864, 'retries': 0, '404': 0} scanned=373852 occ=0
+2026-11-06T16:09:34 progress 20120828T033043Z (950/19492) 0.448 st/s req={'requests': 3772, 'bytes': 228312501, 'retries': 0, '404': 0} scanned=375446 occ=0
+2026-11-06T16:10:27 progress 20120903T100957Z (975/19492) 0.448 st/s req={'requests': 3867, 'bytes': 234953880, 'retries': 0, '404': 0} scanned=376500 occ=0
+2026-11-06T16:11:22 progress 20120909T212841Z (1000/19492) 0.449 st/s req={'requests': 3962, 'bytes': 241694185, 'retries': 0, '404': 0} scanned=377925 occ=0
+2026-11-06T16:12:33 progress 20120916T033054Z (1025/19492) 0.445 st/s req={'requests': 4062, 'bytes': 248421651, 'retries': 0, '404': 0} scanned=379424 occ=0
+2026-11-06T16:13:23 progress 20120923T153631Z (1050/19492) 0.447 st/s req={'requests': 4148, 'bytes': 255131846, 'retries': 0, '404': 0} scanned=380956 occ=0
+2026-11-06T16:14:19 progress 20120929T152804Z (1075/19492) 0.447 st/s req={'requests': 4234, 'bytes': 261879769, 'retries': 0, '404': 0} scanned=382342 occ=0
+2026-11-06T16:15:09 progress 20121005T211448Z (1100/19492) 0.448 st/s req={'requests': 4324, 'bytes': 268232556, 'retries': 0, '404': 0} scanned=383585 occ=0
+2026-11-06T16:16:00 progress 20121012T153409Z (1125/19492) 0.449 st/s req={'requests': 4416, 'bytes': 273985369, 'retries': 0, '404': 0} scanned=385307 occ=0
+2026-11-06T16:17:01 progress 20121019T032846Z (1150/19492) 0.448 st/s req={'requests': 4499, 'bytes': 279692409, 'retries': 0, '404': 0} scanned=386535 occ=0
+2026-11-06T16:17:50 progress 20121025T094053Z (1175/19492) 0.449 st/s req={'requests': 4586, 'bytes': 285450304, 'retries': 0, '404': 0} scanned=387862 occ=0
+2026-11-06T16:18:47 progress 20121031T220446Z (1200/19492) 0.449 st/s req={'requests': 4681, 'bytes': 291287304, 'retries': 0, '404': 0} scanned=389602 occ=0
+2026-11-06T16:19:38 progress 20121107T152130Z (1225/19492) 0.449 st/s req={'requests': 4776, 'bytes': 297007782, 'retries': 0, '404': 0} scanned=390649 occ=0
+2026-11-06T16:20:30 progress 20121113T212043Z (1250/19492) 0.450 st/s req={'requests': 4870, 'bytes': 302711404, 'retries': 0, '404': 0} scanned=391559 occ=0
+2026-11-06T16:21:22 progress 20121120T092206Z (1275/19492) 0.451 st/s req={'requests': 4966, 'bytes': 308632251, 'retries': 0, '404': 0} scanned=392665 occ=0
+2026-11-06T16:22:10 progress 20121126T153215Z (1300/19492) 0.452 st/s req={'requests': 5048, 'bytes': 314605271, 'retries': 0, '404': 0} scanned=394143 occ=0
+2026-11-06T16:22:58 progress 20121202T215447Z (1325/19492) 0.453 st/s req={'requests': 5132, 'bytes': 320563640, 'retries': 0, '404': 0} scanned=395618 occ=0
+2026-11-06T16:23:42 progress 20121209T042258Z (1350/19492) 0.455 st/s req={'requests': 5208, 'bytes': 326481258, 'retries': 0, '404': 0} scanned=396796 occ=0
+2026-11-06T16:24:31 progress 20121215T212226Z (1375/19492) 0.455 st/s req={'requests': 5294, 'bytes': 332452037, 'retries': 0, '404': 0} scanned=398044 occ=0
+2026-11-06T16:25:24 progress 20121222T032254Z (1400/19492) 0.456 st/s req={'requests': 5384, 'bytes': 338402301, 'retries': 0, '404': 0} scanned=399457 occ=0
+2026-11-06T16:26:12 progress 20121228T091939Z (1425/19492) 0.457 st/s req={'requests': 5468, 'bytes': 344219530, 'retries': 0, '404': 0} scanned=399971 occ=0
+2026-11-06T16:26:59 progress 20130103T151914Z (1450/19492) 0.458 st/s req={'requests': 5549, 'bytes': 350097725, 'retries': 0, '404': 0} scanned=400927 occ=0
+2026-11-06T16:27:52 progress 20130109T213343Z (1475/19492) 0.458 st/s req={'requests': 5641, 'bytes': 356082476, 'retries': 0, '404': 0} scanned=402314 occ=0
+2026-11-06T16:28:43 progress 20130116T032754Z (1500/19492) 0.459 st/s req={'requests': 5727, 'bytes': 361999738, 'retries': 0, '404': 0} scanned=403376 occ=0
+2026-11-06T16:29:30 progress 20130122T095711Z (1525/19492) 0.460 st/s req={'requests': 5810, 'bytes': 367887627, 'retries': 0, '404': 0} scanned=404347 occ=0
+2026-11-06T16:30:19 progress 20130128T152740Z (1550/19492) 0.460 st/s req={'requests': 5897, 'bytes': 373848060, 'retries': 0, '404': 0} scanned=405565 occ=0
+2026-11-06T16:31:05 progress 20130203T212307Z (1575/19492) 0.462 st/s req={'requests': 5974, 'bytes': 379836285, 'retries': 0, '404': 0} scanned=406977 occ=0
+2026-11-06T16:31:57 progress 20130210T032845Z (1600/19492) 0.462 st/s req={'requests': 6065, 'bytes': 385764409, 'retries': 0, '404': 0} scanned=408286 occ=0
+2026-11-06T16:32:48 progress 20130216T100958Z (1625/19492) 0.462 st/s req={'requests': 6153, 'bytes': 391822514, 'retries': 0, '404': 0} scanned=409808 occ=0
+2026-11-06T16:33:37 progress 20130222T153032Z (1650/19492) 0.463 st/s req={'requests': 6240, 'bytes': 397921119, 'retries': 0, '404': 0} scanned=410742 occ=0
+2026-11-06T16:34:26 progress 20130228T211534Z (1675/19492) 0.463 st/s req={'requests': 6326, 'bytes': 404055783, 'retries': 0, '404': 0} scanned=412006 occ=0
+2026-11-06T16:35:14 progress 20130307T034252Z (1700/19492) 0.464 st/s req={'requests': 6406, 'bytes': 410245741, 'retries': 0, '404': 0} scanned=413476 occ=0
+2026-11-06T16:36:02 progress 20130313T092005Z (1725/19492) 0.465 st/s req={'requests': 6489, 'bytes': 416347538, 'retries': 0, '404': 0} scanned=414427 occ=0
+2026-11-06T16:36:52 progress 20130319T214236Z (1750/19492) 0.465 st/s req={'requests': 6578, 'bytes': 422536785, 'retries': 0, '404': 0} scanned=415886 occ=0
+2026-11-06T16:37:42 progress 20130326T032800Z (1775/19492) 0.466 st/s req={'requests': 6663, 'bytes': 428811175, 'retries': 0, '404': 0} scanned=422080 occ=0
+2026-11-06T16:38:29 progress 20130401T092502Z (1800/19492) 0.467 st/s req={'requests': 6744, 'bytes': 434873694, 'retries': 0, '404': 0} scanned=422809 occ=0
+2026-11-06T16:39:21 progress 20130407T151958Z (1825/19492) 0.467 st/s req={'requests': 6835, 'bytes': 441045291, 'retries': 0, '404': 0} scanned=423866 occ=0
+2026-11-06T16:40:11 progress 20130413T212950Z (1850/19492) 0.467 st/s req={'requests': 6918, 'bytes': 447334647, 'retries': 0, '404': 0} scanned=424883 occ=0
+2026-11-06T16:41:04 progress 20130420T033146Z (1875/19492) 0.467 st/s req={'requests': 7009, 'bytes': 454145359, 'retries': 0, '404': 0} scanned=426376 occ=0
+2026-11-06T16:41:52 progress 20130426T092627Z (1900/19492) 0.468 st/s req={'requests': 7087, 'bytes': 460824680, 'retries': 0, '404': 0} scanned=427255 occ=0
+2026-11-06T16:42:44 progress 20130502T212220Z (1925/19492) 0.468 st/s req={'requests': 7176, 'bytes': 467613445, 'retries': 0, '404': 0} scanned=428280 occ=0
+2026-11-06T16:46:33 retry https://snapshot.debian.org/archive/debian/20130510T215100Z/dists/sid/main/binary-i386/Packages.diff/2013-05-08-0215.32.gz: TimeoutError('The read operation timed out'); sleeping 5s
+2026-11-06T16:46:49 progress 20130509T094927Z (1950/19492) 0.448 st/s req={'requests': 7281, 'bytes': 474163403, 'retries': 1, '404': 0} scanned=433626 occ=0
+2026-11-06T16:47:57 progress 20130515T153759Z (1975/19492) 0.446 st/s req={'requests': 7391, 'bytes': 480386291, 'retries': 1, '404': 0} scanned=439291 occ=0
+2026-11-06T16:49:01 progress 20130521T214028Z (2000/19492) 0.446 st/s req={'requests': 7504, 'bytes': 486386650, 'retries': 1, '404': 0} scanned=444746 occ=0
+2026-11-06T16:50:01 progress 20130528T034930Z (2025/19492) 0.445 st/s req={'requests': 7606, 'bytes': 493093400, 'retries': 1, '404': 0} scanned=452150 occ=0
+2026-11-06T16:51:03 progress 20130603T100021Z (2050/19492) 0.445 st/s req={'requests': 7717, 'bytes': 499320874, 'retries': 1, '404': 0} scanned=458381 occ=0
+2026-11-06T16:52:01 progress 20130609T155242Z (2075/19492) 0.444 st/s req={'requests': 7817, 'bytes': 505128462, 'retries': 1, '404': 0} scanned=462088 occ=0
+2026-11-06T16:52:54 progress 20130615T160204Z (2100/19492) 0.445 st/s req={'requests': 7910, 'bytes': 510965833, 'retries': 1, '404': 0} scanned=466389 occ=0
+2026-11-06T16:53:51 progress 20130621T214709Z (2125/19492) 0.445 st/s req={'requests': 8008, 'bytes': 516723036, 'retries': 1, '404': 0} scanned=469707 occ=0
+2026-11-06T16:54:49 progress 20130628T034935Z (2150/19492) 0.444 st/s req={'requests': 8112, 'bytes': 522538402, 'retries': 1, '404': 0} scanned=473260 occ=0
+2026-11-06T16:55:46 progress 20130704T094247Z (2175/19492) 0.444 st/s req={'requests': 8212, 'bytes': 528287853, 'retries': 1, '404': 0} scanned=476630 occ=0
+2026-11-06T16:56:41 progress 20130710T155341Z (2200/19492) 0.445 st/s req={'requests': 8310, 'bytes': 534003866, 'retries': 1, '404': 0} scanned=480140 occ=0
+2026-11-06T16:57:37 progress 20130716T215313Z (2225/19492) 0.445 st/s req={'requests': 8407, 'bytes': 539973230, 'retries': 1, '404': 0} scanned=484332 occ=0
+2026-11-06T16:58:33 progress 20130723T034417Z (2250/19492) 0.445 st/s req={'requests': 8506, 'bytes': 545587800, 'retries': 1, '404': 0} scanned=486935 occ=0
+2026-11-06T16:59:26 progress 20130729T094117Z (2275/19492) 0.445 st/s req={'requests': 8597, 'bytes': 551169320, 'retries': 1, '404': 0} scanned=489434 occ=0
+2026-11-06T17:00:23 progress 20130804T155539Z (2300/19492) 0.445 st/s req={'requests': 8697, 'bytes': 556923808, 'retries': 1, '404': 0} scanned=492694 occ=0
+2026-11-06T17:01:21 progress 20130810T214224Z (2325/19492) 0.445 st/s req={'requests': 8795, 'bytes': 562774639, 'retries': 1, '404': 0} scanned=496239 occ=0
+2026-11-06T17:02:17 progress 20130817T035010Z (2350/19492) 0.445 st/s req={'requests': 8891, 'bytes': 568564431, 'retries': 1, '404': 0} scanned=499750 occ=0
+2026-11-06T17:03:17 progress 20130823T094610Z (2375/19492) 0.444 st/s req={'requests': 8998, 'bytes': 574328697, 'retries': 1, '404': 0} scanned=503172 occ=0
+2026-11-06T17:04:13 progress 20130829T154918Z (2400/19492) 0.444 st/s req={'requests': 9096, 'bytes': 580054261, 'retries': 1, '404': 0} scanned=506669 occ=0
+2026-11-06T17:05:13 progress 20130905T035130Z (2425/19492) 0.444 st/s req={'requests': 9202, 'bytes': 586289254, 'retries': 1, '404': 0} scanned=512546 occ=0
+2026-11-06T17:06:13 progress 20130911T094539Z (2450/19492) 0.444 st/s req={'requests': 9307, 'bytes': 592063650, 'retries': 1, '404': 0} scanned=515679 occ=0
+2026-11-06T17:07:23 progress 20130917T155027Z (2475/19492) 0.443 st/s req={'requests': 9411, 'bytes': 597793419, 'retries': 1, '404': 0} scanned=518910 occ=0
+2026-11-06T17:08:18 progress 20130923T214642Z (2500/19492) 0.443 st/s req={'requests': 9508, 'bytes': 603582510, 'retries': 1, '404': 0} scanned=522238 occ=0
+2026-11-06T17:09:13 progress 20130930T035642Z (2525/19492) 0.443 st/s req={'requests': 9601, 'bytes': 609153120, 'retries': 1, '404': 0} scanned=524598 occ=0
+2026-11-06T17:10:08 progress 20131006T094420Z (2550/19492) 0.443 st/s req={'requests': 9693, 'bytes': 614739837, 'retries': 1, '404': 0} scanned=526845 occ=0
+2026-11-06T17:10:58 progress 20131012T130134Z (2575/19492) 0.443 st/s req={'requests': 9776, 'bytes': 620413723, 'retries': 1, '404': 0} scanned=529804 occ=0
+2026-11-06T17:12:04 progress 20131019T034828Z (2600/19492) 0.443 st/s req={'requests': 9883, 'bytes': 626372583, 'retries': 1, '404': 0} scanned=533468 occ=0
+2026-11-06T17:13:07 progress 20131025T094137Z (2625/19492) 0.442 st/s req={'requests': 9997, 'bytes': 632087490, 'retries': 1, '404': 0} scanned=536119 occ=0
+2026-11-06T17:14:11 progress 20131031T161954Z (2650/19492) 0.442 st/s req={'requests': 10085, 'bytes': 637572811, 'retries': 1, '404': 0} scanned=538731 occ=0
+2026-11-06T17:15:11 progress 20131106T215017Z (2675/19492) 0.441 st/s req={'requests': 10180, 'bytes': 643067612, 'retries': 1, '404': 0} scanned=541471 occ=0
+2026-11-06T17:16:05 progress 20131113T035729Z (2700/19492) 0.442 st/s req={'requests': 10275, 'bytes': 648683771, 'retries': 1, '404': 0} scanned=544948 occ=0
+2026-11-06T17:17:10 progress 20131119T094631Z (2725/19492) 0.441 st/s req={'requests': 10368, 'bytes': 654173359, 'retries': 1, '404': 0} scanned=547954 occ=0
+2026-11-06T17:20:42 retry https://snapshot.debian.org/archive/debian/20131123T040020Z/dists/sid/Release: TimeoutError('The read operation timed out'); sleeping 5s
+2026-11-06T17:21:12 progress 20131125T161425Z (2750/19492) 0.428 st/s req={'requests': 10465, 'bytes': 659800320, 'retries': 2, '404': 0} scanned=551384 occ=0
+2026-11-06T17:22:14 progress 20131202T035642Z (2775/19492) 0.428 st/s req={'requests': 10572, 'bytes': 665620205, 'retries': 2, '404': 0} scanned=555623 occ=0
+2026-11-06T17:23:12 progress 20131208T095620Z (2800/19492) 0.428 st/s req={'requests': 10670, 'bytes': 671484440, 'retries': 2, '404': 0} scanned=560426 occ=0
+2026-11-06T17:24:07 progress 20131214T115210Z (2825/19492) 0.428 st/s req={'requests': 10765, 'bytes': 677306236, 'retries': 2, '404': 0} scanned=564713 occ=0
+2026-11-06T17:25:03 progress 20131220T160848Z (2850/19492) 0.428 st/s req={'requests': 10862, 'bytes': 683262437, 'retries': 2, '404': 0} scanned=568632 occ=0
+2026-11-06T17:25:59 progress 20131226T215144Z (2875/19492) 0.429 st/s req={'requests': 10956, 'bytes': 688908416, 'retries': 2, '404': 0} scanned=570994 occ=0
+2026-11-06T17:27:01 progress 20140102T041022Z (2900/19492) 0.428 st/s req={'requests': 11062, 'bytes': 694842930, 'retries': 2, '404': 0} scanned=574777 occ=0
+2026-11-06T17:27:58 progress 20140108T095743Z (2925/19492) 0.428 st/s req={'requests': 11158, 'bytes': 700546979, 'retries': 2, '404': 0} scanned=577732 occ=0
+2026-11-06T17:28:58 progress 20140114T161808Z (2950/19492) 0.428 st/s req={'requests': 11260, 'bytes': 706300681, 'retries': 2, '404': 0} scanned=580791 occ=0
+2026-11-06T17:29:56 progress 20140120T220140Z (2975/19492) 0.428 st/s req={'requests': 11364, 'bytes': 712134448, 'retries': 2, '404': 0} scanned=584468 occ=0
+2026-11-06T17:30:55 progress 20140127T220029Z (3000/19492) 0.428 st/s req={'requests': 11464, 'bytes': 718111837, 'retries': 2, '404': 0} scanned=588761 occ=0
+2026-11-06T17:31:54 progress 20140203T040701Z (3025/19492) 0.428 st/s req={'requests': 11569, 'bytes': 723802407, 'retries': 2, '404': 0} scanned=591485 occ=0
+2026-11-06T17:32:45 progress 20140208T221700Z (3050/19492) 0.429 st/s req={'requests': 11654, 'bytes': 729519781, 'retries': 2, '404': 0} scanned=594246 occ=0
+2026-11-06T17:33:45 progress 20140215T111228Z (3075/19492) 0.429 st/s req={'requests': 11758, 'bytes': 735553301, 'retries': 2, '404': 0} scanned=597974 occ=0
+2026-11-06T17:34:41 progress 20140221T161629Z (3100/19492) 0.429 st/s req={'requests': 11855, 'bytes': 741263764, 'retries': 2, '404': 0} scanned=601704 occ=0
+2026-11-06T17:35:39 progress 20140227T220302Z (3125/19492) 0.429 st/s req={'requests': 11953, 'bytes': 746924298, 'retries': 2, '404': 0} scanned=605142 occ=0
+2026-11-06T17:36:40 progress 20140306T040412Z (3150/19492) 0.429 st/s req={'requests': 12065, 'bytes': 752576331, 'retries': 2, '404': 0} scanned=608541 occ=0
+2026-11-06T17:37:36 progress 20140312T100452Z (3175/19492) 0.429 st/s req={'requests': 12158, 'bytes': 758187098, 'retries': 2, '404': 0} scanned=611573 occ=0
+2026-11-06T17:38:30 progress 20140318T160815Z (3200/19492) 0.429 st/s req={'requests': 12249, 'bytes': 763774674, 'retries': 2, '404': 0} scanned=614348 occ=0
+2026-11-06T17:39:25 progress 20140324T221112Z (3225/19492) 0.429 st/s req={'requests': 12341, 'bytes': 769571054, 'retries': 2, '404': 0} scanned=618057 occ=0
+2026-11-06T17:40:23 progress 20140331T100757Z (3250/19492) 0.429 st/s req={'requests': 12442, 'bytes': 775330593, 'retries': 2, '404': 0} scanned=621369 occ=0
+2026-11-06T17:41:21 progress 20140406T160725Z (3275/19492) 0.429 st/s req={'requests': 12539, 'bytes': 781210167, 'retries': 2, '404': 0} scanned=625106 occ=0
+2026-11-06T17:42:22 progress 20140413T041812Z (3300/19492) 0.429 st/s req={'requests': 12642, 'bytes': 787310431, 'retries': 2, '404': 0} scanned=637051 occ=0
+2026-11-06T17:43:17 progress 20140419T221713Z (3325/19492) 0.429 st/s req={'requests': 12734, 'bytes': 793175349, 'retries': 2, '404': 0} scanned=640695 occ=0
+2026-11-06T17:44:19 progress 20140426T042554Z (3350/19492) 0.429 st/s req={'requests': 12839, 'bytes': 799145924, 'retries': 2, '404': 0} scanned=644835 occ=0
+2026-11-06T17:45:22 progress 20140503T062759Z (3375/19492) 0.429 st/s req={'requests': 12942, 'bytes': 805481787, 'retries': 2, '404': 0} scanned=650912 occ=2
+2026-11-06T17:46:23 progress 20140509T170458Z (3400/19492) 0.429 st/s req={'requests': 13046, 'bytes': 811645783, 'retries': 2, '404': 0} scanned=655802 occ=2
+2026-11-06T17:47:22 progress 20140516T102050Z (3425/19492) 0.429 st/s req={'requests': 13144, 'bytes': 817808424, 'retries': 2, '404': 0} scanned=660885 occ=2
+2026-11-06T17:48:27 progress 20140522T221345Z (3450/19492) 0.428 st/s req={'requests': 13248, 'bytes': 823745905, 'retries': 2, '404': 0} scanned=664828 occ=2
+2026-11-06T17:49:27 progress 20140529T045915Z (3475/19492) 0.428 st/s req={'requests': 13350, 'bytes': 829677432, 'retries': 2, '404': 0} scanned=669105 occ=2
+2026-11-06T17:50:24 progress 20140604T102539Z (3500/19492) 0.428 st/s req={'requests': 13445, 'bytes': 835688133, 'retries': 2, '404': 0} scanned=673454 occ=2
+2026-11-06T17:51:22 progress 20140610T163325Z (3525/19492) 0.428 st/s req={'requests': 13544, 'bytes': 841885913, 'retries': 2, '404': 0} scanned=679197 occ=2
+2026-11-06T17:52:20 progress 20140617T043509Z (3550/19492) 0.428 st/s req={'requests': 13641, 'bytes': 847914215, 'retries': 2, '404': 0} scanned=683650 occ=2
+2026-11-06T17:53:24 progress 20140623T102023Z (3575/19492) 0.428 st/s req={'requests': 13752, 'bytes': 853779292, 'retries': 2, '404': 0} scanned=687103 occ=2
+2026-11-06T17:54:23 progress 20140629T162923Z (3600/19492) 0.428 st/s req={'requests': 13851, 'bytes': 859677827, 'retries': 2, '404': 0} scanned=691111 occ=2
+2026-11-06T17:55:22 progress 20140705T222259Z (3625/19492) 0.428 st/s req={'requests': 13950, 'bytes': 865604546, 'retries': 2, '404': 0} scanned=695207 occ=2
+2026-11-06T17:56:16 progress 20140712T041016Z (3650/19492) 0.428 st/s req={'requests': 14037, 'bytes': 871660005, 'retries': 2, '404': 0} scanned=699894 occ=2
+2026-11-06T17:57:13 progress 20140718T102543Z (3675/19492) 0.428 st/s req={'requests': 14134, 'bytes': 877743171, 'retries': 2, '404': 0} scanned=704692 occ=2
+2026-11-06T17:58:16 progress 20140724T102502Z (3700/19492) 0.428 st/s req={'requests': 14246, 'bytes': 883589833, 'retries': 2, '404': 0} scanned=708334 occ=2
+2026-11-06T17:59:19 progress 20140730T163450Z (3725/19492) 0.428 st/s req={'requests': 14340, 'bytes': 889683201, 'retries': 2, '404': 0} scanned=713383 occ=2
+2026-11-06T18:00:35 progress 20140805T223601Z (3750/19492) 0.427 st/s req={'requests': 14474, 'bytes': 899630862, 'retries': 2, '404': 0} scanned=720676 occ=2
+2026-11-06T18:01:48 progress 20140812T043630Z (3775/19492) 0.426 st/s req={'requests': 14609, 'bytes': 906518421, 'retries': 2, '404': 0} scanned=726353 occ=2
+2026-11-06T18:03:02 progress 20140818T095849Z (3800/19492) 0.426 st/s req={'requests': 14743, 'bytes': 913640937, 'retries': 2, '404': 0} scanned=734339 occ=2
+2026-11-06T18:04:18 progress 20140824T161508Z (3825/19492) 0.425 st/s req={'requests': 14873, 'bytes': 921887283, 'retries': 2, '404': 0} scanned=745554 occ=2
+2026-11-06T18:05:40 progress 20140830T215918Z (3850/19492) 0.424 st/s req={'requests': 15014, 'bytes': 929653722, 'retries': 2, '404': 0} scanned=754076 occ=2
+2026-11-06T18:06:57 progress 20140906T041608Z (3875/19492) 0.423 st/s req={'requests': 15147, 'bytes': 937182718, 'retries': 2, '404': 0} scanned=762051 occ=2
+2026-11-06T18:08:19 progress 20140912T095834Z (3900/19492) 0.422 st/s req={'requests': 15289, 'bytes': 944933087, 'retries': 2, '404': 0} scanned=769748 occ=2
+2026-11-06T18:09:46 progress 20140918T161533Z (3925/19492) 0.421 st/s req={'requests': 15443, 'bytes': 952530239, 'retries': 2, '404': 0} scanned=777507 occ=2
+2026-11-06T18:11:04 progress 20140924T220917Z (3950/19492) 0.420 st/s req={'requests': 15576, 'bytes': 960248697, 'retries': 2, '404': 0} scanned=786173 occ=2
+2026-11-06T18:12:27 progress 20141001T042150Z (3975/19492) 0.419 st/s req={'requests': 15717, 'bytes': 968018414, 'retries': 2, '404': 0} scanned=795206 occ=2
+2026-11-06T18:13:54 progress 20141007T101856Z (4000/19492) 0.417 st/s req={'requests': 15868, 'bytes': 976049876, 'retries': 2, '404': 0} scanned=804247 occ=2
+2026-11-06T18:16:20 progress 20141019T162716Z (4025/19492) 0.414 st/s req={'requests': 16158, 'bytes': 985835701, 'retries': 2, '404': 0} scanned=822019 occ=2
+2026-11-06T18:17:56 progress 20141025T225623Z (4050/19492) 0.412 st/s req={'requests': 16323, 'bytes': 994543318, 'retries': 2, '404': 0} scanned=833786 occ=2
+2026-11-06T18:19:27 progress 20141102T041218Z (4075/19492) 0.411 st/s req={'requests': 16485, 'bytes': 1001693142, 'retries': 2, '404': 0} scanned=842512 occ=2
+2026-11-06T18:20:39 progress 20141108T100552Z (4100/19492) 0.411 st/s req={'requests': 16600, 'bytes': 1008608650, 'retries': 2, '404': 0} scanned=846705 occ=2
+2026-11-06T18:21:58 progress 20141114T161918Z (4125/19492) 0.410 st/s req={'requests': 16719, 'bytes': 1015599183, 'retries': 2, '404': 0} scanned=851596 occ=2
+2026-11-06T18:23:08 progress 20141121T040247Z (4150/19492) 0.409 st/s req={'requests': 16834, 'bytes': 1022192007, 'retries': 2, '404': 0} scanned=854305 occ=2
+2026-11-06T18:24:20 progress 20141127T095844Z (4175/19492) 0.409 st/s req={'requests': 16948, 'bytes': 1028662587, 'retries': 2, '404': 0} scanned=856352 occ=2
+2026-11-06T18:25:36 progress 20141203T161232Z (4200/19492) 0.408 st/s req={'requests': 17071, 'bytes': 1035604844, 'retries': 2, '404': 0} scanned=860924 occ=2
+2026-11-06T18:27:03 progress 20141209T220743Z (4225/19492) 0.407 st/s req={'requests': 17200, 'bytes': 1042271322, 'retries': 2, '404': 0} scanned=864008 occ=2
+2026-11-06T18:28:47 progress 20141216T040907Z (4250/19492) 0.406 st/s req={'requests': 17326, 'bytes': 1048922073, 'retries': 2, '404': 0} scanned=867099 occ=2
+2026-11-06T18:29:57 progress 20141222T100645Z (4275/19492) 0.405 st/s req={'requests': 17438, 'bytes': 1055289306, 'retries': 2, '404': 0} scanned=868722 occ=2
+2026-11-06T18:31:05 progress 20141228T160843Z (4300/19492) 0.405 st/s req={'requests': 17539, 'bytes': 1061625433, 'retries': 2, '404': 0} scanned=870062 occ=2
+2026-11-06T18:32:06 progress 20150103T221130Z (4325/19492) 0.405 st/s req={'requests': 17630, 'bytes': 1067971399, 'retries': 2, '404': 0} scanned=871643 occ=2
+2026-11-06T18:33:16 progress 20150110T040034Z (4350/19492) 0.405 st/s req={'requests': 17735, 'bytes': 1074483974, 'retries': 2, '404': 0} scanned=873148 occ=2
+2026-11-06T18:34:17 progress 20150116T040655Z (4375/19492) 0.405 st/s req={'requests': 17837, 'bytes': 1080990318, 'retries': 2, '404': 0} scanned=874260 occ=2
+2026-11-06T18:35:33 progress 20150122T095804Z (4400/19492) 0.404 st/s req={'requests': 17959, 'bytes': 1087544171, 'retries': 2, '404': 0} scanned=875613 occ=2
+2026-11-06T18:36:45 progress 20150128T161941Z (4425/19492) 0.404 st/s req={'requests': 18074, 'bytes': 1094064958, 'retries': 2, '404': 0} scanned=876808 occ=2
+2026-11-06T18:38:00 progress 20150203T222332Z (4450/19492) 0.404 st/s req={'requests': 18197, 'bytes': 1100647871, 'retries': 2, '404': 0} scanned=878282 occ=2
+2026-11-06T18:39:06 progress 20150210T040723Z (4475/19492) 0.403 st/s req={'requests': 18306, 'bytes': 1107122476, 'retries': 2, '404': 0} scanned=879349 occ=2
+2026-11-06T18:40:12 progress 20150216T100235Z (4500/19492) 0.403 st/s req={'requests': 18407, 'bytes': 1113561211, 'retries': 2, '404': 0} scanned=880249 occ=2
+2026-11-06T18:41:18 progress 20150223T040919Z (4525/19492) 0.403 st/s req={'requests': 18510, 'bytes': 1120046035, 'retries': 2, '404': 0} scanned=881514 occ=2
+2026-11-06T18:42:24 progress 20150301T101244Z (4550/19492) 0.403 st/s req={'requests': 18612, 'bytes': 1126665194, 'retries': 2, '404': 0} scanned=883120 occ=2
+2026-11-06T18:43:31 progress 20150307T161951Z (4575/19492) 0.403 st/s req={'requests': 18715, 'bytes': 1133172294, 'retries': 2, '404': 0} scanned=884430 occ=2
+2026-11-06T18:44:41 progress 20150313T213329Z (4600/19492) 0.403 st/s req={'requests': 18827, 'bytes': 1139688158, 'retries': 2, '404': 0} scanned=885647 occ=2
+2026-11-06T18:45:49 progress 20150320T032533Z (4625/19492) 0.402 st/s req={'requests': 18940, 'bytes': 1146235030, 'retries': 2, '404': 0} scanned=886725 occ=2
+2026-11-06T18:47:02 progress 20150326T093019Z (4650/19492) 0.402 st/s req={'requests': 19044, 'bytes': 1152767145, 'retries': 2, '404': 0} scanned=887793 occ=2
+2026-11-06T18:48:11 progress 20150401T160214Z (4675/19492) 0.402 st/s req={'requests': 19154, 'bytes': 1159558641, 'retries': 2, '404': 0} scanned=889131 occ=2
+2026-11-06T18:49:29 progress 20150407T213414Z (4700/19492) 0.401 st/s req={'requests': 19272, 'bytes': 1166215753, 'retries': 2, '404': 0} scanned=889932 occ=2
+2026-11-06T18:50:43 progress 20150414T153408Z (4725/19492) 0.401 st/s req={'requests': 19388, 'bytes': 1172951146, 'retries': 2, '404': 0} scanned=891199 occ=2
+2026-11-06T18:51:56 progress 20150421T153937Z (4750/19492) 0.400 st/s req={'requests': 19508, 'bytes': 1179831040, 'retries': 2, '404': 0} scanned=892468 occ=2
+2026-11-06T18:53:12 progress 20150428T101307Z (4775/19492) 0.400 st/s req={'requests': 19634, 'bytes': 1187378674, 'retries': 2, '404': 0} scanned=898813 occ=2
+2026-11-06T18:54:50 progress 20150504T155714Z (4800/19492) 0.399 st/s req={'requests': 19792, 'bytes': 1194492319, 'retries': 2, '404': 0} scanned=907981 occ=2
+2026-11-06T18:56:19 progress 20150510T215409Z (4825/19492) 0.398 st/s req={'requests': 19941, 'bytes': 1201775557, 'retries': 2, '404': 0} scanned=917875 occ=2
+2026-11-06T18:57:49 progress 20150517T093813Z (4850/19492) 0.397 st/s req={'requests': 20090, 'bytes': 1208310882, 'retries': 2, '404': 0} scanned=924725 occ=2
+2026-11-06T18:59:17 progress 20150523T155601Z (4875/19492) 0.396 st/s req={'requests': 20239, 'bytes': 1214832504, 'retries': 2, '404': 0} scanned=931579 occ=2
+2026-11-06T19:00:38 progress 20150530T041415Z (4900/19492) 0.396 st/s req={'requests': 20370, 'bytes': 1221910195, 'retries': 2, '404': 0} scanned=940792 occ=2
+2026-11-06T19:01:56 progress 20150605T223215Z (4925/19492) 0.395 st/s req={'requests': 20496, 'bytes': 1228091768, 'retries': 2, '404': 0} scanned=945554 occ=2
+2026-11-06T19:03:09 progress 20150612T042823Z (4950/19492) 0.395 st/s req={'requests': 20611, 'bytes': 1234022877, 'retries': 2, '404': 0} scanned=948922 occ=2
+2026-11-06T19:04:24 progress 20150618T091931Z (4975/19492) 0.394 st/s req={'requests': 20723, 'bytes': 1240298482, 'retries': 2, '404': 0} scanned=954557 occ=2
+2026-11-06T19:05:43 progress 20150624T153558Z (5000/19492) 0.394 st/s req={'requests': 20851, 'bytes': 1246675450, 'retries': 2, '404': 0} scanned=960101 occ=2
+2026-11-06T19:07:02 progress 20150630T213432Z (5025/19492) 0.394 st/s req={'requests': 20971, 'bytes': 1253586145, 'retries': 2, '404': 0} scanned=968718 occ=2
+2026-11-06T19:08:18 progress 20150707T034200Z (5050/19492) 0.393 st/s req={'requests': 21086, 'bytes': 1260173831, 'retries': 2, '404': 0} scanned=975028 occ=2
+2026-11-06T19:09:39 progress 20150713T093250Z (5075/19492) 0.393 st/s req={'requests': 21213, 'bytes': 1266536755, 'retries': 2, '404': 0} scanned=980879 occ=2
+2026-11-06T19:10:56 progress 20150719T154616Z (5100/19492) 0.392 st/s req={'requests': 21335, 'bytes': 1272865621, 'retries': 2, '404': 0} scanned=986103 occ=2
+2026-11-06T19:12:24 progress 20150726T034606Z (5125/19492) 0.391 st/s req={'requests': 21480, 'bytes': 1279442679, 'retries': 2, '404': 0} scanned=992106 occ=2
+2026-11-06T19:13:51 progress 20150801T093342Z (5150/19492) 0.391 st/s req={'requests': 21623, 'bytes': 1285606006, 'retries': 2, '404': 0} scanned=997081 occ=2
+2026-11-06T19:15:15 progress 20150807T154849Z (5175/19492) 0.390 st/s req={'requests': 21757, 'bytes': 1292086309, 'retries': 2, '404': 0} scanned=1004225 occ=2
+2026-11-06T19:16:42 progress 20150813T214003Z (5200/19492) 0.390 st/s req={'requests': 21897, 'bytes': 1298794034, 'retries': 2, '404': 0} scanned=1011948 occ=2
+2026-11-06T19:18:14 progress 20150820T033637Z (5225/19492) 0.389 st/s req={'requests': 22053, 'bytes': 1305440785, 'retries': 2, '404': 0} scanned=1019003 occ=2
+2026-11-06T19:19:32 progress 20150826T102846Z (5250/19492) 0.388 st/s req={'requests': 22175, 'bytes': 1312135213, 'retries': 2, '404': 0} scanned=1024736 occ=2
+2026-11-06T19:21:16 progress 20150903T153422Z (5275/19492) 0.387 st/s req={'requests': 22354, 'bytes': 1320010875, 'retries': 2, '404': 0} scanned=1034600 occ=2
+2026-11-06T19:22:41 progress 20150910T092451Z (5300/19492) 0.387 st/s req={'requests': 22494, 'bytes': 1327518279, 'retries': 2, '404': 0} scanned=1040980 occ=2
+2026-11-06T19:24:03 progress 20150916T160739Z (5325/19492) 0.386 st/s req={'requests': 22618, 'bytes': 1335121483, 'retries': 2, '404': 0} scanned=1047467 occ=2
+2026-11-06T19:26:13 progress 20150922T213040Z (5350/19492) 0.384 st/s req={'requests': 22851, 'bytes': 1343215299, 'retries': 2, '404': 0} scanned=1053192 occ=2
+2026-11-06T19:27:59 progress 20150930T154540Z (5375/19492) 0.383 st/s req={'requests': 23039, 'bytes': 1350797119, 'retries': 2, '404': 0} scanned=1060291 occ=2
+2026-11-06T19:29:31 progress 20151006T213701Z (5400/19492) 0.382 st/s req={'requests': 23199, 'bytes': 1358384975, 'retries': 2, '404': 0} scanned=1067003 occ=2
+2026-11-06T19:30:58 progress 20151013T040239Z (5425/19492) 0.382 st/s req={'requests': 23337, 'bytes': 1366014055, 'retries': 2, '404': 0} scanned=1073730 occ=2
+2026-11-06T19:32:27 progress 20151019T100322Z (5450/19492) 0.381 st/s req={'requests': 23485, 'bytes': 1373734502, 'retries': 2, '404': 0} scanned=1079584 occ=2
+2026-11-06T19:34:02 progress 20151025T161344Z (5475/19492) 0.380 st/s req={'requests': 23651, 'bytes': 1381506671, 'retries': 2, '404': 0} scanned=1085213 occ=2
+2026-11-06T19:35:21 progress 20151031T213521Z (5500/19492) 0.380 st/s req={'requests': 23771, 'bytes': 1389339311, 'retries': 2, '404': 0} scanned=1091483 occ=2
+2026-11-06T19:36:58 progress 20151107T034641Z (5525/19492) 0.379 st/s req={'requests': 23930, 'bytes': 1397897475, 'retries': 2, '404': 0} scanned=1101370 occ=2
+2026-11-06T19:38:27 progress 20151113T154740Z (5550/19492) 0.379 st/s req={'requests': 24077, 'bytes': 1405585217, 'retries': 2, '404': 0} scanned=1107309 occ=2
+2026-11-06T19:39:52 progress 20151119T214102Z (5575/19492) 0.378 st/s req={'requests': 24211, 'bytes': 1413177871, 'retries': 2, '404': 0} scanned=1112584 occ=2
+2026-11-06T19:41:15 progress 20151126T041944Z (5600/19492) 0.378 st/s req={'requests': 24339, 'bytes': 1420838219, 'retries': 2, '404': 0} scanned=1118014 occ=2
+2026-11-06T19:42:48 progress 20151202T092951Z (5625/19492) 0.377 st/s req={'requests': 24489, 'bytes': 1428843860, 'retries': 2, '404': 0} scanned=1126050 occ=2
+2026-11-06T19:45:30 progress 20151208T155843Z (5650/19492) 0.375 st/s req={'requests': 24804, 'bytes': 1439775217, 'retries': 2, '404': 0} scanned=1138951 occ=2
+2026-11-06T19:47:13 progress 20151215T095746Z (5675/19492) 0.374 st/s req={'requests': 24980, 'bytes': 1471862105, 'retries': 2, '404': 0} scanned=1147096 occ=2
+2026-11-06T19:48:47 progress 20151221T164131Z (5700/19492) 0.373 st/s req={'requests': 25135, 'bytes': 1480906245, 'retries': 2, '404': 0} scanned=1156936 occ=2
+2026-11-06T19:50:05 progress 20151227T215248Z (5725/19492) 0.373 st/s req={'requests': 25260, 'bytes': 1488527423, 'retries': 2, '404': 0} scanned=1160619 occ=2
+2026-11-06T19:51:26 progress 20160103T163148Z (5750/19492) 0.373 st/s req={'requests': 25391, 'bytes': 1496687638, 'retries': 2, '404': 0} scanned=1165925 occ=2
+2026-11-06T19:52:56 progress 20160109T223912Z (5775/19492) 0.372 st/s req={'requests': 25530, 'bytes': 1505042086, 'retries': 2, '404': 0} scanned=1171601 occ=2
+2026-11-06T19:54:30 progress 20160116T035929Z (5800/19492) 0.371 st/s req={'requests': 25688, 'bytes': 1514331477, 'retries': 2, '404': 0} scanned=1181400 occ=2
+2026-11-06T19:56:00 progress 20160123T044910Z (5825/19492) 0.371 st/s req={'requests': 25834, 'bytes': 1523440383, 'retries': 2, '404': 0} scanned=1190206 occ=2
+2026-11-06T19:57:28 progress 20160129T094839Z (5850/19492) 0.370 st/s req={'requests': 25978, 'bytes': 1531861384, 'retries': 2, '404': 0} scanned=1195830 occ=2
+2026-11-06T19:59:09 progress 20160205T040941Z (5875/19492) 0.370 st/s req={'requests': 26136, 'bytes': 1540493179, 'retries': 2, '404': 0} scanned=1216532 occ=2
+2026-11-06T20:00:53 progress 20160212T164732Z (5900/19492) 0.369 st/s req={'requests': 26303, 'bytes': 1549680650, 'retries': 2, '404': 0} scanned=1236326 occ=2
+2026-11-06T20:02:24 progress 20160218T221043Z (5925/19492) 0.368 st/s req={'requests': 26448, 'bytes': 1558561232, 'retries': 2, '404': 0} scanned=1242602 occ=2
+2026-11-06T20:03:47 progress 20160225T035523Z (5950/19492) 0.368 st/s req={'requests': 26576, 'bytes': 1567245637, 'retries': 2, '404': 0} scanned=1248852 occ=2
+2026-11-06T20:05:18 progress 20160303T095826Z (5975/19492) 0.367 st/s req={'requests': 26719, 'bytes': 1576219970, 'retries': 2, '404': 0} scanned=1256852 occ=2
+2026-11-06T20:06:46 progress 20160309T221400Z (6000/19492) 0.367 st/s req={'requests': 26855, 'bytes': 1585204646, 'retries': 2, '404': 0} scanned=1264507 occ=2
+2026-11-06T20:08:29 progress 20160316T041004Z (6025/19492) 0.366 st/s req={'requests': 27024, 'bytes': 1594227392, 'retries': 2, '404': 0} scanned=1269809 occ=2
+2026-11-06T20:11:15 progress 20160324T100656Z (6050/19492) 0.364 st/s req={'requests': 27305, 'bytes': 1625721834, 'retries': 2, '404': 6} scanned=1381264 occ=2
+2026-11-06T20:12:38 progress 20160330T161207Z (6075/19492) 0.364 st/s req={'requests': 27429, 'bytes': 1631419374, 'retries': 2, '404': 6} scanned=1385153 occ=2
+2026-11-06T20:14:09 progress 20160406T040518Z (6100/19492) 0.363 st/s req={'requests': 27577, 'bytes': 1637453259, 'retries': 2, '404': 6} scanned=1390523 occ=2
+2026-11-06T20:15:51 progress 20160412T095743Z (6125/19492) 0.362 st/s req={'requests': 27738, 'bytes': 1644272937, 'retries': 2, '404': 6} scanned=1399682 occ=2
+2026-11-06T20:17:29 progress 20160419T163343Z (6150/19492) 0.362 st/s req={'requests': 27890, 'bytes': 1650741913, 'retries': 2, '404': 6} scanned=1407591 occ=2
+2026-11-06T20:19:00 progress 20160425T220009Z (6175/19492) 0.361 st/s req={'requests': 28031, 'bytes': 1656922108, 'retries': 2, '404': 6} scanned=1413419 occ=2
+2026-11-06T20:20:39 progress 20160502T162650Z (6200/19492) 0.361 st/s req={'requests': 28193, 'bytes': 1663210392, 'retries': 2, '404': 6} scanned=1420071 occ=2
+2026-11-06T20:22:08 progress 20160509T044719Z (6225/19492) 0.360 st/s req={'requests': 28330, 'bytes': 1669328165, 'retries': 2, '404': 6} scanned=1425659 occ=2
+2026-11-06T20:23:40 progress 20160515T100530Z (6250/19492) 0.360 st/s req={'requests': 28470, 'bytes': 1676288032, 'retries': 2, '404': 6} scanned=1435373 occ=2
+2026-11-06T20:25:09 progress 20160521T163740Z (6275/19492) 0.359 st/s req={'requests': 28605, 'bytes': 1682876628, 'retries': 2, '404': 6} scanned=1442507 occ=2
+2026-11-06T20:26:36 progress 20160527T221659Z (6300/19492) 0.359 st/s req={'requests': 28728, 'bytes': 1689493278, 'retries': 2, '404': 6} scanned=1449631 occ=2
+2026-11-06T20:28:03 progress 20160603T042723Z (6325/19492) 0.359 st/s req={'requests': 28851, 'bytes': 1696643309, 'retries': 2, '404': 6} scanned=1459150 occ=2
+2026-11-06T20:29:37 progress 20160609T224555Z (6350/19492) 0.358 st/s req={'requests': 28987, 'bytes': 1703516047, 'retries': 2, '404': 6} scanned=1466595 occ=2
+2026-11-06T20:31:06 progress 20160616T042151Z (6375/19492) 0.358 st/s req={'requests': 29116, 'bytes': 1709757532, 'retries': 2, '404': 6} scanned=1471879 occ=2
+2026-11-06T20:32:34 progress 20160622T164821Z (6400/19492) 0.358 st/s req={'requests': 29246, 'bytes': 1716087906, 'retries': 2, '404': 6} scanned=1477432 occ=2
+2026-11-06T20:34:11 progress 20160629T044250Z (6425/19492) 0.357 st/s req={'requests': 29397, 'bytes': 1722497364, 'retries': 2, '404': 6} scanned=1483078 occ=2
+2026-11-06T20:35:53 progress 20160705T222940Z (6450/19492) 0.356 st/s req={'requests': 29555, 'bytes': 1729369345, 'retries': 2, '404': 6} scanned=1490906 occ=2
+2026-11-06T20:37:30 progress 20160712T101219Z (6475/19492) 0.356 st/s req={'requests': 29701, 'bytes': 1736083817, 'retries': 2, '404': 6} scanned=1497742 occ=2
+2026-11-06T20:39:01 progress 20160718T165432Z (6500/19492) 0.355 st/s req={'requests': 29834, 'bytes': 1742990693, 'retries': 2, '404': 6} scanned=1505412 occ=2
+2026-11-06T20:40:29 progress 20160724T222008Z (6525/19492) 0.355 st/s req={'requests': 29961, 'bytes': 1749070948, 'retries': 2, '404': 6} scanned=1509263 occ=2
+2026-11-06T20:41:59 progress 20160731T043110Z (6550/19492) 0.355 st/s req={'requests': 30093, 'bytes': 1755627665, 'retries': 2, '404': 6} scanned=1514981 occ=2
+2026-11-06T20:43:31 progress 20160806T103612Z (6575/19492) 0.354 st/s req={'requests': 30227, 'bytes': 1762681476, 'retries': 2, '404': 6} scanned=1524212 occ=2
+2026-11-06T20:44:59 progress 20160813T164221Z (6600/19492) 0.354 st/s req={'requests': 30356, 'bytes': 1769495273, 'retries': 2, '404': 6} scanned=1532062 occ=2
+2026-11-06T20:46:27 progress 20160820T042609Z (6625/19492) 0.354 st/s req={'requests': 30483, 'bytes': 1776080623, 'retries': 2, '404': 6} scanned=1538243 occ=2
+2026-11-06T20:47:56 progress 20160826T102511Z (6650/19492) 0.353 st/s req={'requests': 30614, 'bytes': 1782447590, 'retries': 2, '404': 6} scanned=1543215 occ=2
+2026-11-06T20:49:28 progress 20160901T165003Z (6675/19492) 0.353 st/s req={'requests': 30750, 'bytes': 1789142437, 'retries': 2, '404': 6} scanned=1554364 occ=2
+2026-11-06T20:50:59 progress 20160907T222608Z (6700/19492) 0.353 st/s req={'requests': 30882, 'bytes': 1796044765, 'retries': 2, '404': 6} scanned=1562356 occ=2
+2026-11-06T20:52:46 progress 20160914T044519Z (6725/19492) 0.352 st/s req={'requests': 31038, 'bytes': 1802823838, 'retries': 2, '404': 6} scanned=1569534 occ=2
+2026-11-06T20:54:23 progress 20160920T103341Z (6750/19492) 0.351 st/s req={'requests': 31184, 'bytes': 1809327261, 'retries': 2, '404': 6} scanned=1575537 occ=2
+2026-11-06T20:56:03 progress 20160926T170954Z (6775/19492) 0.351 st/s req={'requests': 31330, 'bytes': 1816323280, 'retries': 2, '404': 6} scanned=1584811 occ=2
+2026-11-06T20:57:34 progress 20161002T222517Z (6800/19492) 0.350 st/s req={'requests': 31461, 'bytes': 1823092503, 'retries': 2, '404': 6} scanned=1592470 occ=2
+2026-11-06T20:59:07 progress 20161009T043752Z (6825/19492) 0.350 st/s req={'requests': 31593, 'bytes': 1829924997, 'retries': 2, '404': 6} scanned=1599214 occ=2
+2026-11-06T21:00:44 progress 20161015T103837Z (6850/19492) 0.350 st/s req={'requests': 31745, 'bytes': 1836693879, 'retries': 2, '404': 6} scanned=1607299 occ=2
+2026-11-06T21:02:21 progress 20161021T170017Z (6875/19492) 0.349 st/s req={'requests': 31888, 'bytes': 1843667423, 'retries': 2, '404': 6} scanned=1616937 occ=2
+2026-11-06T21:04:02 progress 20161029T221124Z (6900/19492) 0.349 st/s req={'requests': 32028, 'bytes': 1851069994, 'retries': 2, '404': 6} scanned=1627708 occ=2
+2026-11-06T21:05:31 progress 20161105T032755Z (6925/19492) 0.348 st/s req={'requests': 32146, 'bytes': 1859167922, 'retries': 2, '404': 6} scanned=1639225 occ=2
+2026-11-06T21:07:20 progress 20161111T090751Z (6950/19492) 0.348 st/s req={'requests': 32311, 'bytes': 1866963243, 'retries': 2, '404': 6} scanned=1651737 occ=2
+2026-11-06T21:08:55 progress 20161117T153728Z (6975/19492) 0.347 st/s req={'requests': 32456, 'bytes': 1873915943, 'retries': 2, '404': 6} scanned=1659462 occ=2
+2026-11-06T21:10:28 progress 20161123T212417Z (7000/19492) 0.347 st/s req={'requests': 32588, 'bytes': 1881178356, 'retries': 2, '404': 6} scanned=1668089 occ=2
+2026-11-06T21:11:54 progress 20161130T033525Z (7025/19492) 0.347 st/s req={'requests': 32709, 'bytes': 1887966382, 'retries': 2, '404': 6} scanned=1674682 occ=2
+2026-11-06T21:13:33 progress 20161206T212505Z (7050/19492) 0.346 st/s req={'requests': 32860, 'bytes': 1895356998, 'retries': 2, '404': 6} scanned=1682850 occ=2
+2026-11-06T21:15:19 progress 20161213T091654Z (7075/19492) 0.346 st/s req={'requests': 33028, 'bytes': 1902339947, 'retries': 2, '404': 6} scanned=1689083 occ=2
+2026-11-06T21:16:57 progress 20161219T152404Z (7100/19492) 0.345 st/s req={'requests': 33177, 'bytes': 1909435305, 'retries': 2, '404': 6} scanned=1696128 occ=2
+2026-11-06T21:18:35 progress 20161225T212333Z (7125/19492) 0.345 st/s req={'requests': 33324, 'bytes': 1916617889, 'retries': 2, '404': 6} scanned=1702732 occ=2
+2026-11-06T21:20:05 progress 20170101T032652Z (7150/19492) 0.345 st/s req={'requests': 33454, 'bytes': 1923079810, 'retries': 2, '404': 6} scanned=1706686 occ=2
+2026-11-06T21:21:31 progress 20170107T093814Z (7175/19492) 0.344 st/s req={'requests': 33578, 'bytes': 1929487834, 'retries': 2, '404': 6} scanned=1710790 occ=2
+2026-11-06T21:23:03 progress 20170113T153520Z (7200/19492) 0.344 st/s req={'requests': 33714, 'bytes': 1936332258, 'retries': 2, '404': 6} scanned=1718020 occ=2
+2026-11-06T21:24:46 progress 20170119T211826Z (7225/19492) 0.343 st/s req={'requests': 33878, 'bytes': 1943456542, 'retries': 2, '404': 6} scanned=1724966 occ=2
+2026-11-06T21:26:32 progress 20170126T032909Z (7250/19492) 0.343 st/s req={'requests': 34042, 'bytes': 1951510900, 'retries': 2, '404': 6} scanned=1737989 occ=2
+2026-11-06T21:27:54 progress 20170201T152844Z (7275/19492) 0.343 st/s req={'requests': 34157, 'bytes': 1958136782, 'retries': 2, '404': 6} scanned=1742038 occ=2
+2026-11-06T21:29:21 progress 20170207T211637Z (7300/19492) 0.343 st/s req={'requests': 34280, 'bytes': 1964566997, 'retries': 2, '404': 6} scanned=1744969 occ=2
+2026-11-06T21:30:51 progress 20170215T151938Z (7325/19492) 0.342 st/s req={'requests': 34412, 'bytes': 1971155363, 'retries': 2, '404': 6} scanned=1748099 occ=2
+2026-11-06T21:32:17 progress 20170222T033543Z (7350/19492) 0.342 st/s req={'requests': 34536, 'bytes': 1977673085, 'retries': 2, '404': 6} scanned=1751103 occ=2
+2026-11-06T21:33:48 progress 20170228T152023Z (7375/19492) 0.342 st/s req={'requests': 34668, 'bytes': 1984688191, 'retries': 2, '404': 6} scanned=1758390 occ=2
+2026-11-06T21:35:16 progress 20170306T213024Z (7400/19492) 0.342 st/s req={'requests': 34794, 'bytes': 1991573070, 'retries': 2, '404': 6} scanned=1764571 occ=2
+2026-11-06T21:36:52 progress 20170313T031238Z (7425/19492) 0.341 st/s req={'requests': 34937, 'bytes': 1998640370, 'retries': 2, '404': 6} scanned=1770848 occ=2
+2026-11-06T21:38:46 progress 20170319T153719Z (7450/19492) 0.341 st/s req={'requests': 35126, 'bytes': 2006238919, 'retries': 2, '404': 6} scanned=1781767 occ=2
+2026-11-06T21:40:12 progress 20170326T093345Z (7475/19492) 0.340 st/s req={'requests': 35248, 'bytes': 2012918841, 'retries': 2, '404': 6} scanned=1785723 occ=2
+2026-11-06T21:41:35 progress 20170401T211438Z (7500/19492) 0.340 st/s req={'requests': 35363, 'bytes': 2019355294, 'retries': 2, '404': 6} scanned=1788324 occ=2
+2026-11-06T21:42:50 progress 20170408T033428Z (7525/19492) 0.340 st/s req={'requests': 35467, 'bytes': 2025877368, 'retries': 2, '404': 6} scanned=1791942 occ=2
+2026-11-06T21:44:17 progress 20170415T031517Z (7550/19492) 0.340 st/s req={'requests': 35595, 'bytes': 2032502723, 'retries': 2, '404': 6} scanned=1794718 occ=2
+2026-11-06T21:45:47 progress 20170422T031653Z (7575/19492) 0.340 st/s req={'requests': 35728, 'bytes': 2039234748, 'retries': 2, '404': 6} scanned=1797946 occ=2
+2026-11-06T21:47:18 progress 20170429T092622Z (7600/19492) 0.339 st/s req={'requests': 35866, 'bytes': 2045782074, 'retries': 2, '404': 6} scanned=1800832 occ=2
+2026-11-06T21:48:40 progress 20170506T033451Z (7625/19492) 0.339 st/s req={'requests': 35981, 'bytes': 2052408253, 'retries': 2, '404': 6} scanned=1803936 occ=2
+2026-11-06T21:50:12 progress 20170513T154136Z (7650/19492) 0.339 st/s req={'requests': 36107, 'bytes': 2059162440, 'retries': 2, '404': 6} scanned=1807501 occ=2
+2026-11-06T21:51:43 progress 20170521T033922Z (7675/19492) 0.339 st/s req={'requests': 36241, 'bytes': 2065907487, 'retries': 2, '404': 6} scanned=1810792 occ=2
+2026-11-06T21:53:12 progress 20170528T211956Z (7700/19492) 0.339 st/s req={'requests': 36372, 'bytes': 2072417909, 'retries': 2, '404': 6} scanned=1812885 occ=2
+2026-11-06T21:54:41 progress 20170605T034025Z (7725/19492) 0.338 st/s req={'requests': 36498, 'bytes': 2078927572, 'retries': 2, '404': 6} scanned=1814910 occ=2
+2026-11-06T21:56:00 progress 20170611T095411Z (7750/19492) 0.338 st/s req={'requests': 36615, 'bytes': 2085553141, 'retries': 2, '404': 6} scanned=1816352 occ=2
+2026-11-06T21:57:38 progress 20170618T215431Z (7775/19492) 0.338 st/s req={'requests': 36763, 'bytes': 2092757257, 'retries': 2, '404': 6} scanned=1819922 occ=2
+2026-11-06T21:59:32 progress 20170626T160736Z (7800/19492) 0.337 st/s req={'requests': 36932, 'bytes': 2102090994, 'retries': 2, '404': 6} scanned=1834684 occ=2
+2026-11-06T22:01:32 progress 20170705T035229Z (7825/19492) 0.337 st/s req={'requests': 37119, 'bytes': 2110905148, 'retries': 2, '404': 6} scanned=1877736 occ=2
+2026-11-06T22:03:11 progress 20170711T212509Z (7850/19492) 0.336 st/s req={'requests': 37265, 'bytes': 2119192883, 'retries': 2, '404': 6} scanned=1886871 occ=2
+2026-11-06T22:05:01 progress 20170720T035111Z (7875/19492) 0.336 st/s req={'requests': 37433, 'bytes': 2127491201, 'retries': 2, '404': 6} scanned=1896315 occ=2
+2026-11-06T22:07:15 retry https://snapshot.debian.org/archive/debian/20170810T042146Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-06T22:07:25 progress 20170729T033133Z (7900/19492) 0.335 st/s req={'requests': 37619, 'bytes': 2135802689, 'retries': 3, '404': 6} scanned=1909527 occ=2
+2026-11-06T22:07:36 retry https://snapshot.debian.org/archive/debian/20170730T164022Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-06T22:10:14 progress 20170810T155707Z (7925/19492) 0.334 st/s req={'requests': 37865, 'bytes': 2167641265, 'retries': 4, '404': 6} scanned=1923879 occ=2
+2026-11-06T22:11:47 progress 20170817T093655Z (7950/19492) 0.333 st/s req={'requests': 37991, 'bytes': 2174500056, 'retries': 4, '404': 6} scanned=1928973 occ=2
+2026-11-06T22:13:36 progress 20170825T100453Z (7975/19492) 0.333 st/s req={'requests': 38151, 'bytes': 2182050687, 'retries': 4, '404': 6} scanned=1937687 occ=2
+2026-11-06T22:15:20 progress 20170901T155752Z (8000/19492) 0.332 st/s req={'requests': 38303, 'bytes': 2189577712, 'retries': 4, '404': 6} scanned=1946147 occ=2
+2026-11-06T22:17:02 progress 20170908T035125Z (8025/19492) 0.332 st/s req={'requests': 38431, 'bytes': 2196942658, 'retries': 4, '404': 6} scanned=1953961 occ=2
+2026-11-06T22:18:57 progress 20170916T041315Z (8050/19492) 0.331 st/s req={'requests': 38611, 'bytes': 2204605856, 'retries': 4, '404': 6} scanned=1962796 occ=2
+2026-11-06T22:20:56 progress 20170925T220404Z (8075/19492) 0.331 st/s req={'requests': 38786, 'bytes': 2212645577, 'retries': 4, '404': 6} scanned=1974182 occ=2
+2026-11-06T22:22:48 progress 20171003T220520Z (8100/19492) 0.330 st/s req={'requests': 38950, 'bytes': 2220098474, 'retries': 4, '404': 6} scanned=1982144 occ=2
+2026-11-06T22:24:36 progress 20171011T231849Z (8125/19492) 0.330 st/s req={'requests': 39102, 'bytes': 2227260774, 'retries': 4, '404': 6} scanned=1987913 occ=2
+2026-11-06T22:26:40 progress 20171020T095100Z (8150/19492) 0.329 st/s req={'requests': 39278, 'bytes': 2235038000, 'retries': 4, '404': 6} scanned=1998208 occ=2
+2026-11-06T22:28:44 progress 20171028T213017Z (8175/19492) 0.329 st/s req={'requests': 39470, 'bytes': 2242996658, 'retries': 4, '404': 6} scanned=2007561 occ=2
+2026-11-06T22:30:44 progress 20171106T213509Z (8200/19492) 0.328 st/s req={'requests': 39650, 'bytes': 2251033248, 'retries': 4, '404': 6} scanned=2018209 occ=2
+2026-11-06T22:33:12 progress 20171119T162719Z (8225/19492) 0.327 st/s req={'requests': 39884, 'bytes': 2259683698, 'retries': 4, '404': 6} scanned=2032226 occ=2
+2026-11-06T22:35:20 progress 20171129T094548Z (8250/19492) 0.327 st/s req={'requests': 40085, 'bytes': 2267416693, 'retries': 4, '404': 6} scanned=2041053 occ=2
+2026-11-06T22:37:26 progress 20171208T095830Z (8275/19492) 0.326 st/s req={'requests': 40262, 'bytes': 2275313642, 'retries': 4, '404': 6} scanned=2050723 occ=2
+2026-11-06T22:39:37 progress 20171218T153801Z (8300/19492) 0.325 st/s req={'requests': 40470, 'bytes': 2283357073, 'retries': 4, '404': 6} scanned=2060830 occ=2
+2026-11-06T22:41:58 progress 20171229T170214Z (8325/19492) 0.324 st/s req={'requests': 40679, 'bytes': 2291475641, 'retries': 4, '404': 6} scanned=2072043 occ=2
+2026-11-06T22:44:32 progress 20180109T213416Z (8350/19492) 0.323 st/s req={'requests': 40935, 'bytes': 2299667144, 'retries': 4, '404': 6} scanned=2082093 occ=2
+2026-11-06T22:46:35 progress 20180117T154752Z (8375/19492) 0.323 st/s req={'requests': 41133, 'bytes': 2306777635, 'retries': 4, '404': 6} scanned=2086790 occ=2
+2026-11-06T22:48:48 progress 20180126T100613Z (8400/19492) 0.322 st/s req={'requests': 41317, 'bytes': 2315066336, 'retries': 4, '404': 6} scanned=2098382 occ=2
+2026-11-06T22:50:48 progress 20180203T214755Z (8425/19492) 0.322 st/s req={'requests': 41498, 'bytes': 2322984173, 'retries': 4, '404': 6} scanned=2107519 occ=2
+2026-11-06T22:52:47 progress 20180212T041544Z (8450/19492) 0.321 st/s req={'requests': 41676, 'bytes': 2331284759, 'retries': 4, '404': 6} scanned=2118904 occ=2
+2026-11-06T22:54:50 progress 20180220T100006Z (8475/19492) 0.321 st/s req={'requests': 41866, 'bytes': 2338983549, 'retries': 4, '404': 6} scanned=2127262 occ=2
+2026-11-06T22:57:11 progress 20180302T050014Z (8500/19492) 0.320 st/s req={'requests': 42077, 'bytes': 2347028332, 'retries': 4, '404': 6} scanned=2136268 occ=2
+2026-11-06T22:59:59 progress 20180316T060735Z (8525/19492) 0.319 st/s req={'requests': 42353, 'bytes': 2356553535, 'retries': 4, '404': 6} scanned=2154519 occ=2
+2026-11-06T23:02:52 progress 20180330T054232Z (8550/19492) 0.318 st/s req={'requests': 42620, 'bytes': 2366411351, 'retries': 4, '404': 6} scanned=2174202 occ=2
+2026-11-06T23:05:31 progress 20180413T042758Z (8575/19492) 0.317 st/s req={'requests': 42862, 'bytes': 2377651220, 'retries': 4, '404': 6} scanned=2217109 occ=2
+2026-11-06T23:08:20 progress 20180426T224735Z (8600/19492) 0.316 st/s req={'requests': 43137, 'bytes': 2387332481, 'retries': 4, '404': 6} scanned=2234702 occ=2
+2026-11-06T23:11:14 progress 20180509T100740Z (8625/19492) 0.315 st/s req={'requests': 43417, 'bytes': 2396623394, 'retries': 4, '404': 6} scanned=2250784 occ=2
+2026-11-06T23:13:27 progress 20180520T094531Z (8650/19492) 0.314 st/s req={'requests': 43623, 'bytes': 2405569682, 'retries': 4, '404': 6} scanned=2265754 occ=2
+2026-11-06T23:15:30 progress 20180529T215324Z (8675/19492) 0.313 st/s req={'requests': 43807, 'bytes': 2413352906, 'retries': 4, '404': 6} scanned=2274363 occ=2
+2026-11-06T23:17:14 progress 20180605T041703Z (8700/19492) 0.313 st/s req={'requests': 43941, 'bytes': 2421321556, 'retries': 4, '404': 6} scanned=2283142 occ=2
+2026-11-06T23:18:53 progress 20180611T090706Z (8725/19492) 0.313 st/s req={'requests': 44072, 'bytes': 2428553241, 'retries': 4, '404': 6} scanned=2287475 occ=2
+2026-11-06T23:20:26 progress 20180617T151956Z (8750/19492) 0.313 st/s req={'requests': 44189, 'bytes': 2435667813, 'retries': 4, '404': 6} scanned=2292478 occ=2
+2026-11-06T23:22:07 progress 20180623T151053Z (8775/19492) 0.313 st/s req={'requests': 44334, 'bytes': 2442940912, 'retries': 4, '404': 6} scanned=2297333 occ=2
+2026-11-06T23:23:47 progress 20180629T203054Z (8800/19492) 0.312 st/s req={'requests': 44463, 'bytes': 2450375085, 'retries': 4, '404': 6} scanned=2303466 occ=2
+2026-11-06T23:25:33 progress 20180706T024745Z (8825/19492) 0.312 st/s req={'requests': 44596, 'bytes': 2457981107, 'retries': 4, '404': 6} scanned=2310544 occ=2
+2026-11-06T23:27:15 progress 20180712T211510Z (8850/19492) 0.312 st/s req={'requests': 44728, 'bytes': 2465829963, 'retries': 4, '404': 6} scanned=2319609 occ=2
+2026-11-06T23:28:57 progress 20180719T040813Z (8875/19492) 0.312 st/s req={'requests': 44875, 'bytes': 2473008860, 'retries': 4, '404': 6} scanned=2326287 occ=2
+2026-11-06T23:30:44 progress 20180725T094928Z (8900/19492) 0.311 st/s req={'requests': 45023, 'bytes': 2480611135, 'retries': 4, '404': 6} scanned=2336823 occ=2
+2026-11-06T23:32:32 progress 20180731T153005Z (8925/19492) 0.311 st/s req={'requests': 45157, 'bytes': 2488121235, 'retries': 4, '404': 6} scanned=2345726 occ=2
+2026-11-06T23:34:08 progress 20180806T214619Z (8950/19492) 0.311 st/s req={'requests': 45281, 'bytes': 2495304930, 'retries': 4, '404': 6} scanned=2353045 occ=2
+2026-11-06T23:35:43 progress 20180813T084959Z (8975/19492) 0.311 st/s req={'requests': 45411, 'bytes': 2502108713, 'retries': 4, '404': 6} scanned=2357144 occ=2
+2026-11-06T23:39:32 retry https://snapshot.debian.org/archive/debian/20180816T145626Z/dists/sid/Release: TimeoutError('The read operation timed out'); sleeping 5s
+2026-11-06T23:40:19 progress 20180819T165049Z (9000/19492) 0.309 st/s req={'requests': 45538, 'bytes': 2509399920, 'retries': 5, '404': 6} scanned=2364686 occ=2
+2026-11-06T23:42:02 progress 20180825T210024Z (9025/19492) 0.308 st/s req={'requests': 45661, 'bytes': 2516338690, 'retries': 5, '404': 6} scanned=2369608 occ=2
+2026-11-06T23:43:40 progress 20180901T030817Z (9050/19492) 0.308 st/s req={'requests': 45788, 'bytes': 2523355826, 'retries': 5, '404': 6} scanned=2375197 occ=2
+2026-11-06T23:45:13 progress 20180907T150743Z (9075/19492) 0.308 st/s req={'requests': 45905, 'bytes': 2530568315, 'retries': 5, '404': 6} scanned=2381450 occ=2
+2026-11-06T23:46:43 progress 20180913T211245Z (9100/19492) 0.308 st/s req={'requests': 46022, 'bytes': 2537285709, 'retries': 5, '404': 6} scanned=2385827 occ=2
+2026-11-06T23:48:23 progress 20180920T051958Z (9125/19492) 0.308 st/s req={'requests': 46148, 'bytes': 2544309325, 'retries': 5, '404': 6} scanned=2391459 occ=2
+2026-11-06T23:49:58 progress 20180926T085019Z (9150/19492) 0.308 st/s req={'requests': 46270, 'bytes': 2551339172, 'retries': 5, '404': 6} scanned=2397077 occ=2
+2026-11-06T23:51:44 progress 20181002T211952Z (9175/19492) 0.307 st/s req={'requests': 46399, 'bytes': 2558783672, 'retries': 5, '404': 6} scanned=2405284 occ=2
+2026-11-06T23:53:19 progress 20181009T044926Z (9200/19492) 0.307 st/s req={'requests': 46509, 'bytes': 2566106636, 'retries': 5, '404': 6} scanned=2412555 occ=2
+2026-11-06T23:55:05 progress 20181015T090034Z (9225/19492) 0.307 st/s req={'requests': 46642, 'bytes': 2573804309, 'retries': 5, '404': 6} scanned=2422286 occ=2
+2026-11-06T23:56:45 progress 20181021T150905Z (9250/19492) 0.307 st/s req={'requests': 46768, 'bytes': 2581704323, 'retries': 5, '404': 6} scanned=2433310 occ=2
+2026-11-06T23:58:30 progress 20181027T215646Z (9275/19492) 0.307 st/s req={'requests': 46894, 'bytes': 2588741671, 'retries': 5, '404': 6} scanned=2439231 occ=2
+2026-11-07T00:00:28 progress 20181104T030400Z (9300/19492) 0.306 st/s req={'requests': 47046, 'bytes': 2597402291, 'retries': 5, '404': 6} scanned=2454859 occ=2
+2026-11-07T00:00:40 retry https://snapshot.debian.org/archive/debian/20181111T030310Z/dists/sid/non-free/binary-arm64/Packages.diff/Index: HTTP 503; sleeping 5s
+2026-11-07T00:02:14 progress 20181110T115207Z (9325/19492) 0.306 st/s req={'requests': 47189, 'bytes': 2604940879, 'retries': 6, '404': 6} scanned=2462386 occ=2
+2026-11-07T00:03:50 progress 20181116T232017Z (9350/19492) 0.306 st/s req={'requests': 47313, 'bytes': 2612108889, 'retries': 6, '404': 6} scanned=2469007 occ=2
+2026-11-07T00:05:35 progress 20181123T104827Z (9375/19492) 0.306 st/s req={'requests': 47456, 'bytes': 2619502066, 'retries': 6, '404': 6} scanned=2477203 occ=2
+2026-11-07T00:07:29 progress 20181129T155534Z (9400/19492) 0.305 st/s req={'requests': 47592, 'bytes': 2627297975, 'retries': 6, '404': 6} scanned=2487099 occ=2
+2026-11-07T00:09:19 progress 20181205T222840Z (9425/19492) 0.305 st/s req={'requests': 47725, 'bytes': 2635315097, 'retries': 6, '404': 6} scanned=2498479 occ=2
+2026-11-07T00:11:08 progress 20181212T031426Z (9450/19492) 0.305 st/s req={'requests': 47873, 'bytes': 2643064644, 'retries': 6, '404': 6} scanned=2507251 occ=2
+2026-11-07T00:12:52 progress 20181218T160844Z (9475/19492) 0.304 st/s req={'requests': 48011, 'bytes': 2650241107, 'retries': 6, '404': 6} scanned=2512882 occ=2
+2026-11-07T00:14:34 progress 20181224T211444Z (9500/19492) 0.304 st/s req={'requests': 48143, 'bytes': 2657784353, 'retries': 6, '404': 6} scanned=2521248 occ=2
+2026-11-07T00:16:19 progress 20181231T025714Z (9525/19492) 0.304 st/s req={'requests': 48289, 'bytes': 2665246274, 'retries': 6, '404': 6} scanned=2529059 occ=2
+2026-11-07T00:18:13 progress 20190106T210649Z (9550/19492) 0.304 st/s req={'requests': 48444, 'bytes': 2672568120, 'retries': 6, '404': 6} scanned=2535605 occ=2
+2026-11-07T00:20:12 progress 20190113T092926Z (9575/19492) 0.303 st/s req={'requests': 48607, 'bytes': 2680407481, 'retries': 6, '404': 6} scanned=2544689 occ=2
+2026-11-07T00:22:04 progress 20190119T211302Z (9600/19492) 0.303 st/s req={'requests': 48760, 'bytes': 2688080405, 'retries': 6, '404': 6} scanned=2552726 occ=2
+2026-11-07T00:23:44 progress 20190126T031001Z (9625/19492) 0.303 st/s req={'requests': 48880, 'bytes': 2695799922, 'retries': 6, '404': 6} scanned=2560732 occ=2
+2026-11-07T00:25:39 progress 20190201T092558Z (9650/19492) 0.303 st/s req={'requests': 49051, 'bytes': 2703426075, 'retries': 6, '404': 6} scanned=2568065 occ=2
+2026-11-07T00:27:47 progress 20190208T211335Z (9675/19492) 0.302 st/s req={'requests': 49236, 'bytes': 2711825455, 'retries': 6, '404': 6} scanned=2579506 occ=2
+2026-11-07T00:29:41 progress 20190215T033356Z (9700/19492) 0.302 st/s req={'requests': 49374, 'bytes': 2719670632, 'retries': 6, '404': 6} scanned=2587994 occ=2
+2026-11-07T00:31:26 progress 20190221T221136Z (9725/19492) 0.302 st/s req={'requests': 49510, 'bytes': 2726804904, 'retries': 6, '404': 6} scanned=2592662 occ=2
+2026-11-07T00:33:12 progress 20190301T035241Z (9750/19492) 0.301 st/s req={'requests': 49646, 'bytes': 2734594563, 'retries': 6, '404': 6} scanned=2600908 occ=2
+2026-11-07T00:34:53 progress 20190307T090717Z (9775/19492) 0.301 st/s req={'requests': 49774, 'bytes': 2741677068, 'retries': 6, '404': 6} scanned=2606069 occ=2
+2026-11-07T00:36:39 progress 20190313T152434Z (9800/19492) 0.301 st/s req={'requests': 49903, 'bytes': 2748539037, 'retries': 6, '404': 6} scanned=2609410 occ=2
+2026-11-07T00:38:09 progress 20190319T210049Z (9825/19492) 0.301 st/s req={'requests': 50018, 'bytes': 2755253822, 'retries': 6, '404': 6} scanned=2611935 occ=2
+2026-11-07T00:39:45 progress 20190326T095837Z (9850/19492) 0.301 st/s req={'requests': 50136, 'bytes': 2761844724, 'retries': 6, '404': 6} scanned=2613802 occ=2
+2026-11-07T00:41:36 progress 20190402T215053Z (9875/19492) 0.301 st/s req={'requests': 50282, 'bytes': 2768860494, 'retries': 6, '404': 6} scanned=2622497 occ=2
+2026-11-07T00:43:10 progress 20190409T033951Z (9900/19492) 0.301 st/s req={'requests': 50400, 'bytes': 2775606353, 'retries': 6, '404': 6} scanned=2625376 occ=2
+2026-11-07T00:44:44 progress 20190415T090628Z (9925/19492) 0.300 st/s req={'requests': 50518, 'bytes': 2782348494, 'retries': 6, '404': 6} scanned=2627025 occ=2
+2026-11-07T00:46:23 progress 20190421T161738Z (9950/19492) 0.300 st/s req={'requests': 50644, 'bytes': 2788999589, 'retries': 6, '404': 6} scanned=2628492 occ=2
+2026-11-07T00:48:10 progress 20190428T145935Z (9975/19492) 0.300 st/s req={'requests': 50767, 'bytes': 2795675173, 'retries': 6, '404': 6} scanned=2630130 occ=2
+2026-11-07T00:49:41 progress 20190505T032350Z (10000/19492) 0.300 st/s req={'requests': 50876, 'bytes': 2802607191, 'retries': 6, '404': 6} scanned=2633448 occ=2
+2026-11-07T00:51:23 progress 20190511T144548Z (10025/19492) 0.300 st/s req={'requests': 50991, 'bytes': 2809260758, 'retries': 6, '404': 6} scanned=2634764 occ=2
+2026-11-07T00:53:11 progress 20190517T212027Z (10050/19492) 0.300 st/s req={'requests': 51114, 'bytes': 2815878294, 'retries': 6, '404': 6} scanned=2636085 occ=2
+2026-11-07T00:54:45 progress 20190524T114039Z (10075/19492) 0.300 st/s req={'requests': 51228, 'bytes': 2822497447, 'retries': 6, '404': 6} scanned=2637611 occ=2
+2026-11-07T00:56:12 progress 20190531T031011Z (10100/19492) 0.300 st/s req={'requests': 51335, 'bytes': 2828987142, 'retries': 6, '404': 6} scanned=2638549 occ=2
+2026-11-07T00:57:40 progress 20190606T232454Z (10125/19492) 0.299 st/s req={'requests': 51452, 'bytes': 2835221343, 'retries': 6, '404': 6} scanned=2639907 occ=2
+2026-11-07T00:59:06 progress 20190613T100505Z (10150/19492) 0.299 st/s req={'requests': 51558, 'bytes': 2840847186, 'retries': 6, '404': 6} scanned=2640957 occ=2
+2026-11-07T01:00:35 progress 20190619T145736Z (10175/19492) 0.299 st/s req={'requests': 51665, 'bytes': 2846477040, 'retries': 6, '404': 6} scanned=2642271 occ=2
+2026-11-07T01:02:04 progress 20190626T040250Z (10200/19492) 0.299 st/s req={'requests': 51772, 'bytes': 2852192263, 'retries': 6, '404': 6} scanned=2643770 occ=2
+2026-11-07T01:03:24 progress 20190702T085226Z (10225/19492) 0.299 st/s req={'requests': 51870, 'bytes': 2857785428, 'retries': 6, '404': 6} scanned=2644420 occ=2
+2026-11-07T01:05:03 progress 20190710T032901Z (10250/19492) 0.299 st/s req={'requests': 52002, 'bytes': 2863442974, 'retries': 6, '404': 6} scanned=2651116 occ=2
+2026-11-07T01:06:49 progress 20190716T145518Z (10275/19492) 0.299 st/s req={'requests': 52153, 'bytes': 2869000892, 'retries': 6, '404': 6} scanned=2660302 occ=2
+2026-11-07T01:08:32 progress 20190722T212047Z (10300/19492) 0.299 st/s req={'requests': 52290, 'bytes': 2874478704, 'retries': 6, '404': 6} scanned=2668049 occ=2
+2026-11-07T01:10:15 progress 20190729T153838Z (10325/19492) 0.299 st/s req={'requests': 52423, 'bytes': 2879606861, 'retries': 6, '404': 6} scanned=2674504 occ=2
+2026-11-07T01:12:01 progress 20190804T215152Z (10350/19492) 0.299 st/s req={'requests': 52575, 'bytes': 2884816558, 'retries': 6, '404': 6} scanned=2681423 occ=2
+2026-11-07T01:13:42 progress 20190811T045655Z (10375/19492) 0.298 st/s req={'requests': 52704, 'bytes': 2890461111, 'retries': 6, '404': 6} scanned=2691668 occ=2
+2026-11-07T01:15:38 progress 20190818T085701Z (10400/19492) 0.298 st/s req={'requests': 52862, 'bytes': 2895780165, 'retries': 6, '404': 6} scanned=2699372 occ=2
+2026-11-07T01:17:42 progress 20190825T154948Z (10425/19492) 0.298 st/s req={'requests': 53032, 'bytes': 2902085810, 'retries': 6, '404': 6} scanned=2715376 occ=2
+2026-11-07T01:19:30 progress 20190901T043449Z (10450/19492) 0.298 st/s req={'requests': 53179, 'bytes': 2908096414, 'retries': 6, '404': 6} scanned=2728046 occ=2
+2026-11-07T01:20:58 retry https://snapshot.debian.org/archive/debian/20190908T222211Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T01:21:20 retry https://snapshot.debian.org/archive/debian/20190908T222211Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T01:22:18 progress 20190912T035300Z (10475/19492) 0.297 st/s req={'requests': 53331, 'bytes': 2962998844, 'retries': 8, '404': 6} scanned=2742028 occ=2
+2026-11-07T01:24:01 progress 20190918T090912Z (10500/19492) 0.297 st/s req={'requests': 53459, 'bytes': 2967743633, 'retries': 8, '404': 6} scanned=2747198 occ=2
+2026-11-07T01:25:43 progress 20190924T145550Z (10525/19492) 0.297 st/s req={'requests': 53588, 'bytes': 2972170066, 'retries': 8, '404': 6} scanned=2751124 occ=2
+2026-11-07T01:27:22 progress 20190930T204642Z (10550/19492) 0.296 st/s req={'requests': 53710, 'bytes': 2976821794, 'retries': 8, '404': 6} scanned=2756343 occ=2
+2026-11-07T01:29:04 progress 20191007T025117Z (10575/19492) 0.296 st/s req={'requests': 53838, 'bytes': 2981767919, 'retries': 8, '404': 6} scanned=2764030 occ=2
+2026-11-07T01:31:03 progress 20191013T091042Z (10600/19492) 0.296 st/s req={'requests': 53981, 'bytes': 2986377205, 'retries': 8, '404': 6} scanned=2770065 occ=2
+2026-11-07T01:32:50 progress 20191019T145203Z (10625/19492) 0.296 st/s req={'requests': 54121, 'bytes': 2991400125, 'retries': 8, '404': 6} scanned=2776655 occ=2
+2026-11-07T01:34:28 progress 20191025T224617Z (10650/19492) 0.296 st/s req={'requests': 54241, 'bytes': 2996338044, 'retries': 8, '404': 6} scanned=2783270 occ=2
+2026-11-07T01:36:14 progress 20191101T040208Z (10675/19492) 0.296 st/s req={'requests': 54369, 'bytes': 3001258265, 'retries': 8, '404': 6} scanned=2790389 occ=2
+2026-11-07T01:37:56 progress 20191107T152230Z (10700/19492) 0.295 st/s req={'requests': 54498, 'bytes': 3006097592, 'retries': 8, '404': 6} scanned=2796864 occ=2
+2026-11-07T01:39:26 progress 20191113T211608Z (10725/19492) 0.295 st/s req={'requests': 54622, 'bytes': 3011380247, 'retries': 8, '404': 6} scanned=2805452 occ=2
+2026-11-07T01:41:24 progress 20191121T024753Z (10750/19492) 0.295 st/s req={'requests': 54782, 'bytes': 3016749003, 'retries': 8, '404': 6} scanned=2815308 occ=2
+2026-11-07T01:43:10 progress 20191127T085221Z (10775/19492) 0.295 st/s req={'requests': 54925, 'bytes': 3021100714, 'retries': 8, '404': 6} scanned=2819706 occ=2
+2026-11-07T01:44:39 progress 20191203T152454Z (10800/19492) 0.295 st/s req={'requests': 55044, 'bytes': 3026167031, 'retries': 8, '404': 6} scanned=2827637 occ=2
+2026-11-07T01:46:21 progress 20191209T213706Z (10825/19492) 0.295 st/s req={'requests': 55181, 'bytes': 3031242365, 'retries': 8, '404': 6} scanned=2834566 occ=2
+2026-11-07T01:48:02 progress 20191216T033845Z (10850/19492) 0.295 st/s req={'requests': 55330, 'bytes': 3036074169, 'retries': 8, '404': 6} scanned=2839751 occ=2
+2026-11-07T01:49:39 progress 20191222T144949Z (10875/19492) 0.295 st/s req={'requests': 55460, 'bytes': 3040563909, 'retries': 8, '404': 6} scanned=2843571 occ=2
+2026-11-07T01:51:21 progress 20191228T212919Z (10900/19492) 0.294 st/s req={'requests': 55585, 'bytes': 3045592369, 'retries': 8, '404': 6} scanned=2849621 occ=2
+2026-11-07T01:53:07 progress 20200104T211510Z (10925/19492) 0.294 st/s req={'requests': 55709, 'bytes': 3050496560, 'retries': 8, '404': 6} scanned=2856359 occ=2
+2026-11-07T01:54:44 progress 20200111T032041Z (10950/19492) 0.294 st/s req={'requests': 55837, 'bytes': 3055699158, 'retries': 8, '404': 6} scanned=2864443 occ=2
+2026-11-07T01:56:40 progress 20200117T150411Z (10975/19492) 0.294 st/s req={'requests': 55992, 'bytes': 3060572287, 'retries': 8, '404': 6} scanned=2870114 occ=2
+2026-11-07T01:58:29 progress 20200123T211024Z (11000/19492) 0.294 st/s req={'requests': 56138, 'bytes': 3065724237, 'retries': 8, '404': 6} scanned=2878157 occ=2
+2026-11-07T02:00:22 progress 20200130T033332Z (11025/19492) 0.293 st/s req={'requests': 56272, 'bytes': 3070540916, 'retries': 8, '404': 6} scanned=2884199 occ=2
+2026-11-07T02:02:01 progress 20200205T085739Z (11050/19492) 0.293 st/s req={'requests': 56395, 'bytes': 3075495455, 'retries': 8, '404': 6} scanned=2891888 occ=2
+2026-11-07T02:03:44 progress 20200211T152953Z (11075/19492) 0.293 st/s req={'requests': 56535, 'bytes': 3080442647, 'retries': 8, '404': 6} scanned=2897963 occ=2
+2026-11-07T02:05:24 progress 20200217T210247Z (11100/19492) 0.293 st/s req={'requests': 56661, 'bytes': 3085405016, 'retries': 8, '404': 6} scanned=2904798 occ=2
+2026-11-07T02:07:10 progress 20200224T030953Z (11125/19492) 0.293 st/s req={'requests': 56789, 'bytes': 3090505647, 'retries': 8, '404': 6} scanned=2912744 occ=2
+2026-11-07T02:08:46 progress 20200301T085804Z (11150/19492) 0.293 st/s req={'requests': 56912, 'bytes': 3095529870, 'retries': 8, '404': 6} scanned=2919335 occ=2
+2026-11-07T02:10:15 progress 20200307T151215Z (11175/19492) 0.293 st/s req={'requests': 57026, 'bytes': 3100508093, 'retries': 8, '404': 6} scanned=2927596 occ=2
+2026-11-07T02:12:00 progress 20200314T030955Z (11200/19492) 0.293 st/s req={'requests': 57151, 'bytes': 3105338787, 'retries': 8, '404': 6} scanned=2933698 occ=2
+2026-11-07T02:13:44 progress 20200320T092429Z (11225/19492) 0.293 st/s req={'requests': 57302, 'bytes': 3110202717, 'retries': 8, '404': 6} scanned=2939945 occ=2
+2026-11-07T02:15:32 progress 20200326T153328Z (11250/19492) 0.292 st/s req={'requests': 57437, 'bytes': 3115819366, 'retries': 8, '404': 6} scanned=2949976 occ=2
+2026-11-07T02:17:14 progress 20200403T084831Z (11275/19492) 0.292 st/s req={'requests': 57577, 'bytes': 3121310769, 'retries': 8, '404': 6} scanned=2958978 occ=2
+2026-11-07T02:18:58 progress 20200409T144901Z (11300/19492) 0.292 st/s req={'requests': 57720, 'bytes': 3126477350, 'retries': 8, '404': 6} scanned=2965969 occ=2
+2026-11-07T02:20:59 progress 20200416T025115Z (11325/19492) 0.292 st/s req={'requests': 57888, 'bytes': 3131971749, 'retries': 8, '404': 6} scanned=2975933 occ=2
+2026-11-07T02:22:39 progress 20200422T145249Z (11350/19492) 0.292 st/s req={'requests': 58026, 'bytes': 3137696930, 'retries': 8, '404': 6} scanned=2985177 occ=2
+2026-11-07T02:24:16 progress 20200429T090736Z (11375/19492) 0.292 st/s req={'requests': 58163, 'bytes': 3142507546, 'retries': 8, '404': 6} scanned=2990099 occ=2
+2026-11-07T02:26:01 progress 20200505T150017Z (11400/19492) 0.291 st/s req={'requests': 58287, 'bytes': 3147197044, 'retries': 8, '404': 6} scanned=2994413 occ=2
+2026-11-07T02:27:43 progress 20200511T204139Z (11425/19492) 0.291 st/s req={'requests': 58431, 'bytes': 3152250451, 'retries': 8, '404': 6} scanned=3000661 occ=2
+2026-11-07T02:29:20 progress 20200518T024214Z (11450/19492) 0.291 st/s req={'requests': 58572, 'bytes': 3157319802, 'retries': 8, '404': 6} scanned=3007754 occ=2
+2026-11-07T02:31:08 progress 20200524T084904Z (11475/19492) 0.291 st/s req={'requests': 58707, 'bytes': 3162125199, 'retries': 8, '404': 6} scanned=3012911 occ=2
+2026-11-07T02:32:43 progress 20200530T143259Z (11500/19492) 0.291 st/s req={'requests': 58839, 'bytes': 3167305502, 'retries': 8, '404': 6} scanned=3020139 occ=2
+2026-11-07T02:34:35 progress 20200605T204331Z (11525/19492) 0.291 st/s req={'requests': 58992, 'bytes': 3172932229, 'retries': 8, '404': 6} scanned=3030033 occ=2
+2026-11-07T02:36:27 progress 20200612T144743Z (11550/19492) 0.291 st/s req={'requests': 59150, 'bytes': 3178023242, 'retries': 8, '404': 6} scanned=3036577 occ=2
+2026-11-07T02:38:13 progress 20200618T212047Z (11575/19492) 0.291 st/s req={'requests': 59275, 'bytes': 3183421861, 'retries': 8, '404': 6} scanned=3044445 occ=2
+2026-11-07T02:39:53 progress 20200625T024524Z (11600/19492) 0.290 st/s req={'requests': 59384, 'bytes': 3188370063, 'retries': 8, '404': 6} scanned=3051266 occ=2
+2026-11-07T02:41:34 progress 20200701T145157Z (11625/19492) 0.290 st/s req={'requests': 59519, 'bytes': 3193376333, 'retries': 8, '404': 6} scanned=3057336 occ=2
+2026-11-07T02:43:29 progress 20200707T204641Z (11650/19492) 0.290 st/s req={'requests': 59654, 'bytes': 3198050480, 'retries': 8, '404': 6} scanned=3062169 occ=2
+2026-11-07T02:45:22 progress 20200714T030043Z (11675/19492) 0.290 st/s req={'requests': 59781, 'bytes': 3202858629, 'retries': 8, '404': 6} scanned=3067023 occ=2
+2026-11-07T02:47:13 progress 20200720T030544Z (11700/19492) 0.290 st/s req={'requests': 59919, 'bytes': 3207904211, 'retries': 8, '404': 6} scanned=3073046 occ=2
+2026-11-07T02:49:21 progress 20200726T085317Z (11725/19492) 0.289 st/s req={'requests': 60073, 'bytes': 3213153012, 'retries': 8, '404': 6} scanned=3080579 occ=2
+2026-11-07T02:50:30 retry https://snapshot.debian.org/archive/debian/20200804T204401Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T02:51:17 progress 20200801T150407Z (11750/19492) 0.289 st/s req={'requests': 60196, 'bytes': 3218235980, 'retries': 9, '404': 6} scanned=3087423 occ=2
+2026-11-07T02:53:06 progress 20200807T204512Z (11775/19492) 0.289 st/s req={'requests': 60339, 'bytes': 3223268332, 'retries': 9, '404': 6} scanned=3093528 occ=2
+2026-11-07T02:55:11 progress 20200814T153758Z (11800/19492) 0.289 st/s req={'requests': 60484, 'bytes': 3228797819, 'retries': 9, '404': 6} scanned=3103246 occ=2
+2026-11-07T02:57:07 progress 20200821T084144Z (11825/19492) 0.289 st/s req={'requests': 60618, 'bytes': 3234544532, 'retries': 9, '404': 6} scanned=3113039 occ=2
+2026-11-07T02:58:44 progress 20200827T145438Z (11850/19492) 0.289 st/s req={'requests': 60743, 'bytes': 3239679580, 'retries': 9, '404': 6} scanned=3120030 occ=2
+2026-11-07T03:00:28 progress 20200903T084506Z (11875/19492) 0.288 st/s req={'requests': 60886, 'bytes': 3244505642, 'retries': 9, '404': 6} scanned=3125714 occ=2
+2026-11-07T03:02:15 progress 20200909T083954Z (11900/19492) 0.288 st/s req={'requests': 61026, 'bytes': 3249311236, 'retries': 9, '404': 6} scanned=3130781 occ=2
+2026-11-07T03:03:48 progress 20200915T145111Z (11925/19492) 0.288 st/s req={'requests': 61137, 'bytes': 3253752928, 'retries': 9, '404': 6} scanned=3135203 occ=2
+2026-11-07T03:05:26 progress 20200921T205322Z (11950/19492) 0.288 st/s req={'requests': 61261, 'bytes': 3258771817, 'retries': 9, '404': 6} scanned=3141640 occ=2
+2026-11-07T03:07:00 progress 20200928T030607Z (11975/19492) 0.288 st/s req={'requests': 61383, 'bytes': 3263653267, 'retries': 9, '404': 6} scanned=3147358 occ=2
+2026-11-07T03:07:02 20200928T091912Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:06 20200928T091912Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:09 20200928T091912Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:13 20200928T150544Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:16 20200928T150544Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:20 20200928T150544Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:23 20200928T210258Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:27 20200928T210258Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:30 20200928T210258Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:34 20200929T025235Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:37 20200929T025235Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:41 20200929T025235Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:42 20200929T025235Z contrib/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:43 20200929T025235Z contrib/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:45 20200929T025235Z contrib/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:48 20200929T085118Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:51 20200929T085118Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:55 20200929T085118Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:07:58 20200929T154717Z main/binary-amd64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:08:01 20200929T154717Z main/binary-i386/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:08:05 20200929T154717Z main/binary-arm64/Packages: pdiff result checksum mismatch; re-seeding
+2026-11-07T03:08:44 retry https://snapshot.debian.org/archive/debian/20201007T144719Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:09:37 progress 20201004T083822Z (12000/19492) 0.288 st/s req={'requests': 61530, 'bytes': 3621489238, 'retries': 10, '404': 6} scanned=3151480 occ=2
+2026-11-07T03:11:16 progress 20201010T145103Z (12025/19492) 0.288 st/s req={'requests': 61660, 'bytes': 3626142502, 'retries': 10, '404': 6} scanned=3156036 occ=2
+2026-11-07T03:12:58 progress 20201016T205404Z (12050/19492) 0.287 st/s req={'requests': 61787, 'bytes': 3631832394, 'retries': 10, '404': 6} scanned=3166979 occ=2
+2026-11-07T03:14:37 progress 20201023T024255Z (12075/19492) 0.287 st/s req={'requests': 61921, 'bytes': 3637340175, 'retries': 10, '404': 6} scanned=3175048 occ=2
+2026-11-07T03:15:45 retry https://snapshot.debian.org/archive/debian/20201026T144910Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:16:19 retry https://snapshot.debian.org/archive/debian/20201027T025240Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:16:39 retry https://snapshot.debian.org/archive/debian/20201027T025240Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:17:27 retry https://snapshot.debian.org/archive/debian/20201027T145139Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:18:05 retry https://snapshot.debian.org/archive/debian/20201028T033542Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:18:24 retry https://snapshot.debian.org/archive/debian/20201028T033542Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:19:07 retry https://snapshot.debian.org/archive/debian/20201028T144900Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:19:32 retry https://snapshot.debian.org/archive/debian/20201028T204821Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:20:14 retry https://snapshot.debian.org/archive/debian/20201029T084118Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:20:32 progress 20201029T084118Z (12100/19492) 0.286 st/s req={'requests': 62147, 'bytes': 3643143103, 'retries': 19, '404': 6} scanned=3180033 occ=2
+2026-11-07T03:23:01 20201104T145852Z dists/sid/contrib/binary-amd64/Packages: patch 2020-11-04-1405.44.gz.gz missing at 20201105T032615Z
+2026-11-07T03:23:02 progress 20201104T145852Z (12125/19492) 0.285 st/s req={'requests': 62342, 'bytes': 3648378332, 'retries': 19, '404': 7} scanned=3189870 occ=2
+2026-11-07T03:23:13 20201104T213038Z dists/sid/non-free/binary-i386/Packages: patch 2020-11-04-2002.35.gz.gz missing at 20201105T032615Z
+2026-11-07T03:23:15 20201104T213038Z dists/sid/non-free/binary-arm64/Packages: patch 2020-11-04-2002.35.gz.gz missing at 20201105T032615Z
+2026-11-07T03:25:08 progress 20201111T093740Z (12150/19492) 0.285 st/s req={'requests': 62514, 'bytes': 3654047042, 'retries': 19, '404': 9} scanned=3199804 occ=2
+2026-11-07T03:26:53 progress 20201117T152525Z (12175/19492) 0.285 st/s req={'requests': 62672, 'bytes': 3658983713, 'retries': 19, '404': 9} scanned=3205590 occ=2
+2026-11-07T03:28:38 progress 20201123T212042Z (12200/19492) 0.285 st/s req={'requests': 62818, 'bytes': 3664711598, 'retries': 19, '404': 9} scanned=3216759 occ=2
+2026-11-07T03:30:18 progress 20201130T032709Z (12225/19492) 0.285 st/s req={'requests': 62949, 'bytes': 3669895119, 'retries': 19, '404': 9} scanned=3224148 occ=2
+2026-11-07T03:32:01 progress 20201206T024851Z (12250/19492) 0.284 st/s req={'requests': 63099, 'bytes': 3675008499, 'retries': 19, '404': 9} scanned=3229994 occ=2
+2026-11-07T03:33:48 progress 20201212T023931Z (12275/19492) 0.284 st/s req={'requests': 63239, 'bytes': 3681601847, 'retries': 19, '404': 9} scanned=3245269 occ=2
+2026-11-07T03:35:25 retry https://snapshot.debian.org/archive/debian/20201223T025244Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:35:57 progress 20201218T091134Z (12300/19492) 0.284 st/s req={'requests': 63391, 'bytes': 3687604064, 'retries': 20, '404': 9} scanned=3257019 occ=2
+2026-11-07T03:37:37 progress 20201224T143033Z (12325/19492) 0.284 st/s req={'requests': 63518, 'bytes': 3693241730, 'retries': 20, '404': 9} scanned=3266526 occ=2
+2026-11-07T03:39:23 progress 20201230T203527Z (12350/19492) 0.284 st/s req={'requests': 63658, 'bytes': 3698767365, 'retries': 20, '404': 9} scanned=3274131 occ=2
+2026-11-07T03:41:11 progress 20210106T022840Z (12375/19492) 0.284 st/s req={'requests': 63806, 'bytes': 3705325532, 'retries': 20, '404': 9} scanned=3284749 occ=2
+2026-11-07T03:45:52 retry https://snapshot.debian.org/archive/debian/20210111T210416Z/dists/sid/contrib/binary-amd64/Packages.diff/2021-01-11-1401.26.gz: TimeoutError('The read operation timed out'); sleeping 5s
+2026-11-07T03:46:12 progress 20210112T084455Z (12400/19492) 0.282 st/s req={'requests': 63965, 'bytes': 3712254925, 'retries': 21, '404': 9} scanned=3306828 occ=2
+2026-11-07T03:47:43 retry https://snapshot.debian.org/archive/debian/20210123T092712Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:48:14 progress 20210118T153049Z (12425/19492) 0.282 st/s req={'requests': 64112, 'bytes': 3717968891, 'retries': 22, '404': 9} scanned=3314859 occ=2
+2026-11-07T03:50:13 progress 20210124T203726Z (12450/19492) 0.282 st/s req={'requests': 64260, 'bytes': 3723825591, 'retries': 22, '404': 9} scanned=3322689 occ=2
+2026-11-07T03:52:00 progress 20210131T023951Z (12475/19492) 0.282 st/s req={'requests': 64399, 'bytes': 3729299575, 'retries': 22, '404': 9} scanned=3328947 occ=2
+2026-11-07T03:53:40 retry https://snapshot.debian.org/archive/debian/20210210T211021Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T03:54:11 progress 20210206T105319Z (12500/19492) 0.282 st/s req={'requests': 64545, 'bytes': 3735236891, 'retries': 23, '404': 9} scanned=3336799 occ=2
+2026-11-07T03:55:59 progress 20210212T095132Z (12525/19492) 0.281 st/s req={'requests': 64689, 'bytes': 3740820001, 'retries': 23, '404': 9} scanned=3343626 occ=2
+2026-11-07T03:57:34 progress 20210218T111050Z (12550/19492) 0.281 st/s req={'requests': 64810, 'bytes': 3745653027, 'retries': 23, '404': 9} scanned=3347252 occ=2
+2026-11-07T03:59:19 progress 20210224T204130Z (12575/19492) 0.281 st/s req={'requests': 64941, 'bytes': 3750847182, 'retries': 23, '404': 9} scanned=3351413 occ=2
+2026-11-07T04:00:48 retry https://snapshot.debian.org/archive/debian/20210307T204821Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:01:23 progress 20210303T024957Z (12600/19492) 0.281 st/s req={'requests': 65078, 'bytes': 3756151708, 'retries': 24, '404': 9} scanned=3355856 occ=2
+2026-11-07T04:03:04 progress 20210309T083107Z (12625/19492) 0.281 st/s req={'requests': 65197, 'bytes': 3760968091, 'retries': 24, '404': 9} scanned=3359013 occ=2
+2026-11-07T04:04:34 retry https://snapshot.debian.org/archive/debian/20210320T092049Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:05:08 progress 20210315T151701Z (12650/19492) 0.281 st/s req={'requests': 65337, 'bytes': 3765874630, 'retries': 25, '404': 9} scanned=3362197 occ=2
+2026-11-07T04:06:40 progress 20210321T211624Z (12675/19492) 0.281 st/s req={'requests': 65445, 'bytes': 3770489333, 'retries': 25, '404': 9} scanned=3364781 occ=2
+2026-11-07T04:08:22 progress 20210328T091458Z (12700/19492) 0.281 st/s req={'requests': 65569, 'bytes': 3775155060, 'retries': 25, '404': 9} scanned=3366310 occ=2
+2026-11-07T04:10:03 progress 20210403T205218Z (12725/19492) 0.281 st/s req={'requests': 65702, 'bytes': 3779603288, 'retries': 25, '404': 9} scanned=3367631 occ=2
+2026-11-07T04:11:21 retry https://snapshot.debian.org/archive/debian/20210415T031628Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:11:52 progress 20210410T082752Z (12750/19492) 0.280 st/s req={'requests': 65823, 'bytes': 3784225377, 'retries': 26, '404': 9} scanned=3369831 occ=2
+2026-11-07T04:13:36 progress 20210416T143151Z (12775/19492) 0.280 st/s req={'requests': 65943, 'bytes': 3788766185, 'retries': 26, '404': 9} scanned=3371433 occ=2
+2026-11-07T04:15:00 retry https://snapshot.debian.org/archive/debian/20210427T145548Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:15:33 progress 20210422T211944Z (12800/19492) 0.280 st/s req={'requests': 66067, 'bytes': 3793778925, 'retries': 27, '404': 9} scanned=3374276 occ=2
+2026-11-07T04:16:57 retry https://snapshot.debian.org/archive/debian/20210503T211531Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:17:12 retry https://snapshot.debian.org/archive/debian/20210503T211531Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T04:17:47 progress 20210429T023310Z (12825/19492) 0.280 st/s req={'requests': 66195, 'bytes': 3798521896, 'retries': 29, '404': 9} scanned=3377012 occ=2
+2026-11-07T04:19:20 progress 20210505T083056Z (12850/19492) 0.280 st/s req={'requests': 66310, 'bytes': 3803196494, 'retries': 29, '404': 9} scanned=3378603 occ=2
+2026-11-07T04:20:56 progress 20210511T151752Z (12875/19492) 0.280 st/s req={'requests': 66433, 'bytes': 3807813957, 'retries': 29, '404': 9} scanned=3379716 occ=2
+2026-11-07T04:22:28 progress 20210517T203824Z (12900/19492) 0.280 st/s req={'requests': 66552, 'bytes': 3812459780, 'retries': 29, '404': 9} scanned=3380698 occ=2
+2026-11-07T04:23:47 retry https://snapshot.debian.org/archive/debian/20210528T143702Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:24:26 progress 20210523T202856Z (12925/19492) 0.280 st/s req={'requests': 66666, 'bytes': 3817072596, 'retries': 30, '404': 9} scanned=3381748 occ=2
+2026-11-07T04:25:43 retry https://snapshot.debian.org/archive/debian/20210603T213110Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:26:13 progress 20210530T023224Z (12950/19492) 0.280 st/s req={'requests': 66780, 'bytes': 3821642160, 'retries': 31, '404': 9} scanned=3383040 occ=2
+2026-11-07T04:27:40 progress 20210605T083205Z (12975/19492) 0.280 st/s req={'requests': 66885, 'bytes': 3826569998, 'retries': 31, '404': 9} scanned=3386501 occ=2
+2026-11-07T04:29:21 progress 20210611T152119Z (13000/19492) 0.280 st/s req={'requests': 67010, 'bytes': 3831476971, 'retries': 31, '404': 9} scanned=3388305 occ=2
+2026-11-07T04:30:52 progress 20210617T144253Z (13025/19492) 0.280 st/s req={'requests': 67124, 'bytes': 3836078559, 'retries': 31, '404': 9} scanned=3389525 occ=2
+2026-11-07T04:32:21 progress 20210623T190815Z (13050/19492) 0.280 st/s req={'requests': 67227, 'bytes': 3840433757, 'retries': 31, '404': 9} scanned=3390537 occ=2
+2026-11-07T04:33:57 progress 20210629T151153Z (13075/19492) 0.279 st/s req={'requests': 67335, 'bytes': 3845060230, 'retries': 31, '404': 9} scanned=3391261 occ=2
+2026-11-07T04:35:37 progress 20210705T210743Z (13100/19492) 0.279 st/s req={'requests': 67444, 'bytes': 3849664921, 'retries': 31, '404': 9} scanned=3392505 occ=2
+2026-11-07T04:37:03 progress 20210712T030640Z (13125/19492) 0.279 st/s req={'requests': 67541, 'bytes': 3854180953, 'retries': 31, '404': 9} scanned=3393186 occ=2
+2026-11-07T04:38:34 progress 20210718T144801Z (13150/19492) 0.279 st/s req={'requests': 67647, 'bytes': 3858917521, 'retries': 31, '404': 9} scanned=3394955 occ=2
+2026-11-07T04:40:05 progress 20210724T212641Z (13175/19492) 0.279 st/s req={'requests': 67758, 'bytes': 3863492608, 'retries': 31, '404': 9} scanned=3396254 occ=2
+2026-11-07T04:41:50 progress 20210731T024437Z (13200/19492) 0.279 st/s req={'requests': 67888, 'bytes': 3868172802, 'retries': 31, '404': 9} scanned=3397328 occ=2
+2026-11-07T04:43:21 retry https://snapshot.debian.org/archive/debian/20210811T151429Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:43:47 progress 20210806T151911Z (13225/19492) 0.279 st/s req={'requests': 68011, 'bytes': 3872968952, 'retries': 32, '404': 9} scanned=3398025 occ=2
+2026-11-07T04:45:11 progress 20210812T220934Z (13250/19492) 0.279 st/s req={'requests': 68104, 'bytes': 3877437884, 'retries': 32, '404': 9} scanned=3399103 occ=2
+2026-11-07T04:47:08 progress 20210820T024246Z (13275/19492) 0.279 st/s req={'requests': 68249, 'bytes': 3884746557, 'retries': 32, '404': 9} scanned=3413439 occ=2
+2026-11-07T04:49:11 progress 20210826T161923Z (13300/19492) 0.279 st/s req={'requests': 68398, 'bytes': 3891383482, 'retries': 32, '404': 9} scanned=3424176 occ=2
+2026-11-07T04:51:08 progress 20210902T143727Z (13325/19492) 0.279 st/s req={'requests': 68537, 'bytes': 3897662612, 'retries': 32, '404': 9} scanned=3432871 occ=2
+2026-11-07T04:52:40 retry https://snapshot.debian.org/archive/debian/20210913T203753Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T04:53:08 progress 20210908T210625Z (13350/19492) 0.278 st/s req={'requests': 68664, 'bytes': 3903420459, 'retries': 33, '404': 9} scanned=3439908 occ=2
+2026-11-07T04:55:01 progress 20210915T024357Z (13375/19492) 0.278 st/s req={'requests': 68802, 'bytes': 3909267868, 'retries': 33, '404': 9} scanned=3446144 occ=2
+2026-11-07T04:56:38 progress 20210921T084949Z (13400/19492) 0.278 st/s req={'requests': 68913, 'bytes': 3915268673, 'retries': 33, '404': 9} scanned=3455269 occ=2
+2026-11-07T04:58:25 progress 20210927T145049Z (13425/19492) 0.278 st/s req={'requests': 69056, 'bytes': 3921061735, 'retries': 33, '404': 9} scanned=3462167 occ=2
+2026-11-07T04:59:57 retry https://snapshot.debian.org/archive/debian/20211008T205822Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T05:00:31 progress 20211003T205632Z (13450/19492) 0.278 st/s req={'requests': 69190, 'bytes': 3927009337, 'retries': 34, '404': 9} scanned=3469117 occ=2
+2026-11-07T05:02:14 progress 20211010T084324Z (13475/19492) 0.278 st/s req={'requests': 69323, 'bytes': 3932361060, 'retries': 34, '404': 9} scanned=3473608 occ=2
+2026-11-07T05:04:12 progress 20211016T144814Z (13500/19492) 0.278 st/s req={'requests': 69466, 'bytes': 3938808757, 'retries': 34, '404': 9} scanned=3483436 occ=2
+2026-11-07T05:06:01 progress 20211022T210008Z (13525/19492) 0.278 st/s req={'requests': 69598, 'bytes': 3944593395, 'retries': 34, '404': 9} scanned=3489462 occ=2
+2026-11-07T05:07:54 progress 20211029T144626Z (13550/19492) 0.278 st/s req={'requests': 69735, 'bytes': 3950446261, 'retries': 34, '404': 9} scanned=3496050 occ=2
+2026-11-07T05:09:39 progress 20211104T205152Z (13575/19492) 0.277 st/s req={'requests': 69875, 'bytes': 3956139900, 'retries': 34, '404': 9} scanned=3503180 occ=2
+2026-11-07T05:11:43 progress 20211111T153104Z (13600/19492) 0.277 st/s req={'requests': 70040, 'bytes': 3961999083, 'retries': 34, '404': 9} scanned=3509280 occ=2
+2026-11-07T05:13:37 progress 20211118T025207Z (13625/19492) 0.277 st/s req={'requests': 70187, 'bytes': 3967722677, 'retries': 34, '404': 9} scanned=3515075 occ=2
+2026-11-07T05:15:33 progress 20211124T085412Z (13650/19492) 0.277 st/s req={'requests': 70321, 'bytes': 3973972414, 'retries': 34, '404': 9} scanned=3525538 occ=2
+2026-11-07T05:17:23 progress 20211130T211414Z (13675/19492) 0.277 st/s req={'requests': 70451, 'bytes': 3980339870, 'retries': 34, '404': 9} scanned=3534072 occ=2
+2026-11-07T05:19:05 retry https://snapshot.debian.org/archive/debian/20211212T031254Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T05:19:32 progress 20211207T025108Z (13700/19492) 0.277 st/s req={'requests': 70590, 'bytes': 3986100071, 'retries': 35, '404': 9} scanned=3540383 occ=2
+2026-11-07T05:21:22 progress 20211213T092828Z (13725/19492) 0.277 st/s req={'requests': 70728, 'bytes': 3991825864, 'retries': 35, '404': 9} scanned=3545778 occ=8
+2026-11-07T05:23:09 progress 20211219T085059Z (13750/19492) 0.276 st/s req={'requests': 70865, 'bytes': 3997443967, 'retries': 35, '404': 9} scanned=3551383 occ=8
+2026-11-07T05:24:39 progress 20211225T152514Z (13775/19492) 0.276 st/s req={'requests': 70967, 'bytes': 3999202434, 'retries': 35, '404': 9} scanned=3555667 occ=8
+2026-11-07T05:26:31 retry https://snapshot.debian.org/archive/debian/20220108T150808Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T05:26:53 progress 20220103T084054Z (13800/19492) 0.276 st/s req={'requests': 71132, 'bytes': 4003805464, 'retries': 36, '404': 9} scanned=3562316 occ=8
+2026-11-07T05:28:43 progress 20220109T153400Z (13825/19492) 0.276 st/s req={'requests': 71266, 'bytes': 4009449754, 'retries': 36, '404': 9} scanned=3567766 occ=8
+2026-11-07T05:30:22 retry https://snapshot.debian.org/archive/debian/20220122T205743Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T05:30:49 progress 20220115T220149Z (13850/19492) 0.276 st/s req={'requests': 71404, 'bytes': 4015305330, 'retries': 37, '404': 9} scanned=3573864 occ=8
+2026-11-07T05:32:53 progress 20220123T205343Z (13875/19492) 0.276 st/s req={'requests': 71570, 'bytes': 4021610644, 'retries': 37, '404': 9} scanned=3583364 occ=8
+2026-11-07T05:34:53 progress 20220130T030506Z (13900/19492) 0.276 st/s req={'requests': 71706, 'bytes': 4027489559, 'retries': 37, '404': 9} scanned=3591260 occ=8
+2026-11-07T05:36:51 progress 20220205T084847Z (13925/19492) 0.275 st/s req={'requests': 71857, 'bytes': 4033317989, 'retries': 37, '404': 9} scanned=3597684 occ=8
+2026-11-07T05:38:50 progress 20220211T152959Z (13950/19492) 0.275 st/s req={'requests': 71994, 'bytes': 4039527066, 'retries': 37, '404': 9} scanned=3607705 occ=8
+2026-11-07T05:40:47 progress 20220217T205633Z (13975/19492) 0.275 st/s req={'requests': 72140, 'bytes': 4045925464, 'retries': 37, '404': 9} scanned=3617682 occ=8
+2026-11-07T05:42:40 retry https://snapshot.debian.org/archive/debian/20220301T084541Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T05:43:00 progress 20220224T030026Z (14000/19492) 0.275 st/s req={'requests': 72290, 'bytes': 4052183897, 'retries': 38, '404': 9} scanned=3626541 occ=8
+2026-11-07T05:44:53 progress 20220302T092843Z (14025/19492) 0.275 st/s req={'requests': 72410, 'bytes': 4057702305, 'retries': 38, '404': 9} scanned=3632457 occ=8
+2026-11-07T05:46:58 progress 20220310T151323Z (14050/19492) 0.275 st/s req={'requests': 72564, 'bytes': 4063952608, 'retries': 38, '404': 9} scanned=3641125 occ=8
+2026-11-07T05:48:51 progress 20220316T210618Z (14075/19492) 0.274 st/s req={'requests': 72681, 'bytes': 4069892387, 'retries': 38, '404': 9} scanned=3649964 occ=8
+2026-11-07T05:50:34 progress 20220323T030602Z (14100/19492) 0.274 st/s req={'requests': 72795, 'bytes': 4075361712, 'retries': 38, '404': 9} scanned=3655619 occ=8
+2026-11-07T05:52:14 progress 20220329T030734Z (14125/19492) 0.274 st/s req={'requests': 72907, 'bytes': 4081314541, 'retries': 38, '404': 9} scanned=3663450 occ=8
+2026-11-07T05:54:19 progress 20220405T153550Z (14150/19492) 0.274 st/s req={'requests': 73071, 'bytes': 4087584350, 'retries': 38, '404': 9} scanned=3672998 occ=8
+2026-11-07T05:56:16 progress 20220411T212101Z (14175/19492) 0.274 st/s req={'requests': 73201, 'bytes': 4093066078, 'retries': 38, '404': 9} scanned=3677085 occ=8
+2026-11-07T05:58:09 progress 20220418T024607Z (14200/19492) 0.274 st/s req={'requests': 73336, 'bytes': 4098459546, 'retries': 38, '404': 9} scanned=3681212 occ=8
+2026-11-07T06:00:04 progress 20220424T033803Z (14225/19492) 0.274 st/s req={'requests': 73467, 'bytes': 4104202436, 'retries': 38, '404': 9} scanned=3687574 occ=8
+2026-11-07T06:01:55 progress 20220430T155722Z (14250/19492) 0.274 st/s req={'requests': 73583, 'bytes': 4109675002, 'retries': 38, '404': 9} scanned=3693446 occ=8
+2026-11-07T06:03:50 progress 20220507T034236Z (14275/19492) 0.274 st/s req={'requests': 73712, 'bytes': 4115457944, 'retries': 38, '404': 9} scanned=3698811 occ=8
+2026-11-07T06:05:42 progress 20220513T145637Z (14300/19492) 0.273 st/s req={'requests': 73842, 'bytes': 4120859556, 'retries': 38, '404': 9} scanned=3704168 occ=8
+2026-11-07T06:07:28 retry https://snapshot.debian.org/archive/debian/20220525T212247Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:07:54 progress 20220519T220321Z (14325/19492) 0.273 st/s req={'requests': 73972, 'bytes': 4127631023, 'retries': 39, '404': 9} scanned=3717213 occ=8
+2026-11-07T06:10:03 progress 20220527T090912Z (14350/19492) 0.273 st/s req={'requests': 74138, 'bytes': 4133640246, 'retries': 39, '404': 9} scanned=3724929 occ=8
+2026-11-07T06:11:41 retry https://snapshot.debian.org/archive/debian/20220607T211528Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:12:07 progress 20220602T145717Z (14375/19492) 0.273 st/s req={'requests': 74261, 'bytes': 4139422291, 'retries': 40, '404': 9} scanned=3731999 occ=8
+2026-11-07T06:13:50 retry https://snapshot.debian.org/archive/debian/20220614T031637Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:14:11 progress 20220608T210836Z (14400/19492) 0.273 st/s req={'requests': 74388, 'bytes': 4145131908, 'retries': 41, '404': 9} scanned=3737693 occ=8
+2026-11-07T06:16:15 progress 20220615T031443Z (14425/19492) 0.273 st/s req={'requests': 74524, 'bytes': 4151343086, 'retries': 41, '404': 9} scanned=3746428 occ=8
+2026-11-07T06:17:57 retry https://snapshot.debian.org/archive/debian/20220627T090226Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:18:26 progress 20220621T155626Z (14450/19492) 0.272 st/s req={'requests': 74663, 'bytes': 4157311318, 'retries': 42, '404': 9} scanned=3753295 occ=8
+2026-11-07T06:20:30 progress 20220628T090945Z (14475/19492) 0.272 st/s req={'requests': 74821, 'bytes': 4163541642, 'retries': 42, '404': 9} scanned=3762845 occ=8
+2026-11-07T06:22:21 retry https://snapshot.debian.org/archive/debian/20220710T211645Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:22:48 progress 20220705T084757Z (14500/19492) 0.272 st/s req={'requests': 74970, 'bytes': 4169780653, 'retries': 43, '404': 9} scanned=3771435 occ=8
+2026-11-07T06:24:30 retry https://snapshot.debian.org/archive/debian/20220717T090114Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:24:51 progress 20220711T211308Z (14525/19492) 0.272 st/s req={'requests': 75101, 'bytes': 4175339692, 'retries': 44, '404': 9} scanned=3776954 occ=8
+2026-11-07T06:26:46 progress 20220718T090250Z (14550/19492) 0.272 st/s req={'requests': 75233, 'bytes': 4181141650, 'retries': 44, '404': 9} scanned=3782917 occ=8
+2026-11-07T06:28:48 progress 20220724T155906Z (14575/19492) 0.272 st/s req={'requests': 75375, 'bytes': 4188683622, 'retries': 44, '404': 9} scanned=3796364 occ=8
+2026-11-07T06:30:30 retry https://snapshot.debian.org/archive/debian/20220805T030853Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:30:58 progress 20220730T210458Z (14600/19492) 0.271 st/s req={'requests': 75508, 'bytes': 4195054486, 'retries': 45, '404': 9} scanned=3802409 occ=8
+2026-11-07T06:32:51 retry https://snapshot.debian.org/archive/debian/20220811T092814Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:33:12 progress 20220806T032930Z (14625/19492) 0.271 st/s req={'requests': 75645, 'bytes': 4201758243, 'retries': 46, '404': 9} scanned=3809977 occ=8
+2026-11-07T06:35:00 retry https://snapshot.debian.org/archive/debian/20220822T155847Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:35:32 progress 20220813T041505Z (14650/19492) 0.271 st/s req={'requests': 75797, 'bytes': 4208427587, 'retries': 47, '404': 9} scanned=3817206 occ=8
+2026-11-07T06:37:48 retry https://snapshot.debian.org/archive/debian/20220910T124528Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:38:12 retry https://snapshot.debian.org/archive/debian/20220823T031903Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:39:23 retry https://snapshot.debian.org/archive/debian/20220824T152619Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:40:14 progress 20220825T090606Z (14675/19492) 0.270 st/s req={'requests': 76052, 'bytes': 4218095070, 'retries': 50, '404': 9} scanned=3832658 occ=8
+2026-11-07T06:40:57 retry https://snapshot.debian.org/archive/debian/20220826T211148Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:42:01 retry https://snapshot.debian.org/archive/debian/20220828T085605Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:42:34 retry https://snapshot.debian.org/archive/debian/20220829T032859Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:43:31 retry https://snapshot.debian.org/archive/debian/20220829T220426Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:47:18 progress 20220912T091356Z (14700/19492) 0.268 st/s req={'requests': 76435, 'bytes': 4230922133, 'retries': 54, '404': 9} scanned=3853515 occ=8
+2026-11-07T06:49:32 progress 20220921T235202Z (14725/19492) 0.268 st/s req={'requests': 76612, 'bytes': 4238697713, 'retries': 54, '404': 9} scanned=3870900 occ=8
+2026-11-07T06:50:30 retry https://snapshot.debian.org/archive/debian/20221002T031028Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:51:51 progress 20220929T030045Z (14750/19492) 0.268 st/s req={'requests': 76763, 'bytes': 4245691786, 'retries': 55, '404': 9} scanned=3884822 occ=8
+2026-11-07T06:53:01 retry https://snapshot.debian.org/archive/debian/20221010T090240Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:54:38 progress 20221007T205434Z (14775/19492) 0.268 st/s req={'requests': 76965, 'bytes': 4252515171, 'retries': 56, '404': 9} scanned=3897033 occ=8
+2026-11-07T06:55:30 retry https://snapshot.debian.org/archive/debian/20221019T092109Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:57:06 progress 20221016T034904Z (14800/19492) 0.267 st/s req={'requests': 77134, 'bytes': 4259869711, 'retries': 57, '404': 9} scanned=3912008 occ=8
+2026-11-07T06:58:15 retry https://snapshot.debian.org/archive/debian/20221025T210129Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T06:59:32 progress 20221023T025040Z (14825/19492) 0.267 st/s req={'requests': 77291, 'bytes': 4267128604, 'retries': 58, '404': 9} scanned=3927654 occ=8
+2026-11-07T07:00:35 retry https://snapshot.debian.org/archive/debian/20221107T211524Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:02:44 progress 20221104T031915Z (14850/19492) 0.267 st/s req={'requests': 77529, 'bytes': 4274735436, 'retries': 59, '404': 9} scanned=3944286 occ=8
+2026-11-07T07:03:59 retry https://snapshot.debian.org/archive/debian/20221119T091948Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:05:27 progress 20221113T151655Z (14875/19492) 0.266 st/s req={'requests': 77726, 'bytes': 4281781247, 'retries': 60, '404': 9} scanned=3959276 occ=8
+2026-11-07T07:06:54 retry https://snapshot.debian.org/archive/debian/20221129T091040Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:08:18 progress 20221124T030451Z (14900/19492) 0.266 st/s req={'requests': 77936, 'bytes': 4288957393, 'retries': 61, '404': 9} scanned=3973263 occ=8
+2026-11-07T07:09:32 retry https://snapshot.debian.org/archive/debian/20221212T025705Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:11:36 progress 20221208T032103Z (14925/19492) 0.265 st/s req={'requests': 78200, 'bytes': 4296721958, 'retries': 62, '404': 9} scanned=3990110 occ=8
+2026-11-07T07:14:25 progress 20221221T031939Z (14950/19492) 0.265 st/s req={'requests': 78433, 'bytes': 4304108539, 'retries': 62, '404': 9} scanned=4005271 occ=8
+2026-11-07T07:15:40 retry https://snapshot.debian.org/archive/debian/20221225T150436Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:16:28 retry https://snapshot.debian.org/archive/debian/20221225T204518Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:17:24 retry https://snapshot.debian.org/archive/debian/20221227T032939Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:18:16 retry https://snapshot.debian.org/archive/debian/20221228T092916Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:18:44 retry https://snapshot.debian.org/archive/debian/20221229T091003Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:19:59 retry https://snapshot.debian.org/archive/debian/20221230T151741Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:22:15 progress 20230105T033628Z (14975/19492) 0.263 st/s req={'requests': 78795, 'bytes': 4316199838, 'retries': 68, '404': 9} scanned=4028982 occ=8
+2026-11-07T07:26:07 retry https://snapshot.debian.org/archive/debian/20230115T211934Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:26:52 retry https://snapshot.debian.org/archive/debian/20230116T212610Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:28:45 retry https://snapshot.debian.org/archive/debian/20230120T150743Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:29:30 progress 20230120T150743Z (15000/19492) 0.262 st/s req={'requests': 79162, 'bytes': 4328359985, 'retries': 71, '404': 9} scanned=4059998 occ=8
+2026-11-07T07:29:42 retry https://snapshot.debian.org/archive/debian/20230120T210945Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:30:28 retry https://snapshot.debian.org/archive/debian/20230121T034110Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:33:53 retry https://snapshot.debian.org/archive/debian/20230126T092209Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:35:15 retry https://snapshot.debian.org/archive/debian/20230127T150858Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:35:55 retry https://snapshot.debian.org/archive/debian/20230128T154824Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:37:39 retry https://snapshot.debian.org/archive/debian/20230129T214128Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:40:56 retry https://snapshot.debian.org/archive/debian/20230201T153118Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:42:31 retry https://snapshot.debian.org/archive/debian/20230202T212152Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:43:23 retry https://snapshot.debian.org/archive/debian/20230204T031401Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:44:39 retry https://snapshot.debian.org/archive/debian/20230225T084744Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:48:02 retry https://snapshot.debian.org/archive/debian/20230225T204421Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:51:07 progress 20230212T030435Z (15025/19492) 0.256 st/s req={'requests': 79799, 'bytes': 4347812994, 'retries': 82, '404': 9} scanned=4095153 occ=8
+2026-11-07T07:54:56 retry https://snapshot.debian.org/archive/debian/20230303T144023Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T07:59:04 progress 20230301T090525Z (15050/19492) 0.255 st/s req={'requests': 80174, 'bytes': 4357451668, 'retries': 83, '404': 9} scanned=4110971 occ=8
+2026-11-07T08:00:02 retry https://snapshot.debian.org/archive/debian/20230315T145325Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:01:32 progress 20230310T151228Z (15075/19492) 0.254 st/s req={'requests': 80332, 'bytes': 4362973097, 'retries': 84, '404': 9} scanned=4115399 occ=8
+2026-11-07T08:02:49 retry https://snapshot.debian.org/archive/debian/20230326T212104Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:05:03 progress 20230323T085240Z (15100/19492) 0.254 st/s req={'requests': 80565, 'bytes': 4368901356, 'retries': 85, '404': 9} scanned=4119298 occ=8
+2026-11-07T08:07:26 progress 20230404T084756Z (15125/19492) 0.254 st/s req={'requests': 80735, 'bytes': 4374380881, 'retries': 85, '404': 9} scanned=4122617 occ=8
+2026-11-07T08:10:02 progress 20230415T205358Z (15150/19492) 0.254 st/s req={'requests': 80944, 'bytes': 4380382460, 'retries': 85, '404': 9} scanned=4126919 occ=8
+2026-11-07T08:10:54 retry https://snapshot.debian.org/archive/debian/20230504T144702Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:11:47 retry https://snapshot.debian.org/archive/debian/20230418T085813Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:12:58 retry https://snapshot.debian.org/archive/debian/20230418T204631Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:13:34 retry https://snapshot.debian.org/archive/debian/20230419T084925Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:13:58 retry https://snapshot.debian.org/archive/debian/20230419T205131Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:14:17 retry https://snapshot.debian.org/archive/debian/20230419T205131Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:15:43 retry https://snapshot.debian.org/archive/debian/20230423T032533Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:16:06 retry https://snapshot.debian.org/archive/debian/20230423T032533Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:20:12 progress 20230428T030634Z (15175/19492) 0.251 st/s req={'requests': 81218, 'bytes': 4389762396, 'retries': 93, '404': 9} scanned=4129167 occ=8
+2026-11-07T08:24:41 retry https://snapshot.debian.org/archive/debian/20230508T205124Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:25:30 retry https://snapshot.debian.org/archive/debian/20230509T025554Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:26:13 retry https://snapshot.debian.org/archive/debian/20230527T085334Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:26:36 retry https://snapshot.debian.org/archive/debian/20230509T145346Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:26:52 retry https://snapshot.debian.org/archive/debian/20230509T145346Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:27:44 retry https://snapshot.debian.org/archive/debian/20230528T091531Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:28:00 retry https://snapshot.debian.org/archive/debian/20230509T204950Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:28:15 retry https://snapshot.debian.org/archive/debian/20230509T204950Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:30:04 retry https://snapshot.debian.org/archive/debian/20230510T144759Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:30:28 retry https://snapshot.debian.org/archive/debian/20230510T144759Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:30:43 retry https://snapshot.debian.org/archive/debian/20230510T144759Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:31:03 retry https://snapshot.debian.org/archive/debian/20230510T144759Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T08:31:27 progress 20230510T144759Z (15200/19492) 0.249 st/s req={'requests': 81463, 'bytes': 4397398310, 'retries': 105, '404': 9} scanned=4143170 occ=8
+2026-11-07T08:31:54 retry https://snapshot.debian.org/archive/debian/20230511T090756Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:32:30 retry https://snapshot.debian.org/archive/debian/20230511T090756Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:32:56 retry https://snapshot.debian.org/archive/debian/20230512T030501Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:33:36 retry https://snapshot.debian.org/archive/debian/20230601T090755Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:34:36 retry https://snapshot.debian.org/archive/debian/20230512T210150Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:35:36 retry https://snapshot.debian.org/archive/debian/20230513T084838Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:35:52 retry https://snapshot.debian.org/archive/debian/20230513T084838Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:36:35 retry https://snapshot.debian.org/archive/debian/20230604T145041Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:37:15 retry https://snapshot.debian.org/archive/debian/20230513T211343Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:37:30 retry https://snapshot.debian.org/archive/debian/20230513T211343Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:38:31 retry https://snapshot.debian.org/archive/debian/20230514T085955Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:38:46 retry https://snapshot.debian.org/archive/debian/20230514T085955Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:40:04 retry https://snapshot.debian.org/archive/debian/20230515T030231Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:40:30 retry https://snapshot.debian.org/archive/debian/20230605T144211Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:41:37 retry https://snapshot.debian.org/archive/debian/20230516T031013Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:42:07 retry https://snapshot.debian.org/archive/debian/20230606T024020Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:42:23 retry https://snapshot.debian.org/archive/debian/20230517T030521Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:42:55 retry https://snapshot.debian.org/archive/debian/20230517T030521Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:43:41 retry https://snapshot.debian.org/archive/debian/20230606T084743Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:45:03 retry https://snapshot.debian.org/archive/debian/20230520T025205Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:45:18 retry https://snapshot.debian.org/archive/debian/20230520T025205Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:45:57 retry https://snapshot.debian.org/archive/debian/20230521T030213Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:46:18 retry https://snapshot.debian.org/archive/debian/20230521T030213Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:46:33 retry https://snapshot.debian.org/archive/debian/20230521T030213Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:48:20 retry https://snapshot.debian.org/archive/debian/20230523T145755Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:48:48 retry https://snapshot.debian.org/archive/debian/20230523T145755Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:49:25 retry https://snapshot.debian.org/archive/debian/20230524T024530Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:51:10 progress 20230531T025815Z (15225/19492) 0.245 st/s req={'requests': 81904, 'bytes': 4411219366, 'retries': 132, '404': 9} scanned=4153091 occ=8
+2026-11-07T08:53:24 retry https://snapshot.debian.org/archive/debian/20230609T030206Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:53:39 retry https://snapshot.debian.org/archive/debian/20230609T030206Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T08:54:05 retry https://snapshot.debian.org/archive/debian/20230609T030206Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:54:48 retry https://snapshot.debian.org/archive/debian/20230609T145342Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T08:56:03 progress 20230611T144610Z (15250/19492) 0.244 st/s req={'requests': 82088, 'bytes': 4418245902, 'retries': 136, '404': 9} scanned=4154818 occ=8
+2026-11-07T08:56:17 retry https://snapshot.debian.org/archive/debian/20230611T210420Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:00:44 retry https://snapshot.debian.org/archive/debian/20230702T091552Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:01:21 progress 20230626T030930Z (15275/19492) 0.243 st/s req={'requests': 82409, 'bytes': 4428562731, 'retries': 138, '404': 9} scanned=4179610 occ=8
+2026-11-07T09:03:54 progress 20230703T145440Z (15300/19492) 0.243 st/s req={'requests': 82583, 'bytes': 4435616166, 'retries': 138, '404': 9} scanned=4188305 occ=8
+2026-11-07T09:04:14 retry https://snapshot.debian.org/archive/debian/20230717T031046Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:06:44 retry https://snapshot.debian.org/archive/debian/20230722T085252Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:07:32 progress 20230716T030330Z (15325/19492) 0.242 st/s req={'requests': 82842, 'bytes': 4445758958, 'retries': 140, '404': 9} scanned=4212745 occ=8
+2026-11-07T09:07:55 retry https://snapshot.debian.org/archive/debian/20230723T214924Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:09:40 retry https://snapshot.debian.org/archive/debian/20230722T151751Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:10:19 retry https://snapshot.debian.org/archive/debian/20230722T215546Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:11:01 retry https://snapshot.debian.org/archive/debian/20230723T090416Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:11:13 progress 20230723T090416Z (15350/19492) 0.242 st/s req={'requests': 83000, 'bytes': 4453961417, 'retries': 144, '404': 9} scanned=4223373 occ=8
+2026-11-07T09:12:07 retry https://snapshot.debian.org/archive/debian/20230724T031248Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:12:51 retry https://snapshot.debian.org/archive/debian/20230724T091012Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:14:02 retry https://snapshot.debian.org/archive/debian/20230725T030258Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:14:35 retry https://snapshot.debian.org/archive/debian/20230725T154144Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:15:52 retry https://snapshot.debian.org/archive/debian/20230727T151110Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:16:52 retry https://snapshot.debian.org/archive/debian/20230730T025740Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:18:34 retry https://snapshot.debian.org/archive/debian/20230802T032101Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:19:30 retry https://snapshot.debian.org/archive/debian/20230803T092030Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:21:19 retry https://snapshot.debian.org/archive/debian/20230805T151946Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:21:42 retry https://snapshot.debian.org/archive/debian/20230806T091912Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:23:33 retry https://snapshot.debian.org/archive/debian/20230811T092157Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:24:10 retry https://snapshot.debian.org/archive/debian/20230812T090501Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:24:31 progress 20230812T090501Z (15375/19492) 0.239 st/s req={'requests': 83482, 'bytes': 4473448068, 'retries': 156, '404': 9} scanned=4250636 occ=8
+2026-11-07T09:29:12 progress 20230831T204314Z (15400/19492) 0.239 st/s req={'requests': 83836, 'bytes': 4484097998, 'retries': 156, '404': 9} scanned=4269509 occ=8
+2026-11-07T09:31:15 progress 20230907T025858Z (15425/19492) 0.239 st/s req={'requests': 83976, 'bytes': 4491078639, 'retries': 156, '404': 9} scanned=4277772 occ=8
+2026-11-07T09:31:51 retry https://snapshot.debian.org/archive/debian/20230914T204840Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:33:23 progress 20230913T084750Z (15450/19492) 0.239 st/s req={'requests': 84110, 'bytes': 4497520897, 'retries': 157, '404': 9} scanned=4283899 occ=8
+2026-11-07T09:33:58 retry https://snapshot.debian.org/archive/debian/20230921T025531Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:35:24 progress 20230919T152144Z (15475/19492) 0.239 st/s req={'requests': 84227, 'bytes': 4504351695, 'retries': 158, '404': 9} scanned=4291909 occ=8
+2026-11-07T09:36:01 retry https://snapshot.debian.org/archive/debian/20231001T025741Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:37:49 progress 20230928T030030Z (15500/19492) 0.238 st/s req={'requests': 84385, 'bytes': 4511258425, 'retries': 159, '404': 9} scanned=4300373 occ=8
+2026-11-07T09:40:27 progress 20231009T084909Z (15525/19492) 0.238 st/s req={'requests': 84596, 'bytes': 4518750636, 'retries': 159, '404': 9} scanned=4310399 occ=8
+2026-11-07T09:41:10 retry https://snapshot.debian.org/archive/debian/20231102T085940Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:41:33 retry https://snapshot.debian.org/archive/debian/20231012T085604Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:42:20 retry https://snapshot.debian.org/archive/debian/20231012T211149Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:43:16 retry https://snapshot.debian.org/archive/debian/20231014T145942Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:44:14 retry https://snapshot.debian.org/archive/debian/20231016T025644Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:45:15 retry https://snapshot.debian.org/archive/debian/20231018T025539Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:45:49 retry https://snapshot.debian.org/archive/debian/20231018T025539Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:48:19 retry https://snapshot.debian.org/archive/debian/20231021T030056Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:49:23 retry https://snapshot.debian.org/archive/debian/20231023T151630Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:49:56 retry https://snapshot.debian.org/archive/debian/20231023T151630Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:52:11 retry https://snapshot.debian.org/archive/debian/20231028T030819Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:53:04 progress 20231029T043103Z (15550/19492) 0.236 st/s req={'requests': 85057, 'bytes': 4536207356, 'retries': 170, '404': 9} scanned=4334657 occ=8
+2026-11-07T09:53:26 retry https://snapshot.debian.org/archive/debian/20231030T025811Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:54:38 retry https://snapshot.debian.org/archive/debian/20231031T145518Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:54:57 retry https://snapshot.debian.org/archive/debian/20231031T145518Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:55:23 retry https://snapshot.debian.org/archive/debian/20231101T091841Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:56:00 retry https://snapshot.debian.org/archive/debian/20231101T091841Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T09:56:28 retry https://snapshot.debian.org/archive/debian/20231117T210855Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:02:14 progress 20231115T084639Z (15575/19492) 0.234 st/s req={'requests': 85445, 'bytes': 4550263794, 'retries': 176, '404': 9} scanned=4350253 occ=8
+2026-11-07T10:10:07 progress 20231209T111918Z (15600/19492) 0.233 st/s req={'requests': 85954, 'bytes': 4565583157, 'retries': 176, '404': 9} scanned=4377898 occ=8
+2026-11-07T10:15:45 progress 20231227T210616Z (15625/19492) 0.232 st/s req={'requests': 86315, 'bytes': 4575256455, 'retries': 176, '404': 9} scanned=4394173 occ=8
+2026-11-07T10:17:01 retry https://snapshot.debian.org/archive/debian/20231230T090509Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:17:37 retry https://snapshot.debian.org/archive/debian/20231230T090509Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:17:53 retry https://snapshot.debian.org/archive/debian/20231230T090509Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:19:27 retry https://snapshot.debian.org/archive/debian/20231231T085820Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:19:42 retry https://snapshot.debian.org/archive/debian/20231231T085820Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:22:44 retry https://snapshot.debian.org/archive/debian/20240102T030703Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:23:43 retry https://snapshot.debian.org/archive/debian/20240103T032204Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:24:16 retry https://snapshot.debian.org/archive/debian/20240123T031220Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:25:34 retry https://snapshot.debian.org/archive/debian/20240123T212534Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:26:37 retry https://snapshot.debian.org/archive/debian/20240124T151904Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:27:20 retry https://snapshot.debian.org/archive/debian/20240104T205918Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:27:40 retry https://snapshot.debian.org/archive/debian/20240125T090531Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:28:57 retry https://snapshot.debian.org/archive/debian/20240105T024431Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:29:35 retry https://snapshot.debian.org/archive/debian/20240126T211101Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:30:01 retry https://snapshot.debian.org/archive/debian/20240105T145613Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:30:24 retry https://snapshot.debian.org/archive/debian/20240105T145613Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:31:07 retry https://snapshot.debian.org/archive/debian/20240127T152202Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:33:07 retry https://snapshot.debian.org/archive/debian/20240106T205859Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:33:41 retry https://snapshot.debian.org/archive/debian/20240106T205859Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:33:56 retry https://snapshot.debian.org/archive/debian/20240106T205859Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:34:44 retry https://snapshot.debian.org/archive/debian/20240107T024933Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:35:21 retry https://snapshot.debian.org/archive/debian/20240130T152810Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:36:36 retry https://snapshot.debian.org/archive/debian/20240108T033401Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:36:52 retry https://snapshot.debian.org/archive/debian/20240108T033401Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:37:37 retry https://snapshot.debian.org/archive/debian/20240108T033401Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:38:06 retry https://snapshot.debian.org/archive/debian/20240131T153825Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:38:49 retry https://snapshot.debian.org/archive/debian/20240109T032813Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:39:14 retry https://snapshot.debian.org/archive/debian/20240131T153825Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:40:24 retry https://snapshot.debian.org/archive/debian/20240201T093520Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:41:01 retry https://snapshot.debian.org/archive/debian/20240110T210829Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:42:14 retry https://snapshot.debian.org/archive/debian/20240112T092042Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:42:46 retry https://snapshot.debian.org/archive/debian/20240202T100043Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:43:43 retry https://snapshot.debian.org/archive/debian/20240203T152533Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:44:03 retry https://snapshot.debian.org/archive/debian/20240203T152533Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:45:06 progress 20240113T150425Z (15650/19492) 0.227 st/s req={'requests': 86765, 'bytes': 4589780142, 'retries': 210, '404': 9} scanned=4419759 occ=8
+2026-11-07T10:45:22 retry https://snapshot.debian.org/archive/debian/20240204T221334Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:46:14 retry https://snapshot.debian.org/archive/debian/20240115T092401Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:46:50 retry https://snapshot.debian.org/archive/debian/20240115T092401Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:47:12 retry https://snapshot.debian.org/archive/debian/20240208T093022Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:47:43 retry https://snapshot.debian.org/archive/debian/20240208T093022Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:48:15 retry https://snapshot.debian.org/archive/debian/20240117T150534Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:49:23 retry https://snapshot.debian.org/archive/debian/20240210T223313Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:50:02 retry https://snapshot.debian.org/archive/debian/20240212T035119Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:50:54 retry https://snapshot.debian.org/archive/debian/20240214T085951Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:52:37 retry https://snapshot.debian.org/archive/debian/20240218T211705Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:53:23 retry https://snapshot.debian.org/archive/debian/20240220T150546Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:53:38 retry https://snapshot.debian.org/archive/debian/20240220T150546Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T10:54:04 retry https://snapshot.debian.org/archive/debian/20240220T150546Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:55:48 retry https://snapshot.debian.org/archive/debian/20240224T092235Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:56:25 retry https://snapshot.debian.org/archive/debian/20240226T213049Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T10:58:23 retry https://snapshot.debian.org/archive/debian/20240229T041529Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:00:03 retry https://snapshot.debian.org/archive/debian/20240301T214050Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:01:21 retry https://snapshot.debian.org/archive/debian/20240302T211138Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:02:03 progress 20240204T221334Z (15675/19492) 0.224 st/s req={'requests': 87260, 'bytes': 4605400235, 'retries': 228, '404': 9} scanned=4444127 occ=8
+2026-11-07T11:05:23 retry https://snapshot.debian.org/archive/debian/20240306T150558Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:05:59 retry https://snapshot.debian.org/archive/debian/20240306T150558Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:06:59 retry https://snapshot.debian.org/archive/debian/20240307T031137Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:08:57 retry https://snapshot.debian.org/archive/debian/20240307T094241Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:10:15 retry https://snapshot.debian.org/archive/debian/20240307T213938Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:11:02 retry https://snapshot.debian.org/archive/debian/20240308T160504Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:12:14 retry https://snapshot.debian.org/archive/debian/20240309T162949Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:12:29 retry https://snapshot.debian.org/archive/debian/20240309T162949Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T11:13:07 retry https://snapshot.debian.org/archive/debian/20240309T162949Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:13:38 retry https://snapshot.debian.org/archive/debian/20240309T162949Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:15:17 retry https://snapshot.debian.org/archive/debian/20240311T214105Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:16:11 retry https://snapshot.debian.org/archive/debian/20240312T091828Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:17:19 retry https://snapshot.debian.org/archive/debian/20240313T032420Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:17:34 retry https://snapshot.debian.org/archive/debian/20240313T032420Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T11:18:37 retry https://snapshot.debian.org/archive/debian/20240314T094714Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:24:02 retry https://snapshot.debian.org/archive/debian/20240324T025503Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:25:18 retry https://snapshot.debian.org/archive/debian/20240324T085147Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:26:13 retry https://snapshot.debian.org/archive/debian/20240324T210425Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:27:48 retry https://snapshot.debian.org/archive/debian/20240325T145216Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:29:00 retry https://snapshot.debian.org/archive/debian/20240325T212344Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:29:48 retry https://snapshot.debian.org/archive/debian/20240325T212344Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:30:30 progress 20240304T035651Z (15700/19492) 0.219 st/s req={'requests': 87875, 'bytes': 4624260981, 'retries': 249, '404': 9} scanned=4494598 occ=8
+2026-11-07T11:30:41 retry https://snapshot.debian.org/archive/debian/20240326T025638Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:31:58 retry https://snapshot.debian.org/archive/debian/20240326T145157Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:34:35 retry https://snapshot.debian.org/archive/debian/20240327T204922Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:36:11 retry https://snapshot.debian.org/archive/debian/20240328T025657Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:36:31 retry https://snapshot.debian.org/archive/debian/20240328T025657Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:37:07 retry https://snapshot.debian.org/archive/debian/20240328T084603Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:37:38 retry https://snapshot.debian.org/archive/debian/20240328T144713Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:37:54 retry https://snapshot.debian.org/archive/debian/20240328T144713Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T11:42:58 retry https://snapshot.debian.org/archive/debian/20240328T211728Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:46:11 progress 20240326T025638Z (15725/19492) 0.216 st/s req={'requests': 88363, 'bytes': 4642289300, 'retries': 258, '404': 9} scanned=4558135 occ=8
+2026-11-07T11:47:25 retry https://snapshot.debian.org/archive/debian/20240406T024236Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:47:45 retry https://snapshot.debian.org/archive/debian/20240406T024236Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T11:49:11 progress 20240402T085853Z (15750/19492) 0.216 st/s req={'requests': 88512, 'bytes': 4649625308, 'retries': 260, '404': 9} scanned=4570524 occ=8
+2026-11-07T11:50:29 retry https://snapshot.debian.org/archive/debian/20240412T084615Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:51:39 progress 20240409T144313Z (15775/19492) 0.216 st/s req={'requests': 88658, 'bytes': 4656538375, 'retries': 261, '404': 9} scanned=4578700 occ=8
+2026-11-07T11:52:49 retry https://snapshot.debian.org/archive/debian/20240418T144637Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T11:54:07 progress 20240415T205808Z (15800/19492) 0.216 st/s req={'requests': 88793, 'bytes': 4663172375, 'retries': 262, '404': 9} scanned=4584753 occ=8
+2026-11-07T11:56:18 progress 20240422T024621Z (15825/19492) 0.216 st/s req={'requests': 88931, 'bytes': 4669919125, 'retries': 262, '404': 9} scanned=4590590 occ=8
+2026-11-07T11:58:24 progress 20240428T085045Z (15850/19492) 0.216 st/s req={'requests': 89067, 'bytes': 4677581582, 'retries': 262, '404': 9} scanned=4603240 occ=8
+2026-11-07T12:00:34 progress 20240504T145842Z (15875/19492) 0.216 st/s req={'requests': 89223, 'bytes': 4684373526, 'retries': 262, '404': 9} scanned=4609720 occ=8
+2026-11-07T12:01:38 retry https://snapshot.debian.org/archive/debian/20240513T143958Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:02:45 progress 20240510T205852Z (15900/19492) 0.216 st/s req={'requests': 89347, 'bytes': 4691133979, 'retries': 263, '404': 9} scanned=4616955 occ=8
+2026-11-07T12:03:42 retry https://snapshot.debian.org/archive/debian/20240519T204430Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:04:59 progress 20240517T024814Z (15925/19492) 0.216 st/s req={'requests': 89466, 'bytes': 4697581525, 'retries': 264, '404': 9} scanned=4622928 occ=8
+2026-11-07T12:06:01 retry https://snapshot.debian.org/archive/debian/20240526T031147Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:07:16 progress 20240523T092147Z (15950/19492) 0.216 st/s req={'requests': 89601, 'bytes': 4704196142, 'retries': 265, '404': 9} scanned=4629465 occ=8
+2026-11-07T12:09:26 progress 20240529T144631Z (15975/19492) 0.216 st/s req={'requests': 89745, 'bytes': 4710904099, 'retries': 265, '404': 9} scanned=4634923 occ=8
+2026-11-07T12:11:50 progress 20240605T143310Z (16000/19492) 0.215 st/s req={'requests': 89900, 'bytes': 4717876168, 'retries': 265, '404': 9} scanned=4642651 occ=8
+2026-11-07T12:12:53 retry https://snapshot.debian.org/archive/debian/20240614T204557Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:14:11 progress 20240611T203354Z (16025/19492) 0.215 st/s req={'requests': 90046, 'bytes': 4724834217, 'retries': 266, '404': 9} scanned=4649833 occ=8
+2026-11-07T12:16:05 progress 20240618T082836Z (16050/19492) 0.215 st/s req={'requests': 90174, 'bytes': 4731100424, 'retries': 266, '404': 9} scanned=4654440 occ=8
+2026-11-07T12:17:11 retry https://snapshot.debian.org/archive/debian/20240627T143859Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:18:26 progress 20240624T205907Z (16075/19492) 0.215 st/s req={'requests': 90312, 'bytes': 4737919116, 'retries': 267, '404': 9} scanned=4661542 occ=8
+2026-11-07T12:19:37 retry https://snapshot.debian.org/archive/debian/20240703T202521Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:20:38 progress 20240701T023644Z (16100/19492) 0.215 st/s req={'requests': 90444, 'bytes': 4744655267, 'retries': 268, '404': 9} scanned=4670079 occ=8
+2026-11-07T12:22:24 progress 20240707T085340Z (16125/19492) 0.215 st/s req={'requests': 90555, 'bytes': 4750855520, 'retries': 268, '404': 9} scanned=4674729 occ=8
+2026-11-07T12:23:24 retry https://snapshot.debian.org/archive/debian/20240716T083153Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:23:39 retry https://snapshot.debian.org/archive/debian/20240716T083153Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T12:24:55 progress 20240713T143724Z (16150/19492) 0.215 st/s req={'requests': 90694, 'bytes': 4758483236, 'retries': 270, '404': 9} scanned=4686462 occ=8
+2026-11-07T12:26:07 retry https://snapshot.debian.org/archive/debian/20240722T083338Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:27:16 progress 20240719T204327Z (16175/19492) 0.215 st/s req={'requests': 90845, 'bytes': 4765027594, 'retries': 271, '404': 9} scanned=4693007 occ=8
+2026-11-07T12:28:10 retry https://snapshot.debian.org/archive/debian/20240728T205356Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:28:28 retry https://snapshot.debian.org/archive/debian/20240728T205356Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:29:41 progress 20240725T203922Z (16200/19492) 0.215 st/s req={'requests': 90976, 'bytes': 4772135490, 'retries': 273, '404': 9} scanned=4701102 occ=8
+2026-11-07T12:30:55 retry https://snapshot.debian.org/archive/debian/20240803T205043Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:31:57 progress 20240801T024036Z (16225/19492) 0.215 st/s req={'requests': 91123, 'bytes': 4781337116, 'retries': 274, '404': 9} scanned=4710075 occ=8
+2026-11-07T12:33:02 retry https://snapshot.debian.org/archive/debian/20240810T023759Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:34:12 progress 20240807T084342Z (16250/19492) 0.215 st/s req={'requests': 91261, 'bytes': 4788453879, 'retries': 275, '404': 9} scanned=4719121 occ=8
+2026-11-07T12:36:32 progress 20240813T144616Z (16275/19492) 0.215 st/s req={'requests': 91426, 'bytes': 4797088469, 'retries': 275, '404': 9} scanned=4735085 occ=8
+2026-11-07T12:37:27 retry https://snapshot.debian.org/archive/debian/20240822T145857Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:38:41 progress 20240819T204354Z (16300/19492) 0.215 st/s req={'requests': 91548, 'bytes': 4803820712, 'retries': 276, '404': 9} scanned=4741938 occ=8
+2026-11-07T12:40:36 progress 20240825T205544Z (16325/19492) 0.215 st/s req={'requests': 91677, 'bytes': 4810304300, 'retries': 276, '404': 9} scanned=4747616 occ=8
+2026-11-07T12:42:23 progress 20240831T204032Z (16350/19492) 0.215 st/s req={'requests': 91788, 'bytes': 4816696016, 'retries': 276, '404': 9} scanned=4753522 occ=8
+2026-11-07T12:44:27 progress 20240907T023014Z (16375/19492) 0.215 st/s req={'requests': 91927, 'bytes': 4823453989, 'retries': 276, '404': 9} scanned=4759660 occ=8
+2026-11-07T12:45:26 retry https://snapshot.debian.org/archive/debian/20240916T023746Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:46:47 progress 20240913T083409Z (16400/19492) 0.215 st/s req={'requests': 92059, 'bytes': 4830404139, 'retries': 277, '404': 9} scanned=4766232 occ=8
+2026-11-07T12:47:55 retry https://snapshot.debian.org/archive/debian/20240922T083310Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:49:09 progress 20240919T144534Z (16425/19492) 0.215 st/s req={'requests': 92194, 'bytes': 4837955244, 'retries': 278, '404': 9} scanned=4777349 occ=8
+2026-11-07T12:50:09 retry https://snapshot.debian.org/archive/debian/20240928T142859Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:50:29 retry https://snapshot.debian.org/archive/debian/20240928T142859Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:51:41 progress 20240925T203439Z (16450/19492) 0.215 st/s req={'requests': 92329, 'bytes': 4845256578, 'retries': 280, '404': 9} scanned=4785026 occ=8
+2026-11-07T12:52:45 retry https://snapshot.debian.org/archive/debian/20241005T024228Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:53:06 retry https://snapshot.debian.org/archive/debian/20241005T024228Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:54:27 progress 20241002T083823Z (16475/19492) 0.214 st/s req={'requests': 92461, 'bytes': 4851940458, 'retries': 282, '404': 9} scanned=4790742 occ=8
+2026-11-07T12:55:28 retry https://snapshot.debian.org/archive/debian/20241011T023255Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:57:06 progress 20241008T144002Z (16500/19492) 0.214 st/s req={'requests': 92607, 'bytes': 4860160971, 'retries': 283, '404': 9} scanned=4802809 occ=8
+2026-11-07T12:58:05 retry https://snapshot.debian.org/archive/debian/20241017T023148Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T12:59:17 progress 20241014T083448Z (16525/19492) 0.214 st/s req={'requests': 92722, 'bytes': 4867477457, 'retries': 284, '404': 9} scanned=4812923 occ=8
+2026-11-07T13:00:21 retry https://snapshot.debian.org/archive/debian/20241023T083208Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:01:35 progress 20241020T144113Z (16550/19492) 0.214 st/s req={'requests': 92854, 'bytes': 4874880178, 'retries': 285, '404': 9} scanned=4823282 occ=8
+2026-11-07T13:03:35 retry https://snapshot.debian.org/archive/debian/20241030T204443Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:05:06 progress 20241026T203202Z (16575/19492) 0.214 st/s req={'requests': 93010, 'bytes': 4882338375, 'retries': 286, '404': 9} scanned=4831971 occ=8
+2026-11-07T13:07:13 progress 20241103T085220Z (16600/19492) 0.214 st/s req={'requests': 93141, 'bytes': 4892471988, 'retries': 286, '404': 9} scanned=4863817 occ=8
+2026-11-07T13:08:14 retry https://snapshot.debian.org/archive/debian/20241112T025050Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:09:32 progress 20241109T103359Z (16625/19492) 0.214 st/s req={'requests': 93278, 'bytes': 4899333111, 'retries': 287, '404': 9} scanned=4870196 occ=8
+2026-11-07T13:10:39 retry https://snapshot.debian.org/archive/debian/20241118T144428Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:11:56 progress 20241115T204403Z (16650/19492) 0.214 st/s req={'requests': 93414, 'bytes': 4906318879, 'retries': 288, '404': 9} scanned=4878150 occ=8
+2026-11-07T13:13:51 progress 20241122T023228Z (16675/19492) 0.214 st/s req={'requests': 93539, 'bytes': 4912901513, 'retries': 288, '404': 9} scanned=4884321 occ=8
+2026-11-07T13:15:52 progress 20241128T083516Z (16700/19492) 0.214 st/s req={'requests': 93677, 'bytes': 4920106295, 'retries': 288, '404': 9} scanned=4891327 occ=8
+2026-11-07T13:16:56 retry https://snapshot.debian.org/archive/debian/20241207T082902Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:18:08 progress 20241204T145138Z (16725/19492) 0.214 st/s req={'requests': 93801, 'bytes': 4926995649, 'retries': 289, '404': 9} scanned=4898676 occ=8
+2026-11-07T13:19:09 retry https://snapshot.debian.org/archive/debian/20241213T144419Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:20:28 progress 20241210T203135Z (16750/19492) 0.214 st/s req={'requests': 93935, 'bytes': 4933759413, 'retries': 290, '404': 9} scanned=4905053 occ=8
+2026-11-07T13:21:35 retry https://snapshot.debian.org/archive/debian/20241219T205809Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:22:42 progress 20241217T024050Z (16775/19492) 0.214 st/s req={'requests': 94065, 'bytes': 4940860397, 'retries': 291, '404': 9} scanned=4913795 occ=8
+2026-11-07T13:23:46 retry https://snapshot.debian.org/archive/debian/20241226T023408Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:25:05 progress 20241223T084222Z (16800/19492) 0.214 st/s req={'requests': 94206, 'bytes': 4948361821, 'retries': 292, '404': 9} scanned=4922396 occ=8
+2026-11-07T13:26:06 retry https://snapshot.debian.org/archive/debian/20250101T083404Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:27:24 progress 20241229T143918Z (16825/19492) 0.214 st/s req={'requests': 94335, 'bytes': 4954754555, 'retries': 293, '404': 9} scanned=4927406 occ=8
+2026-11-07T13:28:21 retry https://snapshot.debian.org/archive/debian/20250107T145252Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:28:44 retry https://snapshot.debian.org/archive/debian/20250107T145252Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:30:01 progress 20250104T205520Z (16850/19492) 0.213 st/s req={'requests': 94463, 'bytes': 4962622753, 'retries': 295, '404': 9} scanned=4938715 occ=8
+2026-11-07T13:32:10 progress 20250111T025329Z (16875/19492) 0.213 st/s req={'requests': 94618, 'bytes': 4970863782, 'retries': 295, '404': 9} scanned=4954560 occ=8
+2026-11-07T13:33:07 retry https://snapshot.debian.org/archive/debian/20250120T084606Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:34:28 progress 20250117T150945Z (16900/19492) 0.213 st/s req={'requests': 94753, 'bytes': 4979253280, 'retries': 296, '404': 9} scanned=4968956 occ=8
+2026-11-07T13:35:24 retry https://snapshot.debian.org/archive/debian/20250126T144726Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:36:36 progress 20250123T210549Z (16925/19492) 0.213 st/s req={'requests': 94867, 'bytes': 4986564078, 'retries': 297, '404': 9} scanned=4979279 occ=8
+2026-11-07T13:37:48 retry https://snapshot.debian.org/archive/debian/20250201T205739Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:39:06 progress 20250130T024200Z (16950/19492) 0.213 st/s req={'requests': 95029, 'bytes': 4994629431, 'retries': 298, '404': 9} scanned=4992389 occ=8
+2026-11-07T13:40:07 retry https://snapshot.debian.org/archive/debian/20250208T030928Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:41:24 progress 20250205T084338Z (16975/19492) 0.213 st/s req={'requests': 95174, 'bytes': 5002041549, 'retries': 299, '404': 9} scanned=5001657 occ=8
+2026-11-07T13:42:28 retry https://snapshot.debian.org/archive/debian/20250214T024623Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:42:49 retry https://snapshot.debian.org/archive/debian/20250214T024623Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:44:04 progress 20250211T083820Z (17000/19492) 0.213 st/s req={'requests': 95331, 'bytes': 5009497189, 'retries': 301, '404': 9} scanned=5009554 occ=8
+2026-11-07T13:45:17 retry https://snapshot.debian.org/archive/debian/20250220T084118Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:45:32 retry https://snapshot.debian.org/archive/debian/20250220T084118Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T13:45:58 retry https://snapshot.debian.org/archive/debian/20250220T084118Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:47:23 progress 20250217T144403Z (17025/19492) 0.213 st/s req={'requests': 95499, 'bytes': 5018049211, 'retries': 304, '404': 9} scanned=5024057 occ=8
+2026-11-07T13:49:43 progress 20250223T205457Z (17050/19492) 0.213 st/s req={'requests': 95674, 'bytes': 5025823738, 'retries': 304, '404': 9} scanned=5034205 occ=8
+2026-11-07T13:50:52 retry https://snapshot.debian.org/archive/debian/20250305T033844Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:51:07 retry https://snapshot.debian.org/archive/debian/20250305T033844Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T13:53:08 progress 20250302T034320Z (17075/19492) 0.213 st/s req={'requests': 95830, 'bytes': 5033938258, 'retries': 306, '404': 9} scanned=5048086 occ=8
+2026-11-07T13:55:20 progress 20250308T162325Z (17100/19492) 0.213 st/s req={'requests': 95981, 'bytes': 5041252631, 'retries': 306, '404': 9} scanned=5057883 occ=8
+2026-11-07T13:56:27 retry https://snapshot.debian.org/archive/debian/20250317T145243Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T13:57:49 progress 20250314T205147Z (17125/19492) 0.212 st/s req={'requests': 96128, 'bytes': 5048873827, 'retries': 307, '404': 9} scanned=5068973 occ=8
+2026-11-07T13:59:03 retry https://snapshot.debian.org/archive/debian/20250324T085348Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:00:24 progress 20250321T024612Z (17150/19492) 0.212 st/s req={'requests': 96291, 'bytes': 5057051555, 'retries': 308, '404': 9} scanned=5081235 occ=8
+2026-11-07T14:01:29 retry https://snapshot.debian.org/archive/debian/20250330T144206Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:02:53 progress 20250327T204130Z (17175/19492) 0.212 st/s req={'requests': 96440, 'bytes': 5064095825, 'retries': 309, '404': 9} scanned=5088313 occ=8
+2026-11-07T14:03:57 retry https://snapshot.debian.org/archive/debian/20250405T205533Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:05:30 progress 20250403T023729Z (17200/19492) 0.212 st/s req={'requests': 96603, 'bytes': 5072236583, 'retries': 310, '404': 9} scanned=5099441 occ=8
+2026-11-07T14:06:39 retry https://snapshot.debian.org/archive/debian/20250412T025124Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:06:54 retry https://snapshot.debian.org/archive/debian/20250412T025124Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:07:14 retry https://snapshot.debian.org/archive/debian/20250412T025124Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T14:07:46 retry https://snapshot.debian.org/archive/debian/20250412T025124Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:08:04 retry https://snapshot.debian.org/archive/debian/20250412T025124Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:09:26 progress 20250409T084647Z (17225/19492) 0.212 st/s req={'requests': 96779, 'bytes': 5079783984, 'retries': 315, '404': 9} scanned=5109411 occ=8
+2026-11-07T14:10:32 retry https://snapshot.debian.org/archive/debian/20250418T082659Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:11:53 progress 20250415T144154Z (17250/19492) 0.212 st/s req={'requests': 96930, 'bytes': 5087294514, 'retries': 316, '404': 9} scanned=5118487 occ=8
+2026-11-07T14:13:15 retry https://snapshot.debian.org/archive/debian/20250424T144915Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:14:26 progress 20250421T210257Z (17275/19492) 0.212 st/s req={'requests': 97092, 'bytes': 5094489792, 'retries': 317, '404': 9} scanned=5124903 occ=8
+2026-11-07T14:15:39 retry https://snapshot.debian.org/archive/debian/20250430T203420Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:16:52 progress 20250428T023318Z (17300/19492) 0.212 st/s req={'requests': 97237, 'bytes': 5101013793, 'retries': 318, '404': 9} scanned=5129817 occ=8
+2026-11-07T14:19:06 progress 20250504T091840Z (17325/19492) 0.212 st/s req={'requests': 97396, 'bytes': 5107882363, 'retries': 318, '404': 9} scanned=5135667 occ=8
+2026-11-07T14:20:08 retry https://snapshot.debian.org/archive/debian/20250513T083955Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:20:23 retry https://snapshot.debian.org/archive/debian/20250513T083955Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:20:46 retry https://snapshot.debian.org/archive/debian/20250513T083955Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:21:07 retry https://snapshot.debian.org/archive/debian/20250513T083955Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:22:23 progress 20250510T145612Z (17350/19492) 0.211 st/s req={'requests': 97555, 'bytes': 5114963628, 'retries': 322, '404': 9} scanned=5141146 occ=8
+2026-11-07T14:23:27 retry https://snapshot.debian.org/archive/debian/20250519T143436Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:24:42 progress 20250516T203339Z (17375/19492) 0.211 st/s req={'requests': 97696, 'bytes': 5121292223, 'retries': 323, '404': 9} scanned=5143779 occ=8
+2026-11-07T14:25:37 retry https://snapshot.debian.org/archive/debian/20250525T205402Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:25:52 retry https://snapshot.debian.org/archive/debian/20250525T205402Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:26:23 retry https://snapshot.debian.org/archive/debian/20250525T205402Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:27:40 progress 20250523T023803Z (17400/19492) 0.211 st/s req={'requests': 97826, 'bytes': 5127725964, 'retries': 326, '404': 9} scanned=5146779 occ=8
+2026-11-07T14:29:24 progress 20250529T082937Z (17425/19492) 0.211 st/s req={'requests': 97941, 'bytes': 5133670340, 'retries': 326, '404': 9} scanned=5148882 occ=8
+2026-11-07T14:31:25 progress 20250604T202759Z (17450/19492) 0.211 st/s req={'requests': 98057, 'bytes': 5139608862, 'retries': 326, '404': 9} scanned=5151137 occ=8
+2026-11-07T14:32:25 retry https://snapshot.debian.org/archive/debian/20250613T202933Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:33:37 progress 20250611T033537Z (17475/19492) 0.211 st/s req={'requests': 98183, 'bytes': 5145887033, 'retries': 327, '404': 9} scanned=5154145 occ=8
+2026-11-07T14:35:35 progress 20250617T083638Z (17500/19492) 0.211 st/s req={'requests': 98320, 'bytes': 5152208173, 'retries': 327, '404': 9} scanned=5158397 occ=8
+2026-11-07T14:36:38 retry https://snapshot.debian.org/archive/debian/20250626T082658Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:37:43 progress 20250623T143629Z (17525/19492) 0.211 st/s req={'requests': 98442, 'bytes': 5158558576, 'retries': 328, '404': 9} scanned=5161468 occ=8
+2026-11-07T14:38:43 retry https://snapshot.debian.org/archive/debian/20250702T142649Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:39:05 retry https://snapshot.debian.org/archive/debian/20250702T142649Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:39:20 retry https://snapshot.debian.org/archive/debian/20250702T142649Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:40:29 progress 20250629T202831Z (17550/19492) 0.211 st/s req={'requests': 98566, 'bytes': 5164564569, 'retries': 331, '404': 9} scanned=5163112 occ=8
+2026-11-07T14:42:19 progress 20250706T023840Z (17575/19492) 0.211 st/s req={'requests': 98679, 'bytes': 5170634817, 'retries': 331, '404': 9} scanned=5164415 occ=8
+2026-11-07T14:43:35 retry https://snapshot.debian.org/archive/debian/20250715T023223Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:45:21 progress 20250712T082817Z (17600/19492) 0.211 st/s req={'requests': 98801, 'bytes': 5176809880, 'retries': 332, '404': 9} scanned=5165896 occ=8
+2026-11-07T14:46:12 retry https://snapshot.debian.org/archive/debian/20250721T022532Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:46:31 retry https://snapshot.debian.org/archive/debian/20250721T022532Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:46:46 retry https://snapshot.debian.org/archive/debian/20250721T022532Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:47:55 progress 20250718T082802Z (17625/19492) 0.211 st/s req={'requests': 98914, 'bytes': 5183241238, 'retries': 335, '404': 9} scanned=5168796 occ=8
+2026-11-07T14:48:54 retry https://snapshot.debian.org/archive/debian/20250727T083750Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:49:15 retry https://snapshot.debian.org/archive/debian/20250727T083750Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:50:36 progress 20250724T143030Z (17650/19492) 0.211 st/s req={'requests': 99045, 'bytes': 5189265824, 'retries': 337, '404': 9} scanned=5170556 occ=8
+2026-11-07T14:52:36 progress 20250730T204322Z (17675/19492) 0.211 st/s req={'requests': 99168, 'bytes': 5195624110, 'retries': 337, '404': 9} scanned=5172415 occ=8
+2026-11-07T14:53:34 retry https://snapshot.debian.org/archive/debian/20250809T180227Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:54:46 progress 20250806T142142Z (17700/19492) 0.211 st/s req={'requests': 99291, 'bytes': 5201835779, 'retries': 338, '404': 9} scanned=5173566 occ=8
+2026-11-07T14:55:39 retry https://snapshot.debian.org/archive/debian/20250815T143045Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:55:56 retry https://snapshot.debian.org/archive/debian/20250815T143045Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:56:11 retry https://snapshot.debian.org/archive/debian/20250815T143045Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T14:56:33 retry https://snapshot.debian.org/archive/debian/20250815T143045Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T14:57:58 progress 20250813T031054Z (17725/19492) 0.210 st/s req={'requests': 99437, 'bytes': 5209937137, 'retries': 342, '404': 9} scanned=5183317 occ=8
+2026-11-07T15:00:16 progress 20250819T142713Z (17750/19492) 0.210 st/s req={'requests': 99581, 'bytes': 5218110405, 'retries': 342, '404': 9} scanned=5197446 occ=8
+2026-11-07T15:02:34 progress 20250826T083413Z (17775/19492) 0.210 st/s req={'requests': 99731, 'bytes': 5225762990, 'retries': 342, '404': 9} scanned=5205068 occ=8
+2026-11-07T15:03:42 retry https://snapshot.debian.org/archive/debian/20250904T145518Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:03:57 retry https://snapshot.debian.org/archive/debian/20250904T145518Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:05:28 progress 20250902T023125Z (17800/19492) 0.210 st/s req={'requests': 99888, 'bytes': 5233332310, 'retries': 344, '404': 9} scanned=5214386 occ=8
+2026-11-07T15:07:26 progress 20250908T083526Z (17825/19492) 0.210 st/s req={'requests': 100015, 'bytes': 5241164643, 'retries': 344, '404': 9} scanned=5226511 occ=8
+2026-11-07T15:08:29 retry https://snapshot.debian.org/archive/debian/20250919T143402Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:08:57 retry https://snapshot.debian.org/archive/debian/20250919T143402Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:09:14 retry https://snapshot.debian.org/archive/debian/20250919T143402Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:10:40 progress 20250917T022842Z (17850/19492) 0.210 st/s req={'requests': 100190, 'bytes': 5250047160, 'retries': 347, '404': 9} scanned=5243195 occ=8
+2026-11-07T15:11:35 retry https://snapshot.debian.org/archive/debian/20250926T023409Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:11:50 retry https://snapshot.debian.org/archive/debian/20250926T023409Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:13:14 progress 20250923T024145Z (17875/19492) 0.210 st/s req={'requests': 100326, 'bytes': 5257380684, 'retries': 349, '404': 9} scanned=5250142 occ=8
+2026-11-07T15:15:22 progress 20250929T202745Z (17900/19492) 0.210 st/s req={'requests': 100463, 'bytes': 5265468763, 'retries': 349, '404': 9} scanned=5262767 occ=8
+2026-11-07T15:17:32 progress 20251006T082441Z (17925/19492) 0.210 st/s req={'requests': 100599, 'bytes': 5272625726, 'retries': 349, '404': 9} scanned=5270381 occ=8
+2026-11-07T15:19:38 progress 20251012T204309Z (17950/19492) 0.210 st/s req={'requests': 100726, 'bytes': 5279476634, 'retries': 349, '404': 9} scanned=5275856 occ=8
+2026-11-07T15:22:05 progress 20251019T151146Z (17975/19492) 0.210 st/s req={'requests': 100855, 'bytes': 5286841077, 'retries': 349, '404': 9} scanned=5283572 occ=8
+2026-11-07T15:26:16 progress 20251026T024017Z (18000/19492) 0.209 st/s req={'requests': 100980, 'bytes': 5294208998, 'retries': 349, '404': 9} scanned=5292338 occ=8
+2026-11-07T15:28:21 progress 20251101T144710Z (18025/19492) 0.209 st/s req={'requests': 101122, 'bytes': 5301406123, 'retries': 349, '404': 9} scanned=5299557 occ=8
+2026-11-07T15:30:36 progress 20251108T024659Z (18050/19492) 0.209 st/s req={'requests': 101274, 'bytes': 5308020855, 'retries': 349, '404': 9} scanned=5305811 occ=8
+2026-11-07T15:32:38 progress 20251114T082638Z (18075/19492) 0.209 st/s req={'requests': 101421, 'bytes': 5313998663, 'retries': 349, '404': 9} scanned=5312291 occ=8
+2026-11-07T15:33:42 retry https://snapshot.debian.org/archive/debian/20251124T083047Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:33:57 retry https://snapshot.debian.org/archive/debian/20251124T083047Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:34:19 retry https://snapshot.debian.org/archive/debian/20251124T083047Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:35:32 progress 20251121T082332Z (18100/19492) 0.209 st/s req={'requests': 101560, 'bytes': 5320524547, 'retries': 352, '404': 9} scanned=5320178 occ=8
+2026-11-07T15:36:36 retry https://snapshot.debian.org/archive/debian/20251130T165529Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:36:51 retry https://snapshot.debian.org/archive/debian/20251130T165529Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:38:20 progress 20251128T022545Z (18125/19492) 0.209 st/s req={'requests': 101721, 'bytes': 5327227666, 'retries': 354, '404': 9} scanned=5328300 occ=8
+2026-11-07T15:39:13 retry https://snapshot.debian.org/archive/debian/20251207T022820Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:39:28 retry https://snapshot.debian.org/archive/debian/20251207T022820Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:41:04 progress 20251203T202911Z (18150/19492) 0.209 st/s req={'requests': 101846, 'bytes': 5334234295, 'retries': 356, '404': 9} scanned=5337867 occ=8
+2026-11-07T15:43:18 progress 20251210T143437Z (18175/19492) 0.209 st/s req={'requests': 101988, 'bytes': 5341138992, 'retries': 356, '404': 9} scanned=5348292 occ=8
+2026-11-07T15:44:25 retry https://snapshot.debian.org/archive/debian/20251220T151339Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:45:42 progress 20251217T085109Z (18200/19492) 0.209 st/s req={'requests': 102130, 'bytes': 5347609265, 'retries': 357, '404': 9} scanned=5355880 occ=8
+2026-11-07T15:47:39 progress 20251224T023503Z (18225/19492) 0.209 st/s req={'requests': 102265, 'bytes': 5353711810, 'retries': 357, '404': 9} scanned=5361391 occ=8
+2026-11-07T15:48:50 retry https://snapshot.debian.org/archive/debian/20260102T144354Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:49:05 retry https://snapshot.debian.org/archive/debian/20260102T144354Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:50:22 progress 20251230T083556Z (18250/19492) 0.209 st/s req={'requests': 102405, 'bytes': 5360192105, 'retries': 359, '404': 9} scanned=5368483 occ=8
+2026-11-07T15:51:33 retry https://snapshot.debian.org/archive/debian/20260108T204321Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:51:48 retry https://snapshot.debian.org/archive/debian/20260108T204321Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T15:53:12 progress 20260105T203449Z (18275/19492) 0.209 st/s req={'requests': 102544, 'bytes': 5366883814, 'retries': 361, '404': 9} scanned=5375507 occ=8
+2026-11-07T15:55:13 progress 20260111T142729Z (18300/19492) 0.209 st/s req={'requests': 102665, 'bytes': 5373233359, 'retries': 361, '404': 9} scanned=5382516 occ=8
+2026-11-07T15:57:21 progress 20260118T032722Z (18325/19492) 0.209 st/s req={'requests': 102788, 'bytes': 5381202945, 'retries': 361, '404': 9} scanned=5402202 occ=8
+2026-11-07T15:58:28 retry https://snapshot.debian.org/archive/debian/20260127T145347Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:58:49 retry https://snapshot.debian.org/archive/debian/20260127T145347Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T15:59:04 retry https://snapshot.debian.org/archive/debian/20260127T145347Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:00:20 progress 20260124T143445Z (18350/19492) 0.209 st/s req={'requests': 102918, 'bytes': 5388904436, 'retries': 364, '404': 9} scanned=5418539 occ=8
+2026-11-07T16:01:27 retry https://snapshot.debian.org/archive/debian/20260203T024214Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:01:58 retry https://snapshot.debian.org/archive/debian/20260203T024214Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:03:09 progress 20260130T203126Z (18375/19492) 0.208 st/s req={'requests': 103051, 'bytes': 5395923465, 'retries': 366, '404': 9} scanned=5428647 occ=8
+2026-11-07T16:05:35 progress 20260206T082951Z (18400/19492) 0.208 st/s req={'requests': 103222, 'bytes': 5402823949, 'retries': 366, '404': 9} scanned=5436033 occ=8
+2026-11-07T16:07:47 progress 20260212T143611Z (18425/19492) 0.208 st/s req={'requests': 103361, 'bytes': 5410216668, 'retries': 366, '404': 9} scanned=5446479 occ=8
+2026-11-07T16:08:57 retry https://snapshot.debian.org/archive/debian/20260221T204712Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:10:28 progress 20260218T203007Z (18450/19492) 0.208 st/s req={'requests': 103533, 'bytes': 5417616411, 'retries': 367, '404': 9} scanned=5455992 occ=8
+2026-11-07T16:11:36 retry https://snapshot.debian.org/archive/debian/20260228T204745Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:12:04 retry https://snapshot.debian.org/archive/debian/20260228T204745Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:13:29 progress 20260225T224823Z (18475/19492) 0.208 st/s req={'requests': 103700, 'bytes': 5424747513, 'retries': 369, '404': 9} scanned=5464341 occ=8
+2026-11-07T16:14:40 retry https://snapshot.debian.org/archive/debian/20260307T022716Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:16:03 progress 20260304T023641Z (18500/19492) 0.208 st/s req={'requests': 103844, 'bytes': 5432540636, 'retries': 370, '404': 9} scanned=5477341 occ=8
+2026-11-07T16:18:27 progress 20260310T083112Z (18525/19492) 0.208 st/s req={'requests': 104005, 'bytes': 5440383887, 'retries': 370, '404': 9} scanned=5489637 occ=8
+2026-11-07T16:20:36 progress 20260316T025157Z (18550/19492) 0.208 st/s req={'requests': 104148, 'bytes': 5447216794, 'retries': 370, '404': 9} scanned=5496621 occ=8
+2026-11-07T16:21:41 retry https://snapshot.debian.org/archive/debian/20260325T083206Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:21:56 retry https://snapshot.debian.org/archive/debian/20260325T083206Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:23:26 progress 20260322T082614Z (18575/19492) 0.208 st/s req={'requests': 104291, 'bytes': 5454415851, 'retries': 372, '404': 9} scanned=5508070 occ=8
+2026-11-07T16:24:43 retry https://snapshot.debian.org/archive/debian/20260331T142608Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:24:58 retry https://snapshot.debian.org/archive/debian/20260331T142608Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:26:19 progress 20260328T142814Z (18600/19492) 0.208 st/s req={'requests': 104428, 'bytes': 5462072198, 'retries': 374, '404': 9} scanned=5519143 occ=8
+2026-11-07T16:27:41 retry https://snapshot.debian.org/archive/debian/20260406T203439Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:27:56 retry https://snapshot.debian.org/archive/debian/20260406T203439Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:28:16 retry https://snapshot.debian.org/archive/debian/20260406T203439Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T16:28:46 retry https://snapshot.debian.org/archive/debian/20260406T203439Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 40s
+2026-11-07T16:29:36 retry https://snapshot.debian.org/archive/debian/20260406T203439Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 80s
+2026-11-07T16:32:14 progress 20260403T203237Z (18625/19492) 0.207 st/s req={'requests': 104581, 'bytes': 5469816211, 'retries': 379, '404': 9} scanned=5533376 occ=8
+2026-11-07T16:33:26 retry https://snapshot.debian.org/archive/debian/20260413T022709Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:33:41 retry https://snapshot.debian.org/archive/debian/20260413T022709Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:34:01 retry https://snapshot.debian.org/archive/debian/20260413T022709Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T16:35:25 progress 20260410T023432Z (18650/19492) 0.207 st/s req={'requests': 104710, 'bytes': 5476610336, 'retries': 382, '404': 9} scanned=5540647 occ=8
+2026-11-07T16:37:37 progress 20260416T082946Z (18675/19492) 0.207 st/s req={'requests': 104861, 'bytes': 5483477175, 'retries': 382, '404': 9} scanned=5547988 occ=8
+2026-11-07T16:38:47 retry https://snapshot.debian.org/archive/debian/20260425T144807Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:39:02 retry https://snapshot.debian.org/archive/debian/20260425T144807Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T16:40:25 progress 20260422T144529Z (18700/19492) 0.207 st/s req={'requests': 105001, 'bytes': 5490771285, 'retries': 384, '404': 9} scanned=5558259 occ=8
+2026-11-07T16:41:37 retry https://snapshot.debian.org/archive/debian/20260501T205709Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:42:51 progress 20260428T203603Z (18725/19492) 0.207 st/s req={'requests': 105153, 'bytes': 5499472388, 'retries': 385, '404': 9} scanned=5579079 occ=8
+2026-11-07T16:45:09 progress 20260505T023114Z (18750/19492) 0.207 st/s req={'requests': 105302, 'bytes': 5507708474, 'retries': 385, '404': 9} scanned=5595159 occ=8
+2026-11-07T16:47:27 progress 20260511T083128Z (18775/19492) 0.207 st/s req={'requests': 105450, 'bytes': 5514803220, 'retries': 385, '404': 9} scanned=5603258 occ=8
+2026-11-07T16:49:27 progress 20260517T144112Z (18800/19492) 0.207 st/s req={'requests': 105578, 'bytes': 5521411313, 'retries': 385, '404': 9} scanned=5609863 occ=8
+2026-11-07T16:51:29 progress 20260523T211231Z (18825/19492) 0.207 st/s req={'requests': 105711, 'bytes': 5527869483, 'retries': 385, '404': 9} scanned=5616122 occ=8
+2026-11-07T16:52:36 retry https://snapshot.debian.org/archive/debian/20260602T022549Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:53:54 progress 20260530T083428Z (18850/19492) 0.207 st/s req={'requests': 105865, 'bytes': 5534785421, 'retries': 386, '404': 9} scanned=5622777 occ=8
+2026-11-07T16:54:55 retry https://snapshot.debian.org/archive/debian/20260608T214028Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:56:09 progress 20260605T142754Z (18875/19492) 0.207 st/s req={'requests': 105988, 'bytes': 5541465732, 'retries': 387, '404': 9} scanned=5629294 occ=8
+2026-11-07T16:57:16 retry https://snapshot.debian.org/archive/debian/20260615T022918Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:57:33 retry https://snapshot.debian.org/archive/debian/20260615T022918Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T16:58:49 progress 20260612T023739Z (18900/19492) 0.207 st/s req={'requests': 106124, 'bytes': 5547890501, 'retries': 389, '404': 9} scanned=5635198 occ=8
+2026-11-07T17:00:50 retry https://snapshot.debian.org/archive/debian/20260621T082552Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:01:05 retry https://snapshot.debian.org/archive/debian/20260621T082552Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:01:33 retry https://snapshot.debian.org/archive/debian/20260621T082552Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:01:48 retry https://snapshot.debian.org/archive/debian/20260621T082552Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:02:11 retry https://snapshot.debian.org/archive/debian/20260621T082552Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:03:19 progress 20260618T083015Z (18925/19492) 0.206 st/s req={'requests': 106253, 'bytes': 5555157064, 'retries': 394, '404': 9} scanned=5646362 occ=8
+2026-11-07T17:05:29 progress 20260624T143206Z (18950/19492) 0.206 st/s req={'requests': 106379, 'bytes': 5562430806, 'retries': 394, '404': 9} scanned=5656153 occ=8
+2026-11-07T17:07:39 progress 20260630T210956Z (18975/19492) 0.206 st/s req={'requests': 106516, 'bytes': 5570042215, 'retries': 394, '404': 9} scanned=5669008 occ=8
+2026-11-07T17:08:43 retry https://snapshot.debian.org/archive/debian/20260709T201930Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:08:58 retry https://snapshot.debian.org/archive/debian/20260709T201930Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:10:23 progress 20260706T202848Z (19000/19492) 0.206 st/s req={'requests': 106643, 'bytes': 5576760812, 'retries': 396, '404': 9} scanned=5674991 occ=8
+2026-11-07T17:11:36 retry https://snapshot.debian.org/archive/debian/20260716T023815Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:11:53 retry https://snapshot.debian.org/archive/debian/20260716T023815Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:12:08 retry https://snapshot.debian.org/archive/debian/20260716T023815Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:13:19 progress 20260713T025009Z (19025/19492) 0.206 st/s req={'requests': 106778, 'bytes': 5583379092, 'retries': 399, '404': 9} scanned=5680580 occ=8
+2026-11-07T17:15:22 progress 20260719T082041Z (19050/19492) 0.206 st/s req={'requests': 106915, 'bytes': 5590101792, 'retries': 399, '404': 9} scanned=5687199 occ=8
+2026-11-07T17:16:34 retry https://snapshot.debian.org/archive/debian/20260728T202839Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:16:49 retry https://snapshot.debian.org/archive/debian/20260728T202839Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:17:09 retry https://snapshot.debian.org/archive/debian/20260728T202839Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T17:17:39 retry https://snapshot.debian.org/archive/debian/20260728T202839Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 40s
+2026-11-07T17:18:30 retry https://snapshot.debian.org/archive/debian/20260728T202839Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 80s
+2026-11-07T17:21:11 progress 20260725T143848Z (19075/19492) 0.206 st/s req={'requests': 107063, 'bytes': 5597596869, 'retries': 404, '404': 9} scanned=5698486 occ=8
+2026-11-07T17:22:21 retry https://snapshot.debian.org/archive/debian/20260804T025233Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:23:48 progress 20260801T022406Z (19100/19492) 0.205 st/s req={'requests': 107224, 'bytes': 5604666732, 'retries': 405, '404': 9} scanned=5706363 occ=8
+2026-11-07T17:26:01 progress 20260807T082802Z (19125/19492) 0.205 st/s req={'requests': 107366, 'bytes': 5612329674, 'retries': 405, '404': 9} scanned=5717265 occ=8
+2026-11-07T17:27:14 retry https://snapshot.debian.org/archive/debian/20260816T142939Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:28:23 progress 20260813T142458Z (19150/19492) 0.205 st/s req={'requests': 107491, 'bytes': 5619366931, 'retries': 406, '404': 9} scanned=5725106 occ=8
+2026-11-07T17:30:38 progress 20260819T205155Z (19175/19492) 0.205 st/s req={'requests': 107630, 'bytes': 5626417532, 'retries': 406, '404': 9} scanned=5732787 occ=8
+2026-11-07T17:32:59 progress 20260826T022714Z (19200/19492) 0.205 st/s req={'requests': 107772, 'bytes': 5633381918, 'retries': 406, '404': 9} scanned=5740208 occ=8
+2026-11-07T17:35:19 progress 20260901T082454Z (19225/19492) 0.205 st/s req={'requests': 107921, 'bytes': 5640424476, 'retries': 406, '404': 9} scanned=5746763 occ=8
+2026-11-07T17:36:31 retry https://snapshot.debian.org/archive/debian/20260910T143110Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:37:55 progress 20260907T142631Z (19250/19492) 0.205 st/s req={'requests': 108067, 'bytes': 5648458465, 'retries': 407, '404': 9} scanned=5761621 occ=8
+2026-11-07T17:40:07 progress 20260913T202244Z (19275/19492) 0.205 st/s req={'requests': 108213, 'bytes': 5655441314, 'retries': 407, '404': 9} scanned=5769850 occ=8
+2026-11-07T17:41:27 retry https://snapshot.debian.org/archive/debian/20260923T022347Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:42:42 progress 20260920T023840Z (19300/19492) 0.205 st/s req={'requests': 108353, 'bytes': 5662814540, 'retries': 408, '404': 9} scanned=5780852 occ=8
+2026-11-07T17:45:10 progress 20260926T082540Z (19325/19492) 0.205 st/s req={'requests': 108516, 'bytes': 5670901235, 'retries': 408, '404': 9} scanned=5792990 occ=8
+2026-11-07T17:47:22 progress 20261002T135523Z (19350/19492) 0.205 st/s req={'requests': 108642, 'bytes': 5677533648, 'retries': 408, '404': 9} scanned=5798675 occ=8
+2026-11-07T17:48:38 retry https://snapshot.debian.org/archive/debian/20261011T144745Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:48:53 retry https://snapshot.debian.org/archive/debian/20261011T144745Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 10s
+2026-11-07T17:49:13 retry https://snapshot.debian.org/archive/debian/20261011T144745Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 20s
+2026-11-07T17:50:55 progress 20261008T143407Z (19375/19492) 0.205 st/s req={'requests': 108784, 'bytes': 5685376465, 'retries': 411, '404': 9} scanned=5809722 occ=8
+2026-11-07T17:52:06 retry https://snapshot.debian.org/archive/debian/20261017T204620Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:53:09 progress 20261014T220430Z (19400/19492) 0.205 st/s req={'requests': 108910, 'bytes': 5692280005, 'retries': 412, '404': 9} scanned=5818401 occ=8
+2026-11-07T17:54:21 retry https://snapshot.debian.org/archive/debian/20261023T142942Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:54:38 retry https://snapshot.debian.org/archive/debian/20261023T142942Z/dists/sid/main/binary-arm64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T17:55:35 progress 20261020T142926Z (19425/19492) 0.205 st/s req={'requests': 109030, 'bytes': 5699328887, 'retries': 414, '404': 9} scanned=5825375 occ=8
+2026-11-07T17:58:03 progress 20261026T202550Z (19450/19492) 0.205 st/s req={'requests': 109191, 'bytes': 5706536953, 'retries': 414, '404': 9} scanned=5835105 occ=8
+2026-11-07T17:59:17 retry https://snapshot.debian.org/archive/debian/20261105T022427Z/dists/sid/main/binary-i386/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T18:00:33 progress 20261102T082611Z (19475/19492) 0.205 st/s req={'requests': 109323, 'bytes': 5714017423, 'retries': 415, '404': 9} scanned=5844168 occ=8
+2026-11-07T18:01:34 retry https://snapshot.debian.org/archive/debian/20261106T082430Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T18:02:13 done at 20261106T082430Z req={'requests': 109403, 'bytes': 5718669447, 'retries': 416, '404': 9}

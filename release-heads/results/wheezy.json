@@ -1,0 +1,44 @@
+{
+ "counts": {
+  "Essential:yes": 49,
+  "essential_stanzas": 49,
+  "ma:allowed": 6,
+  "ma:foreign": 861,
+  "ma:same": 4043,
+  "neg_on_essential:Conflicts": 4,
+  "self_conflict_name:Breaks": 1,
+  "self_conflict_name:Conflicts": 55,
+  "self_conflict_virtual:Breaks": 1107,
+  "self_conflict_virtual:Conflicts": 2321,
+  "stanzas": 57051
+ },
+ "examples": {
+  "neg_on_essential:Conflicts": [
+   "systemd-sysv 44-11+deb7u4 amd64: sysvinit",
+   "upstart 1.6.1-1 amd64: sysvinit",
+   "systemd-sysv 44-11+deb7u4 i386: sysvinit",
+   "upstart 1.6.1-1 i386: sysvinit"
+  ],
+  "self_conflict_name:Breaks": [
+   "mobyle-programs 4.0-1 all: mobyle-programs (<< 4.0-1)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-2 all: crafty-books-medium",
+   "apache2-suexec 2.2.22-13+deb7u6 amd64: apache2-suexec",
+   "ardour 1:2.8.14-2 amd64: ardour",
+   "automake 1:1.11.6-1 all: automake (<< 1:1.4-p5-1)"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "ruby-googlecharts 1.6.8-2 all: libgooglecharts-ruby (<< 1.6.8-1~)",
+   "ruby-googlecharts 1.6.8-2 all: libgooglecharts-ruby1.8 (<< 1.6.8-1~)",
+   "xul-ext-adblock-plus 2.1-1+deb7u1 all: adblock-plus (<< 1.1.1-2)",
+   "amavisd-milter 1.5.0-5 amd64: amavisd-new-milter (<= 1:2.6.4-2)"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "festvox-rablpc16k 1.4.0-2 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-2 all: festvox-8k",
+   "game-data-packager 30 all: doom-package",
+   "geoip-database-contrib 1.8 all: geoip-database"
+  ]
+ }
+}

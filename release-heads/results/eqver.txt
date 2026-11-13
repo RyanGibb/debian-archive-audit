@@ -1,0 +1,24 @@
+bookworm amd64: 64537 stanzas, 0 equal pairs
+bookworm arm64: 63499 stanzas, 0 equal pairs
+bookworm i386: 63472 stanzas, 0 equal pairs
+bullseye amd64: 59653 stanzas, 0 equal pairs
+bullseye arm64: 58544 stanzas, 0 equal pairs
+bullseye i386: 59033 stanzas, 0 equal pairs
+buster amd64: 57803 stanzas, 0 equal pairs
+buster arm64: 56102 stanzas, 0 equal pairs
+buster i386: 57372 stanzas, 0 equal pairs
+jessie amd64: 43382 stanzas, 0 equal pairs
+jessie arm64: 40955 stanzas, 0 equal pairs
+jessie i386: 43392 stanzas, 0 equal pairs
+sid amd64: 78349 stanzas, 0 equal pairs
+sid arm64: 77110 stanzas, 0 equal pairs
+sid i386: 75356 stanzas, 0 equal pairs
+stretch amd64: 51592 stanzas, 0 equal pairs
+stretch arm64: 50117 stanzas, 0 equal pairs
+stretch i386: 51349 stanzas, 0 equal pairs
+trixie amd64: 69913 stanzas, 0 equal pairs
+trixie arm64: 69040 stanzas, 0 equal pairs
+trixie i386: 67839 stanzas, 0 equal pairs
+wheezy amd64: 36596 stanzas, 0 equal pairs
+wheezy i386: 36688 stanzas, 0 equal pairs
+total equal pairs: 0

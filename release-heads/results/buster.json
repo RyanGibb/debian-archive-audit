@@ -1,0 +1,874 @@
+{
+ "counts": {
+  "Essential:yes": 65,
+  "Important:yes": 12,
+  "essential_stanzas": 65,
+  "ma:allowed": 381,
+  "ma:foreign": 8067,
+  "ma:same": 23937,
+  "multi_version_keys": 196,
+  "qual:Conflicts:explicit": 356,
+  "qual:Depends:any": 13988,
+  "qual:Depends:explicit": 30,
+  "qual:Recommends:any": 30,
+  "qual:Recommends:explicit": 12,
+  "qual:Suggests:any": 6,
+  "qual:Suggests:explicit": 3,
+  "qual_unconf:Conflicts:amd64-i386-cross": 2,
+  "qual_unconf:Conflicts:amd64-x32-cross": 2,
+  "qual_unconf:Conflicts:i386-amd64-cross": 2,
+  "qual_unconf:Conflicts:i386-x32-cross": 2,
+  "qual_unconf:Conflicts:mips-mips64-cross": 2,
+  "qual_unconf:Conflicts:mips-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mips-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mips-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mips-mipsel-cross": 4,
+  "qual_unconf:Conflicts:mips-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mips-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mips-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mips-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mips-mipsr6-cross": 4,
+  "qual_unconf:Conflicts:mips-mipsr6el-cross": 4,
+  "qual_unconf:Conflicts:mips64-mips-cross": 2,
+  "qual_unconf:Conflicts:mips64-mips64el-cross": 4,
+  "qual_unconf:Conflicts:mips64-mips64r6-cross": 4,
+  "qual_unconf:Conflicts:mips64-mips64r6el-cross": 4,
+  "qual_unconf:Conflicts:mips64-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mips64-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mips-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mips64-cross": 4,
+  "qual_unconf:Conflicts:mips64el-mips64r6-cross": 4,
+  "qual_unconf:Conflicts:mips64el-mips64r6el-cross": 4,
+  "qual_unconf:Conflicts:mips64el-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mips64el-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mips-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mips64-cross": 4,
+  "qual_unconf:Conflicts:mips64r6-mips64el-cross": 4,
+  "qual_unconf:Conflicts:mips64r6-mips64r6el-cross": 4,
+  "qual_unconf:Conflicts:mips64r6-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mips64r6-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mips-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mips64-cross": 4,
+  "qual_unconf:Conflicts:mips64r6el-mips64el-cross": 4,
+  "qual_unconf:Conflicts:mips64r6el-mips64r6-cross": 4,
+  "qual_unconf:Conflicts:mips64r6el-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mips64r6el-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mips-cross": 4,
+  "qual_unconf:Conflicts:mipsel-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsel-mipsr6-cross": 4,
+  "qual_unconf:Conflicts:mipsel-mipsr6el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32-mips-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mipsn32el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32-mipsn32r6-cross": 4,
+  "qual_unconf:Conflicts:mipsn32-mipsn32r6el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mips-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mipsn32-cross": 4,
+  "qual_unconf:Conflicts:mipsn32el-mipsn32r6-cross": 4,
+  "qual_unconf:Conflicts:mipsn32el-mipsn32r6el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32el-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32el-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mips-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32r6el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mips-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsel-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32el-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32r6-cross": 4,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsr6-cross": 2,
+  "qual_unconf:Conflicts:mipsn32r6el-mipsr6el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mips-cross": 4,
+  "qual_unconf:Conflicts:mipsr6-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mipsel-cross": 4,
+  "qual_unconf:Conflicts:mipsr6-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6-mipsr6el-cross": 4,
+  "qual_unconf:Conflicts:mipsr6el-mips-cross": 4,
+  "qual_unconf:Conflicts:mipsr6el-mips64-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mips64el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mips64r6-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mips64r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mipsel-cross": 4,
+  "qual_unconf:Conflicts:mipsr6el-mipsn32-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mipsn32el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mipsn32r6-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mipsn32r6el-cross": 2,
+  "qual_unconf:Conflicts:mipsr6el-mipsr6-cross": 4,
+  "qual_unconf:Conflicts:x32": 4,
+  "qual_unconf:Conflicts:x32-amd64-cross": 2,
+  "qual_unconf:Conflicts:x32-i386-cross": 2,
+  "qual_unconf:Depends:armel": 4,
+  "qual_unconf:Depends:armhf": 4,
+  "qual_unconf:Depends:mips": 2,
+  "qual_unconf:Depends:mips64el": 2,
+  "qual_unconf:Depends:mipsel": 2,
+  "qual_unconf:Depends:powerpc": 2,
+  "qual_unconf:Depends:ppc64el": 2,
+  "qual_unconf:Depends:s390x": 2,
+  "qual_unconf:Recommends:armhf": 3,
+  "qual_unconf:Suggests:armhf": 3,
+  "self_conflict_name:Breaks": 14,
+  "self_conflict_name:Conflicts": 92,
+  "self_conflict_virtual:Breaks": 1052,
+  "self_conflict_virtual:Conflicts": 2351,
+  "stanzas": 113837
+ },
+ "examples": {
+  "qual_unconf:Conflicts:amd64-i386-cross": [
+   "libc6-amd64-i386-cross 2.28-7cross1 all: libc6-x32:amd64-i386-cross",
+   "libc6-x32-i386-cross 2.28-7cross1 all: libc6-x32:amd64-i386-cross"
+  ],
+  "qual_unconf:Conflicts:amd64-x32-cross": [
+   "libc6-amd64-x32-cross 2.28-7cross1 all: libc6-i386:amd64-x32-cross",
+   "libc6-i386-x32-cross 2.28-7cross1 all: libc6-i386:amd64-x32-cross"
+  ],
+  "qual_unconf:Conflicts:i386-amd64-cross": [
+   "libc6-i386-amd64-cross 2.28-7cross1 all: libc6-x32:i386-amd64-cross",
+   "libc6-x32-amd64-cross 2.28-7cross1 all: libc6-x32:i386-amd64-cross"
+  ],
+  "qual_unconf:Conflicts:i386-x32-cross": [
+   "libc6-amd64-x32-cross 2.28-7cross1 all: libc6-amd64:i386-x32-cross",
+   "libc6-i386-x32-cross 2.28-7cross1 all: libc6-amd64:i386-x32-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mips-mipsel-cross",
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mips-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mips-mipsr6-cross",
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mips-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mips-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsr6el-cross",
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mips-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64-mips64el-cross",
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64-mips64r6-cross",
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64-mips64r6el-cross",
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64el-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64-cross",
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64r6-cross",
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64r6el-cross",
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64el-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64el-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64el-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64el-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mips64-cross",
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64r6-mips64el-cross",
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64r6-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mips64r6el-cross",
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mips64-cross",
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64r6el-mips64el-cross",
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mips64r6el-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mips64r6-cross",
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mips64r6el-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mips64r6el-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mips64r6el-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mips64r6el-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsel-mips-cross",
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsel-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsel-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsel-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsel-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsel-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsr6-cross",
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsel-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsr6el-cross",
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsel-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsel-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32el-cross",
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32r6-cross",
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32r6el-cross",
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32el-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32el-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32el-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32el-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32-cross",
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32r6-cross",
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32r6el-cross",
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32el-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32el-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32el-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32r6-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32r6-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32-cross",
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32el-cross",
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32r6el-cross",
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6el-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32r6el-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mips32:mipsn32r6el-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsn32r6el-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32-cross",
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32el-cross",
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32r6-cross",
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips32:mipsn32r6el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsn32r6el-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsn32r6el-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsr6-mips-cross",
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsr6-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsr6-mipsel-cross",
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsr6-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6-mipsr6el-cross": [
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsr6el-cross",
+   "libc6-mips64-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6-mipsr6el-cross",
+   "libc6-mipsn32-mipsr6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6-mipsr6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mips-cross": [
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mips64:mipsr6el-mips-cross",
+   "libc6-mips64-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mips64:mipsr6el-mips-cross",
+   "libc6-mipsn32-mips-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mips-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mips64-cross": [
+   "libc6-mips32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64-cross",
+   "libc6-mipsn32-mips64-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mips64el-cross": [
+   "libc6-mips32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mips64el-cross",
+   "libc6-mipsn32-mips64el-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mips64el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mips64r6-cross": [
+   "libc6-mips32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64r6-cross",
+   "libc6-mipsn32-mips64r6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mips64r6el-cross": [
+   "libc6-mips32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64r6el-cross",
+   "libc6-mipsn32-mips64r6el-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mips64r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsel-cross": [
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsr6el-mipsel-cross",
+   "libc6-mips64-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mips64:mipsr6el-mipsel-cross",
+   "libc6-mipsn32-mipsel-cross 2.28-7cross1 all: libc6-mipsn32:mipsr6el-mipsel-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsn32-cross": [
+   "libc6-mips32-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32-cross",
+   "libc6-mips64-mipsn32-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsn32el-cross": [
+   "libc6-mips32-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32el-cross",
+   "libc6-mips64-mipsn32el-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsn32r6-cross": [
+   "libc6-mips32-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32r6-cross",
+   "libc6-mips64-mipsn32r6-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32r6-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsn32r6el-cross": [
+   "libc6-mips32-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32r6el-cross",
+   "libc6-mips64-mipsn32r6el-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsn32r6el-cross"
+  ],
+  "qual_unconf:Conflicts:mipsr6el-mipsr6-cross": [
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsr6-cross",
+   "libc6-mips64-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mips64:mipsr6el-mipsr6-cross",
+   "libc6-mipsn32-mipsr6-cross 2.28-7cross2 all: libc6-mipsn32:mipsr6el-mipsr6-cross"
+  ],
+  "qual_unconf:Conflicts:x32": [
+   "libc6-i386 2.28-10+deb10u1 amd64: libc6-i386:x32",
+   "libc6-x32 2.28-10+deb10u1 amd64: libc6-i386:x32",
+   "libc6-amd64 2.28-10+deb10u1 i386: libc6-amd64:x32",
+   "libc6-x32 2.28-10+deb10u1 i386: libc6-amd64:x32"
+  ],
+  "qual_unconf:Conflicts:x32-amd64-cross": [
+   "libc6-i386-amd64-cross 2.28-7cross1 all: libc6-i386:x32-amd64-cross",
+   "libc6-x32-amd64-cross 2.28-7cross1 all: libc6-i386:x32-amd64-cross"
+  ],
+  "qual_unconf:Conflicts:x32-i386-cross": [
+   "libc6-amd64-i386-cross 2.28-7cross1 all: libc6-amd64:x32-i386-cross",
+   "libc6-x32-i386-cross 2.28-7cross1 all: libc6-amd64:x32-i386-cross"
+  ],
+  "qual_unconf:Depends:armel": [
+   "crossbuild-essential-armel 12.6 all: gcc:armel",
+   "crossbuild-essential-armel 12.6 all: g++:armel",
+   "wine64-tools 4.0-2 arm64: libwine-dev:armel (= 4.0-2)",
+   "wine64-development-tools 4.2-4+b1 arm64: libwine-development-dev:armel (= 4.2-4+b1)"
+  ],
+  "qual_unconf:Depends:armhf": [
+   "crossbuild-essential-armhf 12.6 all: gcc:armhf",
+   "crossbuild-essential-armhf 12.6 all: g++:armhf",
+   "wine64-tools 4.0-2 arm64: libwine-dev:armhf (= 4.0-2)",
+   "wine64-development-tools 4.2-4+b1 arm64: libwine-development-dev:armhf (= 4.2-4+b1)"
+  ],
+  "qual_unconf:Depends:mips": [
+   "crossbuild-essential-mips 12.6 all: gcc:mips",
+   "crossbuild-essential-mips 12.6 all: g++:mips"
+  ],
+  "qual_unconf:Depends:mips64el": [
+   "crossbuild-essential-mips64el 12.6 all: gcc:mips64el",
+   "crossbuild-essential-mips64el 12.6 all: g++:mips64el"
+  ],
+  "qual_unconf:Depends:mipsel": [
+   "crossbuild-essential-mipsel 12.6 all: gcc:mipsel",
+   "crossbuild-essential-mipsel 12.6 all: g++:mipsel"
+  ],
+  "qual_unconf:Depends:powerpc": [
+   "crossbuild-essential-powerpc 12.6 all: gcc:powerpc",
+   "crossbuild-essential-powerpc 12.6 all: g++:powerpc"
+  ],
+  "qual_unconf:Depends:ppc64el": [
+   "crossbuild-essential-ppc64el 12.6 all: gcc:ppc64el",
+   "crossbuild-essential-ppc64el 12.6 all: g++:ppc64el"
+  ],
+  "qual_unconf:Depends:s390x": [
+   "crossbuild-essential-s390x 12.6 all: gcc:s390x",
+   "crossbuild-essential-s390x 12.6 all: g++:s390x"
+  ],
+  "qual_unconf:Recommends:armhf": [
+   "sunxi-tools 1.4.2+git20181114.6d598a-3 amd64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20181114.6d598a-3 arm64: u-boot-sunxi:armhf",
+   "sunxi-tools 1.4.2+git20181114.6d598a-3 i386: u-boot-sunxi:armhf"
+  ],
+  "qual_unconf:Suggests:armhf": [
+   "vmdebootstrap 1.11-2 amd64: u-boot:armhf",
+   "vmdebootstrap 1.11-2 arm64: u-boot:armhf",
+   "vmdebootstrap 1.11-2 i386: u-boot:armhf"
+  ],
+  "self_conflict_name:Breaks": [
+   "freecad 0.18~pre1+dfsg1-5 all: freecad (<< 0.18~)",
+   "freeradius-config 3.0.17+dfsg-1.1+deb10u1 amd64: freeradius-config",
+   "gdal-bin 2.4.0+dfsg-1+b1 amd64: gdal-bin (<< 1.10.0-0~)",
+   "openobex-apps 1.7.2-1 amd64: openobex-apps (<< 1.7.1-4)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-2 all: crafty-books-medium",
+   "automake 1:1.16.1-4 all: automake (<< 1:1.4-p5-1)",
+   "libbluetooth-dev 5.50-1.2~deb10u2 amd64: libbluetooth-dev",
+   "bonnie++ 1.98 amd64: bonnie++"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "pidgin-skype-common 20140930+svn665+dfsg-1 amd64: skype4pidgin",
+   "pidgin-skype-common 20140930+svn665+dfsg-1 i386: skype4pidgin",
+   "389-ds-base-dev 1.4.0.21-1 amd64: libsvrcore-dev",
+   "ack 2.24-1 all: ack-grep (<= 2.14-5~)"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "festvox-rablpc16k 2.4-1 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-3 all: festvox-8k",
+   "libifeffit-perl 2:1.2.11d-10.2+b3 amd64: perl-ifeffit",
+   "nvidia-settings 418.74-1 amd64: nvidia-settings-gtk-418.74"
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+== bookworm amd64: {'otherarch_sat_if_dropped': 47, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["nvidia-primus-vk-wrapper Recommends: nvidia-primus-vk-wrapper:i386 (= 1.6.2-2) sats=[('nvidia-primus-vk-wrapper', 'same')] alts=1", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-arm64 Depends: g++:arm64 sats=[('g++', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== bookworm arm64: {'otherarch_sat_if_dropped': 33, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-armel Depends: gcc:armel sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1']
+== bookworm i386: {'otherarch_sat_if_dropped': 33, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== sid amd64: {'otherarch_sat_if_dropped': 55, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["nvidia-primus-vk-wrapper Recommends: nvidia-primus-vk-wrapper:i386 (= 1.6.4-4+b2) sats=[('nvidia-primus-vk-wrapper', 'same')] alts=1", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-arm64 Depends: g++:arm64 sats=[('g++', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== sid arm64: {'otherarch_sat_if_dropped': 40, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["box64 Depends: libgcc-s1:amd64 sats=[('libgcc-s1', 'same')] alts=2", "box64 Depends: libstdc++6:amd64 sats=[('libstdc++6', 'same')] alts=2", "box64-rk3588 Depends: libgcc-s1:amd64 sats=[('libgcc-s1', 'same')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1']
+== sid i386: {'otherarch_sat_if_dropped': 35, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== trixie amd64: {'otherarch_sat_if_dropped': 47, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["nvidia-primus-vk-wrapper Recommends: nvidia-primus-vk-wrapper:i386 (= 1.6.4-4) sats=[('nvidia-primus-vk-wrapper', 'same')] alts=1", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-arm64 Depends: g++:arm64 sats=[('g++', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== trixie arm64: {'otherarch_sat_if_dropped': 40, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["box64 Depends: libgcc-s1:amd64 sats=[('libgcc-s1', 'same')] alts=2", "box64 Depends: libstdc++6:amd64 sats=[('libstdc++6', 'same')] alts=2", "box64-rk3588 Depends: libgcc-s1:amd64 sats=[('libgcc-s1', 'same')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-6) sats=[] alts=1']
+== trixie i386: {'otherarch_sat_if_dropped': 35, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== bullseye amd64: {'otherarch_sat_if_dropped': 47, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["nvidia-primus-vk-wrapper Recommends: nvidia-primus-vk-wrapper:i386 (= 1.6.1-1) sats=[('nvidia-primus-vk-wrapper', 'same')] alts=1", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-arm64 Depends: g++:arm64 sats=[('g++', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-2) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== bullseye arm64: {'otherarch_sat_if_dropped': 33, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-armel Depends: gcc:armel sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.2.2+dfsg1-2) sats=[] alts=1']
+== bullseye i386: {'otherarch_sat_if_dropped': 32, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== buster amd64: {'otherarch_sat_if_dropped': 26, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-arm64 Depends: g++:arm64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-armel Depends: gcc:armel sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.1.3-8.1) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== buster arm64: {'otherarch_sat_if_dropped': 25, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-armel Depends: gcc:armel sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['lmms Recommends: lmms-vst-server:i386 (>= 1.1.3-8.1) sats=[] alts=1']
+== buster i386: {'otherarch_sat_if_dropped': 24, 'otherarch_unsat_anyway': 1}
+    otherarch_sat_if_dropped ["crossbuild-essential-amd64 Depends: gcc:amd64 sats=[('gcc', 'no')] alts=2", "crossbuild-essential-amd64 Depends: g++:amd64 sats=[('g++', 'no')] alts=2", "crossbuild-essential-arm64 Depends: gcc:arm64 sats=[('gcc', 'no')] alts=2"]
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== jessie amd64: {'otherarch_sat_if_dropped': 8, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["googleearth-package Recommends: libldap-2.4-2:i386 sats=[('libldap-2.4-2', 'same')] alts=1", "googleearth-package Recommends: libdb5.3:i386 sats=[('libdb5.3', 'same')] alts=1", "googleearth-package Recommends: libsasl2-2:i386 sats=[('libsasl2-2', 'same')] alts=1"]
+    otherarch_unsat_anyway ['googleearth-package Recommends: libgnutls26:i386 sats=[] alts=1', 'sunxi-tools Recommends: u-boot:armhf sats=[] alts=1']
+== jessie arm64: {'otherarch_sat_if_dropped': 5, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["googleearth-package Recommends: libldap-2.4-2:i386 sats=[('libldap-2.4-2', 'same')] alts=1", "googleearth-package Recommends: libdb5.3:i386 sats=[('libdb5.3', 'same')] alts=1", "googleearth-package Recommends: libsasl2-2:i386 sats=[('libsasl2-2', 'same')] alts=1"]
+    otherarch_unsat_anyway ['googleearth-package Recommends: libgnutls26:i386 sats=[] alts=1', 'sunxi-tools Recommends: u-boot:armhf sats=[] alts=1']
+== jessie i386: {'otherarch_unsat_anyway': 1}
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot:armhf sats=[] alts=1']
+== stretch amd64: {'otherarch_sat_if_dropped': 10, 'otherarch_unsat_anyway': 3}
+    otherarch_sat_if_dropped ["googleearth-package Recommends: libldap-2.4-2:i386 sats=[('libldap-2.4-2', 'same')] alts=1", "googleearth-package Recommends: libdb5.3:i386 sats=[('libdb5.3', 'same')] alts=1", "googleearth-package Recommends: libsasl2-2:i386 sats=[('libsasl2-2', 'same')] alts=1"]
+    otherarch_unsat_anyway ['googleearth-package Recommends: libgnutls26:i386 sats=[] alts=1', 'lmms Recommends: lmms-vst-server:i386 (>= 1.1.3-7) sats=[] alts=1', 'sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+== stretch arm64: {'otherarch_sat_if_dropped': 10, 'otherarch_unsat_anyway': 2}
+    otherarch_sat_if_dropped ["googleearth-package Recommends: libldap-2.4-2:i386 sats=[('libldap-2.4-2', 'same')] alts=1", "googleearth-package Recommends: libdb5.3:i386 sats=[('libdb5.3', 'same')] alts=1", "googleearth-package Recommends: libsasl2-2:i386 sats=[('libsasl2-2', 'same')] alts=1"]
+    otherarch_unsat_anyway ['googleearth-package Recommends: libgnutls26:i386 sats=[] alts=1', 'lmms Recommends: lmms-vst-server:i386 (>= 1.1.3-7) sats=[] alts=1']
+== stretch i386: {'otherarch_unsat_anyway': 1, 'otherarch_sat_if_dropped': 4}
+    otherarch_unsat_anyway ['sunxi-tools Recommends: u-boot-sunxi:armhf sats=[] alts=1']
+    otherarch_sat_if_dropped ["wine32-tools Depends: gcc-multilib:amd64 sats=[('gcc-multilib', 'no')] alts=2", "wine32-tools Recommends: g++-multilib:amd64 sats=[('g++-multilib', 'no')] alts=2", "wine32-development-tools Depends: gcc-multilib:amd64 sats=[('gcc-multilib', 'no')] alts=2"]
+== wheezy amd64: {}
+== wheezy i386: {}

@@ -1,0 +1,17 @@
+2026-11-06T09:41:52+00:00 probe 504
+2026-11-06T09:43:02+00:00 probe 504
+2026-11-06T09:45:17+00:00 probe 200
+200 https://snapshot.debian.org/file/31c673a18fcc4440d1caefe500c73ef33dddfd5f/Index
+504 https://snapshot.debian.org/archive/debian/20140101T000000Z/dists/sid/main/binary-amd64/Packages.diff/Index
+200 https://snapshot.debian.org/file/5ee400d481765de35d8127ef1f2f9e10f70af864/Index
+200 https://snapshot.debian.org/file/a17cff243c9798dba092a7075f40aaa77b8b1bbd/7ecb2e0c90dc245eea4e404fd9ade34eb4d9bdb7d0de152af3bc37836a24c9a6
+200 https://snapshot.debian.org/file/f550ec54fec44c0174bbc5a2f0f633d4f746e6e2/40ca1b47aa738928cdc10124cdc24c2606683a74fa9abb3fd35f4fe0a4ee0ccf
+200 https://snapshot.debian.org/file/bcc5f2c8a98cc77093b6b03eb51eb3eb6b507900/6f7699ee45da61bb211b33fc3aad5fe712b43abfcf414d3aa57f8e917e95db35
+200 https://snapshot.debian.org/file/2686258df35d83911121b99a91de4a57a7f14613/436481e02b35304ae0352a45b78450d84b5ac75ebeaafad054813aafd4911151
+504 https://snapshot.debian.org/archive/debian/20240101T000000Z/dists/sid/main/binary-amd64/Packages.diff/Index
+504 https://snapshot.debian.org/archive/debian/20261101T000000Z/dists/sid/main/binary-amd64/Packages.diff/Index
+2026-11-06T09:46:12+00:00 samples fetched
+2026-11-06T15:22:02+00:00 trial1 exit 0
+2026-11-06T15:23:51+00:00 trial2 exit 0
+2026-11-06T15:34:12+00:00 full attempt 0 
+2026-11-07T18:02:15+00:00 full attempt 0 exit 0

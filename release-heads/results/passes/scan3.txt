@@ -1,0 +1,22 @@
+== bookworm amd64: {'any_atoms': 10383, 'foreign_explicit': 49}
+    foreign_explicit ['nvidia-primus-vk-wrapper: nvidia-primus-vk-wrapper:i386 (= 1.6.2-2)', 'crossbuild-essential-arm64: gcc:arm64', 'crossbuild-essential-arm64: g++:arm64']
+== bookworm arm64: {'any_atoms': 10328, 'foreign_explicit': 34}
+    foreign_explicit ['crossbuild-essential-amd64: gcc:amd64', 'crossbuild-essential-amd64: g++:amd64', 'crossbuild-essential-armel: gcc:armel']
+== bookworm i386: {'any_atoms': 10293, 'foreign_explicit': 34}
+    foreign_explicit ['crossbuild-essential-amd64: gcc:amd64', 'crossbuild-essential-amd64: g++:amd64', 'crossbuild-essential-arm64: gcc:arm64']
+== sid amd64: {'any_atoms': 13046, 'foreign_explicit': 57, 'any_no_allowed_absent': 1, 'any_no_allowed_absent_sole_alt': 1}
+    foreign_explicit ['nvidia-primus-vk-wrapper: nvidia-primus-vk-wrapper:i386 (= 1.6.4-4+b2)', 'crossbuild-essential-arm64: gcc:arm64', 'crossbuild-essential-arm64: g++:arm64']
+    any_no_allowed_absent ['q2cli: python3.11:any (single-alt=True)']
+== sid arm64: {'any_atoms': 12998, 'foreign_explicit': 41, 'any_no_allowed_absent': 1, 'any_no_allowed_absent_sole_alt': 1}
+    foreign_explicit ['box64: libgcc-s1:amd64', 'box64: libstdc++6:amd64', 'box64-rk3588: libgcc-s1:amd64']
+    any_no_allowed_absent ['q2cli: python3.11:any (single-alt=True)']
+== sid i386: {'any_atoms': 12866, 'foreign_explicit': 36, 'any_no_allowed_absent': 1, 'any_no_allowed_absent_sole_alt': 1}
+    foreign_explicit ['crossbuild-essential-amd64: gcc:amd64', 'crossbuild-essential-amd64: g++:amd64', 'crossbuild-essential-arm64: gcc:arm64']
+    any_no_allowed_absent ['q2cli: python3.11:any (single-alt=True)']
+== bullseye amd64: {'any_atoms': 7726, 'foreign_explicit': 49}
+    foreign_explicit ['nvidia-primus-vk-wrapper: nvidia-primus-vk-wrapper:i386 (= 1.6.1-1)', 'crossbuild-essential-arm64: gcc:arm64', 'crossbuild-essential-arm64: g++:arm64']
+== bullseye arm64: {'any_atoms': 7685, 'foreign_explicit': 34, 'any_no_allowed_absent': 7}
+    foreign_explicit ['crossbuild-essential-amd64: gcc:amd64', 'crossbuild-essential-amd64: g++:amd64', 'crossbuild-essential-armel: gcc:armel']
+    any_no_allowed_absent ['erlang: erlang-base-hipe:any (single-alt=False)', 'erlang-examples: erlang-base-hipe:any (>= 1:23.2.6+dfsg-1+deb11u1) (single-alt=False)', 'erlang-examples: erlang-base-hipe:any (<< 1:23.2.6+dfsg-1+deb11u1.0) (single-alt=False)']
+== bullseye i386: {'any_atoms': 7675, 'foreign_explicit': 33}
+    foreign_explicit ['crossbuild-essential-amd64: gcc:amd64', 'crossbuild-essential-amd64: g++:amd64', 'crossbuild-essential-arm64: gcc:arm64']

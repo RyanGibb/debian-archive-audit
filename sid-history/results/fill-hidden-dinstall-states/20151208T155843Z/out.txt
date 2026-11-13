@@ -1,0 +1,13 @@
+main/amd64: 4 patches, final verified=True, intermediates verified=3/3
+main/i386: 4 patches, final verified=True, intermediates verified=3/3
+main/arm64: 4 patches, final verified=True, intermediates verified=3/3
+contrib/amd64: 3 patches, final verified=True, intermediates verified=2/2
+contrib/i386: 2 patches, final verified=True, intermediates verified=1/1
+contrib/arm64: 2 patches, final verified=True, intermediates verified=1/1
+non-free/i386: 1 patches, final verified=True, intermediates verified=0/0
+20151208T204814D main/amd64,main/i386,main/arm64,contrib/amd64
+20151208T222948D main/amd64,main/i386,main/arm64
+20151209T024852D main/amd64,main/i386,main/arm64,contrib/amd64,contrib/i386,contrib/arm64
+20151209T084507D main/amd64,main/i386,main/arm64,contrib/amd64,contrib/i386,contrib/arm64,non-free/i386
+occurrences: {}
+any_atoms 0 qual_with_provider 0

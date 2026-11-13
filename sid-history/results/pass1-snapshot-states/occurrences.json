@@ -1,0 +1,102 @@
+{
+ "C4-qual-all": [
+  {
+   "first": "20140502T051225Z",
+   "last": "20140502T170550Z",
+   "states": 3,
+   "component": "main",
+   "index_arch": "amd64",
+   "Package": "google-mock",
+   "Version": "1.7.0-3",
+   "Architecture": "amd64",
+   "field": "Depends: python:all, libgtest-dev (>= 1.6.0)  [atom python:all]",
+   "matches": []
+  },
+  {
+   "first": "20140502T051225Z",
+   "last": "20140502T170550Z",
+   "states": 3,
+   "component": "main",
+   "index_arch": "i386",
+   "Package": "google-mock",
+   "Version": "1.7.0-3",
+   "Architecture": "i386",
+   "field": "Depends: python:all, libgtest-dev (>= 1.6.0)  [atom python:all]",
+   "matches": []
+  }
+ ],
+ "C1-provides-qualified": [
+  {
+   "first": "20211208T205954Z",
+   "last": "20211210T151944Z",
+   "states": 8,
+   "component": "main",
+   "index_arch": "amd64",
+   "Package": "node-lodash",
+   "Version": "4.17.21+dfsg+~cs8.31.198.20210220-4",
+   "Architecture": "all",
+   "field": "Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]",
+   "matches": []
+  },
+  {
+   "first": "20211208T205954Z",
+   "last": "20211210T151944Z",
+   "states": 8,
+   "component": "main",
+   "index_arch": "arm64",
+   "Package": "node-lodash",
+   "Version": "4.17.21+dfsg+~cs8.31.198.20210220-4",
+   "Architecture": "all",
+   "field": "Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]",
+   "matches": []
+  },
+  {
+   "first": "20211208T205954Z",
+   "last": "20211210T151944Z",
+   "states": 8,
+   "component": "main",
+   "index_arch": "i386",
+   "Package": "node-lodash",
+   "Version": "4.17.21+dfsg+~cs8.31.198.20210220-4",
+   "Architecture": "all",
+   "field": "Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]",
+   "matches": []
+  },
+  {
+   "first": "20211211T152306Z",
+   "last": "20211212T154235Z",
+   "states": 5,
+   "component": "main",
+   "index_arch": "amd64",
+   "Package": "node-pegjs",
+   "Version": "0.10.0+~0.10.3-1",
+   "Architecture": "all",
+   "field": "Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]",
+   "matches": []
+  },
+  {
+   "first": "20211211T152306Z",
+   "last": "20211212T154235Z",
+   "states": 5,
+   "component": "main",
+   "index_arch": "arm64",
+   "Package": "node-pegjs",
+   "Version": "0.10.0+~0.10.3-1",
+   "Architecture": "all",
+   "field": "Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]",
+   "matches": []
+  },
+  {
+   "first": "20211211T152306Z",
+   "last": "20211212T154235Z",
+   "states": 5,
+   "component": "main",
+   "index_arch": "i386",
+   "Package": "node-pegjs",
+   "Version": "0.10.0+~0.10.3-1",
+   "Architecture": "all",
+   "field": "Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]",
+   "matches": []
+  }
+ ]
+}

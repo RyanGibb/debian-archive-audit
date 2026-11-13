@@ -1,0 +1,10 @@
+== C1-provides-qualified: 6 distinct occurrences
+  20211208T205954Z..20211210T151944Z (8 states) main/amd64 node-lodash 4.17.21+dfsg+~cs8.31.198.20210220-4 [all] Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]
+  20211208T205954Z..20211210T151944Z (8 states) main/arm64 node-lodash 4.17.21+dfsg+~cs8.31.198.20210220-4 [all] Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]
+  20211208T205954Z..20211210T151944Z (8 states) main/i386 node-lodash 4.17.21+dfsg+~cs8.31.198.20210220-4 [all] Provides: node-lodash-cli (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-lodash-es (= 4.17.21+dfsg+~cs8.31.198.20210220-4), node-types-lodash (= 4.17.21+dfsg+~cs8.31.198.20210220-4), nodejs:any  [atom nodejs:any]
+  20211211T152306Z..20211212T154235Z (5 states) main/amd64 node-pegjs 0.10.0+~0.10.3-1 [all] Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]
+  20211211T152306Z..20211212T154235Z (5 states) main/arm64 node-pegjs 0.10.0+~0.10.3-1 [all] Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]
+  20211211T152306Z..20211212T154235Z (5 states) main/i386 node-pegjs 0.10.0+~0.10.3-1 [all] Provides: libjs-pegjs, node-types-pegjs (= 0.10.3), nodejs:any, pegjs  [atom nodejs:any]
+== C4-qual-all: 2 distinct occurrences
+  20140502T051225Z..20140502T170550Z (3 states) main/amd64 google-mock 1.7.0-3 [amd64] Depends: python:all, libgtest-dev (>= 1.6.0)  [atom python:all]
+  20140502T051225Z..20140502T170550Z (3 states) main/i386 google-mock 1.7.0-3 [i386] Depends: python:all, libgtest-dev (>= 1.6.0)  [atom python:all]

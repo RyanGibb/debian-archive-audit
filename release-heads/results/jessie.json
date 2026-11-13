@@ -1,0 +1,52 @@
+{
+ "counts": {
+  "Essential:yes": 73,
+  "essential_stanzas": 73,
+  "ma:allowed": 112,
+  "ma:foreign": 2734,
+  "ma:same": 12557,
+  "multi_version_keys": 223,
+  "qual:Depends:any": 2386,
+  "qual:Depends:explicit": 3,
+  "qual:Recommends:any": 6,
+  "qual:Recommends:explicit": 9,
+  "qual:Suggests:any": 2,
+  "qual_unconf:Recommends:armhf": 3,
+  "self_conflict_name:Breaks": 22,
+  "self_conflict_name:Conflicts": 79,
+  "self_conflict_virtual:Breaks": 1165,
+  "self_conflict_virtual:Conflicts": 2859,
+  "stanzas": 88871
+ },
+ "examples": {
+  "qual_unconf:Recommends:armhf": [
+   "sunxi-tools 1.2-2 amd64: u-boot:armhf",
+   "sunxi-tools 1.2-2 arm64: u-boot:armhf",
+   "sunxi-tools 1.2-2 i386: u-boot:armhf"
+  ],
+  "self_conflict_name:Breaks": [
+   "ampache 3.6-rzb2752+dfsg-5 all: ampache (<< 3.6-rzb2752+dfsg-2)",
+   "gdal-bin 1.10.1+dfsg-8+b3 amd64: gdal-bin (<< 1.10.0-0~)",
+   "clang-3.4 1:3.4.2-13 amd64: clang-3.4 (<< 1:3.4.2-7~exp1)",
+   "clang-3.5 1:3.5-10 amd64: clang-3.5 (<< 1:3.5~+rc1-3~exp1)"
+  ],
+  "self_conflict_name:Conflicts": [
+   "crafty-books-medium 1.0.debian1-2 all: crafty-books-medium",
+   "ardour 1:2.8.16+git20131003+dfsg1-1~deb8u1 amd64: ardour",
+   "automake 1:1.14.1-4+deb8u1 all: automake (<< 1:1.4-p5-1)",
+   "python-ball 1.4.2+20140406-1+b2 amd64: python-ball (<< 1.4.2+20140406-1+b2)"
+  ],
+  "self_conflict_virtual:Breaks": [
+   "pidgin-skype-common 20140930+svn665+dfsg-1 amd64: skype4pidgin",
+   "ruby-googlecharts 1.6.8-2 all: libgooglecharts-ruby (<< 1.6.8-1~)",
+   "ruby-googlecharts 1.6.8-2 all: libgooglecharts-ruby1.8 (<< 1.6.8-1~)",
+   "pidgin-skype-common 20140930+svn665+dfsg-1 i386: skype4pidgin"
+  ],
+  "self_conflict_virtual:Conflicts": [
+   "libnucleotidelikelihoodcore0 1.8.0-1 amd64: beast-mcmc-lib",
+   "festvox-rablpc16k 1.4.0-2 all: festvox-16k",
+   "festvox-rablpc8k 1.4.0-2 all: festvox-8k",
+   "geoip-database-contrib 1.17+nmu1 all: geoip-database"
+  ]
+ }
+}

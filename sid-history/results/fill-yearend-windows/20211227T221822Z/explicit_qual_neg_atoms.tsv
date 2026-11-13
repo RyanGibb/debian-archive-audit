@@ -1,0 +1,8 @@
+Conflicts	main	amd64	libc6-i386	2.33-1	amd64	libc6-i386:x32
+Conflicts	main	amd64	libc6-i386	2.33-1	amd64	libc6-x32:i386
+Conflicts	main	amd64	libc6-x32	2.33-1	amd64	libc6-i386:x32
+Conflicts	main	amd64	libc6-x32	2.33-1	amd64	libc6-x32:i386
+Conflicts	main	i386	libc6-amd64	2.33-1	i386	libc6-amd64:x32
+Conflicts	main	i386	libc6-amd64	2.33-1	i386	libc6-x32:amd64
+Conflicts	main	i386	libc6-x32	2.33-1	i386	libc6-amd64:x32
+Conflicts	main	i386	libc6-x32	2.33-1	i386	libc6-x32:amd64

@@ -1,0 +1,499 @@
+===== sid  (12 indices)
+  :any alternative counts (unique binary stanzas, arch:all counted once):
+    Breaks            0 alternatives in      0 stanzas
+    Conflicts         2 alternatives in      1 stanzas
+    Replaces         10 alternatives in      3 stanzas
+    Depends       16028 alternatives in  15854 stanzas
+    Pre-Depends       0 alternatives in      0 stanzas
+    Recommends       78 alternatives in     71 stanzas
+    Suggests         36 alternatives in     36 stanzas
+    Enhances          0 alternatives in      0 stanzas
+    Provides          0 alternatives in      0 stanzas
+  other qualifiers:
+    Conflicts    :amd64      4
+    Conflicts    :i386       4
+    Conflicts    :x32        8
+    Depends      :amd64      9
+    Depends      :arm64      2
+    Depends      :armel      2
+    Depends      :armhf      3
+    Depends      :i386       3
+    Depends      :mips       2
+    Depends      :mips64     2
+    Depends      :mips64el   2
+    Depends      :mips64r6   2
+    Depends      :mips64r6el 2
+    Depends      :mipsel     2
+    Depends      :mipsr6     2
+    Depends      :mipsr6el   2
+    Depends      :powerpc    2
+    Depends      :ppc64el    2
+    Depends      :riscv64    2
+    Depends      :s390x      2
+    Recommends   :amd64      5
+    Recommends   :arm64      2
+    Recommends   :armhf      3
+    Recommends   :i386       26
+  :any Breaks/Conflicts/Replaces hits (per index arch): 36
+  -- [amd64] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang:any (<< 1:29.1.2+dfsg-1)   target: erlang   => DIVERGENT
+       named   : erlang 1:29.1.2+dfsg-1 arch=all M-A=foreign (main)
+  -- [amd64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+  -- [arm64] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang:any (<< 1:29.1.2+dfsg-1)   target: erlang   => DIVERGENT
+       named   : erlang 1:29.1.2+dfsg-1 arch=all M-A=foreign (main)
+  -- [arm64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+  -- [i386] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-doc 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html, erlang-mode (<< 1:27.0)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-src (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:29.1.2+dfsg-1 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang:any (<< 1:29.1.2+dfsg-1)   target: erlang   => DIVERGENT
+       named   : erlang 1:29.1.2+dfsg-1 arch=all M-A=foreign (main)
+  -- [i386] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base:any (<< 1:29.1.2+dfsg-1)   target: erlang-base   => consistent
+       named   : erlang-base 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-dev:any (<< 1:29.1.2+dfsg-1)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:29.1.2+dfsg-1 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:29.1.2+dfsg-1 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:29.1.2+dfsg-1), erlang-base:any (<< 1:29.1.2+dfsg-1), erlang-base-hipe:any, erlang-dev:any (<< 1:29.1.2+dfsg-1), erlang-erl-docgen:any, erlang-examples (<< 1:29.1.2+dfsg-1), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:29.1.2+dfsg-1), erlang-x11 (<< 1:29.1.2+dfsg-1)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+===== trixie  (12 indices)
+  :any alternative counts (unique binary stanzas, arch:all counted once):
+    Breaks            0 alternatives in      0 stanzas
+    Conflicts         2 alternatives in      1 stanzas
+    Replaces         10 alternatives in      3 stanzas
+    Depends       14417 alternatives in  14244 stanzas
+    Pre-Depends       0 alternatives in      0 stanzas
+    Recommends       81 alternatives in     74 stanzas
+    Suggests         30 alternatives in     30 stanzas
+    Enhances          0 alternatives in      0 stanzas
+    Provides          0 alternatives in      0 stanzas
+  other qualifiers:
+    Conflicts    :amd64      4
+    Conflicts    :i386       4
+    Conflicts    :x32        8
+    Depends      :amd64      9
+    Depends      :arm64      2
+    Depends      :armel      2
+    Depends      :armhf      3
+    Depends      :i386       3
+    Depends      :mips       2
+    Depends      :mips64     2
+    Depends      :mips64el   2
+    Depends      :mips64r6   2
+    Depends      :mips64r6el 2
+    Depends      :mipsel     2
+    Depends      :mipsr6     2
+    Depends      :mipsr6el   2
+    Depends      :powerpc    2
+    Depends      :ppc64el    2
+    Depends      :riscv64    2
+    Depends      :s390x      2
+    Recommends   :amd64      5
+    Recommends   :arm64      2
+    Recommends   :armhf      3
+    Recommends   :i386       18
+  :any Breaks/Conflicts/Replaces hits (per index arch): 36
+  -- [amd64] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang   => DIVERGENT
+       named   : erlang 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign (main)
+  -- [amd64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+  -- [arm64] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang   => DIVERGENT
+       named   : erlang 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign (main)
+  -- [arm64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+  -- [i386] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-doc 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-src (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang   => DIVERGENT
+       named   : erlang 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign (main)
+  -- [i386] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-base   => consistent
+       named   : erlang-base 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:27.3.4.1+dfsg-1+deb13u3 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:27.3.4.1+dfsg-1+deb13u3 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-base-hipe:any, erlang-dev:any (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-erl-docgen:any, erlang-examples (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:27.3.4.1+dfsg-1+deb13u3), erlang-x11 (<< 1:27.3.4.1+dfsg-1+deb13u3)
+     relation: erlang-erl-docgen:any   target: erlang-erl-docgen   => NO-TARGET
+===== bookworm  (12 indices)
+  :any alternative counts (unique binary stanzas, arch:all counted once):
+    Breaks            0 alternatives in      0 stanzas
+    Conflicts         2 alternatives in      1 stanzas
+    Replaces         10 alternatives in      3 stanzas
+    Depends       12831 alternatives in  12659 stanzas
+    Pre-Depends       0 alternatives in      0 stanzas
+    Recommends       66 alternatives in     58 stanzas
+    Suggests         22 alternatives in     22 stanzas
+    Enhances          0 alternatives in      0 stanzas
+    Provides          0 alternatives in      0 stanzas
+  other qualifiers:
+    Conflicts    :amd64      2
+    Conflicts    :i386       2
+    Conflicts    :x32        4
+    Depends      :amd64      3
+    Depends      :arm64      2
+    Depends      :armel      3
+    Depends      :armhf      3
+    Depends      :i386       3
+    Depends      :mips       2
+    Depends      :mips64     2
+    Depends      :mips64el   2
+    Depends      :mips64r6   2
+    Depends      :mips64r6el 2
+    Depends      :mipsel     2
+    Depends      :mipsr6     2
+    Depends      :mipsr6el   2
+    Depends      :powerpc    2
+    Depends      :ppc64el    2
+    Depends      :s390x      2
+    Recommends   :amd64      3
+    Recommends   :armhf      3
+    Recommends   :i386       20
+  :any Breaks/Conflicts/Replaces hits (per index arch): 36
+  -- [amd64] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang   => DIVERGENT
+       named   : erlang 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign (main)
+  -- [amd64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [amd64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [amd64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-erl-docgen   => consistent
+       named   : erlang-erl-docgen 1:25.2.3+dfsg-1+deb12u4 arch=amd64 M-A=allowed (main)
+  -- [arm64] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang   => DIVERGENT
+       named   : erlang 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign (main)
+  -- [arm64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [arm64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [arm64] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-erl-docgen   => consistent
+       named   : erlang-erl-docgen 1:25.2.3+dfsg-1+deb12u4 arch=arm64 M-A=allowed (main)
+  -- [i386] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base:any (<< 1:13.b.4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-doc 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Conflicts: erlang-base:any (<< 1:13.b.4), erlang-base-hipe:any, erlang-doc-html
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-examples 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-src (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base:any (<< 1:12.b.1-dfsg-2)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-mode 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=no
+     Replaces: erlang-base:any (<< 1:12.b.1-dfsg-2), erlang-base-hipe:any
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang   => DIVERGENT
+       named   : erlang 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign (main)
+  -- [i386] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-base   => consistent
+       named   : erlang-base 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-base-hipe:any   target: erlang-base-hipe   => NO-TARGET
+  -- [i386] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-dev   => consistent
+       named   : erlang-dev 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)
+  -- [i386] main erlang-src 1:25.2.3+dfsg-1+deb12u4 arch=all M-A=foreign
+     Replaces: erlang:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-base-hipe:any, erlang-dev:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4), erlang-examples (<< 1:25.2.3+dfsg-1+deb12u4), erlang-mode (<< 1:12.b.1-dfsg-2), erlang-nox (<< 1:25.2.3+dfsg-1+deb12u4), erlang-x11 (<< 1:25.2.3+dfsg-1+deb12u4)
+     relation: erlang-erl-docgen:any (<< 1:25.2.3+dfsg-1+deb12u4)   target: erlang-erl-docgen   => consistent
+       named   : erlang-erl-docgen 1:25.2.3+dfsg-1+deb12u4 arch=i386 M-A=allowed (main)

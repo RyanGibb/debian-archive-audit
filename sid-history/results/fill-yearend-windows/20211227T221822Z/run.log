@@ -1,0 +1,3 @@
+2026-11-07T19:38:27 start: 6 timestamps 20211227T221822Z..20211231T092922Z
+2026-11-07T19:38:51 retry https://snapshot.debian.org/archive/debian/20211231T092922Z/dists/sid/main/binary-amd64/Packages.diff/Index: HTTP 504; sleeping 5s
+2026-11-07T19:39:46 done at 20211231T092922Z req={'requests': 73, 'bytes': 1541605, 'retries': 1, '404': 0} offline_misses=0
